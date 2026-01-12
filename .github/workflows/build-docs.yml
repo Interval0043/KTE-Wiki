@@ -2,7 +2,7 @@ name: Build documentation
 
 on:
   push:
-    branches: ["main"]
+    branches: ["master"]
   workflow_dispatch:
 
 permissions:
@@ -11,9 +11,10 @@ permissions:
   pages: write
 
 env:
-  INSTANCE: 'Writerside/cfg/build-groups.xml'
-  DOCKER_VERSION: '2025.11.8530'
+  INSTANCE: 'Writerside/kte'
+  DOCKER_VERSION: 'latest'
   IS_GROUP: 'true'
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -51,6 +52,8 @@ jobs:
         with:
           instance: ${{ env.INSTANCE }}
           docker-version: ${{ env.DOCKER_VERSION }}
+          is-group: ${{ env.IS_GROUP }}
+          artifact: ${{ steps.define-ids.outputs.artifact }}
 
       - name: Save artifact with build results
         uses: actions/upload-artifact@v4
