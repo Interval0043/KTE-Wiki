@@ -11,7 +11,7 @@ permissions:
   pages: write
 
 env:
-  INSTANCE: 'Writerside/kte'
+  INSTANCE: 'Writerside/build-groups.xml'
   DOCKER_VERSION: '2025.11.8530'
   IS_GROUP: 'true'
 jobs:
