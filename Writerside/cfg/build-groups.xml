@@ -4,8 +4,8 @@
         xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-groups.xsd"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <build-group name="kte">
-        <instance instance-id="TFCT" alias="TFCT" path="/TFCT"/>
-        <instance instance-id="EOT" alias="EOT" path="/EOT"/>
+        <instance instance-id="TFCT" alias="TFCT" path="/KTE-Wiki/TFCT"/>
+        <instance instance-id="EOT" alias="EOT" path="/KTE-Wiki/EOT"/>
     </build-group>
 
 </build-groups>
