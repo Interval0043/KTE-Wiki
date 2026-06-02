@@ -15,6 +15,7 @@
 > - Height: 4 ft., 5 in.
 > - Weight: 250 lbs.
 > - Build: "Musclegut" (Muscular & Chubby)
+> - Author: [[Psychotropicz, Crazer]]
 
 ## Basics
 

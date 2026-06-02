@@ -18,6 +18,7 @@
 > - **Height**
 > - **Weight**
 > - *Current Occupation*
+> - **Author**
 
 ## History
 
@@ -50,6 +51,8 @@ This section is completely up to you, even the header names. I ([[Interval (Auth
 > - Height: 5 ft., 8 in.
 > - Weight: 150 lbs.
 > - Current Occupation: camp counselor (real)
+> - author: [[Interval (Author)]]
+> 
 > ## History
 > he's just a guy
 > doing cool guy things
