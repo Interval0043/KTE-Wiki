@@ -1,3 +1,10 @@
+---
+aliases:
+  - Jacob
+tags:
+  - Will-Family
+---
+
 > [!quote]
 > **God damn it, I swear-I swear I'll kill all of you.**
 > $\to$ Jacob, watching in fury and utter dismay as the malice was released by [[Dire Will|Dire]].
@@ -11,7 +18,7 @@
 > - Sexuality: Gay
 > - Gender: Male
 > - Languages: English & Japanese
-> - Species: [[Sprinklekit]] (Half Strawberry & Velvian)
+> - Species: [[Sprinklekit]] (Half Strawberry & Half Velvian)
 > - Height: 6 ft., 2 in.
 > - Weight: 225 lbs
 > - Author: [[Psychotropicz, Crazer]]
