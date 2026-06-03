@@ -14,9 +14,9 @@ One very crucial detail is that most sprinklekits each have unique fur patterns 
 
 A Sprinklekit’s lifespan can vary between 25,000-30,000 years of age before passing of natural causes, making them one of the more knowledgeable species. Sprinklekit’s follow the same physical and mental development process any sapient being does, but at a decelerated rate; As their brain develops for over 2,000-5,000 years allowing them to advance at points beyond what humans could ever imagine. In these millennia, the soul is much more complex, Sprinklekits in their prime become a machine-like in terms of computing power, able to learn concepts with ease (mental disabilities affect this, though).
 
-> [!Physical Aging]
->
-> Newborn < Infant < Toddler (10-50 years), Childhood (50-500years), Adolescence (500-1000), Adulthood (1000+)
+ [!Physical Aging]
+
+Newborn < Infant < Toddler (10-50 years), Childhood (50-500years), Adolescence (500-1000), Adulthood (1000+)
 
 ## Souls
 
