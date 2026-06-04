@@ -14,13 +14,13 @@ tags:
 > - Nicknames:
 > 	- Jay-Jay ([[Teegan Astral]])
 > 	- Barbecue / BBQ ([[Will Family]])
-> - Age: 16
+> - Age: 755
 > - Sexuality: Gay
 > - Gender: Male
 > - Languages: English & Japanese
 > - Species: [[Sprinklekit]] (Half Strawberry & Half Velvian)
 > - Height: 6 ft., 2 in.
-> - Weight: 225 lbs
+> - Weight: 210 lbs
 > - Author: [[Psychotropicz, Crazer]]
 
 ## History
