@@ -28,13 +28,13 @@ Raised and welcomed into loving arms the [[Will Family]], Jacob is a young boy t
 
 ## Personality
 
-Jacob is an adventurous, outspoken individual who often speaks callously. He swears pretty often and usually doesn't go by names for anyone (e.g. saying things like "Hey you", or what's generally considered to be rude), speaking quickly and breathlessly depending on the mood he feels. He does this because of his subjection to situations with little breathing room, and didn’t have time to think for politeness. He is very direct when he needs to be. He uses a lot of contractions like "You're" or "Ain't". 
+Jacob is an adventurous, outspoken individual who often speaks callously. He swears pretty often and usually doesn't go by names for anyone (e.g. saying things like "Hey you", or what's generally considered to be rude), speaking quickly and breathlessly depending on the mood he feels. He does this because of his subjection to situations with little breathing room, and didn’t have time to think for politeness. He is very direct when he needs to be, and uses a lot of contractions like "You're" or "Ain't" to sound quicker.
 
 He finds fulfillment in exploration and the liberation of others, coming from the stories told of the world by [[Counter Will]]. His liberation comes from [[Draconic Will|Draconic]], and while not often at all holding a “moral high-horse”, he hates seeing others being bossed around or controlled.
 
-Jacob Will, at first comes off as a rude and disruptive induvidual with a ruthless and sometimes oppressive demeanor, often overly unprofessional in any setting. It's hard for him to be not an ass, but it's also hard for him to be a complete jerk, though.
+Jacob Will, at first comes off as rude and disruptive induvidual with a oppressive demeanor, called overly unprofessional in any setting. It's hard for him to be not an ass, but it's also hard for him to be a complete jerk, though. He has a hard time understanding what choice of words he should use, which is another reason why he comes off so unprofessional. He also just doesn't like being spoken over, and just has a lot of things on his mind he needs to get out.
 
-Despite his attempts of suppressing of his own anger, he often finds himself saying or doing things he doesn’t actually mean (His exposure to horrible things at his age can make him quite unempathetic towards others). 
+Despite his attempts of suppressing of his own anger, he often finds himself saying or doing things he doesn’t actually mean (His exposure to horrible things at his age can make him quite abrasive towards others).
 
 His personality shares similarities to his cousin, [[Draconic Will]]. He’s mildly dis-associative with his family, friends, and even his own lover. He is also strategic, rebellious, and calculated in battle. He doesn't have the best teamwork with others, but does enough to not be a hinderance. What defines his rebllious nature in battle is that he often doesn't pull punches, and often strikes first, priortizing off-guard attacks to get an upper hand.
 
