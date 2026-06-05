@@ -45,6 +45,14 @@ Trying to manipulate a soul trait is extremely difficult in most circumstances, 
 
 ## Bodily Structure
 
+### Auralytes
+
+When a Sprinklekit is born, every bit of its body: bones, lattice scaffolds, “muscle” tension fields, nerves, is fabricated from the hyper‑versatile magical cell line called the auralyte. You’ll see them virtually everywhere in a sprinklekit’s body, embedded in the eyes, chest, inner ears, and sometimes fur (They often radiate a bioluminescent glow in these specified regions).
+
+They appear to be small, crystalline concentrations of magic that are in the shape of a 3-dimensional prism, with a clear, smooth icy surface.
+
+They rapidly regenerate damaged regions, regrow lost parts, and harden into bone-like formations when necessary. They also quickly flash-freeze harmful microrgamism that enter their ody.
+
 ### Bones
 
 A sprinklekit’s bone structure is comprised of dense, but brittle bone strudel that is modified by magic in order to resist extremely powerful blows. The Sprinklekit’s bone structure’s purpose evolution, as it advanced overtime was to minimize the amount of breaks; the trade off being that dislocations or small fractures were still prevalent, as these bones resist shattering by dispersing impact and self-repairing small cracks through the use of the blood inside of their body. Magical coding inside allows for the body to replicate and attach itself to the bone structure, thus makomb the regenerative process much more easier to perform. 
