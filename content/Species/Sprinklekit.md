@@ -51,7 +51,7 @@ When a Sprinklekit is born, every bit of its body: bones, lattice scaffolds, “
 
 They appear to be small, crystalline concentrations of magic that are in the shape of a 3-dimensional prism, with a clear, smooth icy surface.
 
-They rapidly regenerate damaged regions, regrow lost parts, and harden into bone-like formations when necessary. They also quickly flash-freeze harmful microrgamism that enter their ody.
+They rapidly regenerate damaged regions, regrow lost parts, and harden into bone-like formations when necessary. They also quickly flash-freeze harmful microrgamism that enter their body.
 
 ### Bones
 
