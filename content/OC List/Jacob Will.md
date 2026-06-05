@@ -152,7 +152,7 @@ These stimulants are highly potent, with a few being enough to trigger his Manif
 
 ### Destiny Core
 
-A legendary object Jacob’s soul manifested in the immediate aftermath of [[Dire Will|Dire]]’s death; This is an intense byproduct of Jacob’s devotion to bringing down the evil plagued and tortured thousands of worlds at a time. He can bring it in and out of existence, and for good reason: He wants to keep it hidden, because he knows what he has is what everyone would die for to have.
+A legendary object Jacob’s soul manifested in the immediate aftermath of [[Dire Will|Dire]]’s death; This is an intense byproduct of Jacob’s devotion to bringing down the evil that plagued and tortured thousands of worlds at a time. He can bring it in and out of existence, and for good reason: He wants to keep it hidden, because he knows what he has is what everyone would die for to have.
 
 This orb can be gazed into only by the wrathful eyes of the holder himself. What he sees is an enormous vision of all [[Malice]], stretching past a seemingly infinite distance in all directions, functioning as a sort of anomalous “map” that gives him a real-time surveillance of [[Malediction|Maledictions]] from impossible distances.
 
