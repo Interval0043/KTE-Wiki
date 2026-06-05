@@ -137,17 +137,6 @@ Once this rush of magic ends, Jacob is much more likely to need sustenance in or
 
 Jacob is able to create powerful “Charges” of magic behind his back, pairing both auralytes and his knowledge in fire magic. While using this technique, a very loud queue can be heard before he actually uses is, that being the very loud sound of fire (And the loud hum of energy charging up) crackling. This gives him a very, very powerful boost that propels him so fast it can rocket him to speeds as fast as light. As a result of his family traits, (Mainly very small amounts of WAR) his body shifts into a ‘Warp-Driven’ state which allows for his body to remain tangible, but also allow for light-speed travel. In essence, his mind and body is influenced by a reality warping force to allow him to react even in such speeds, though trying to change the direction he’s going in is significantly harder.
 
-### Purgatory's Assault
-
-
-A technique that Jacob secretly learned and developed behind [[Dire Will|Dire]]’s back during the very back of his mind, developed from concentrating some of [[Dire Will|Dire]]’s own magic during possession. Jacob can release a massive swarm of entities called ‘Famine’, which are firey, fleshy entities that connect to Jacob’s tail by long red veins of blood. These entities are ovular, rounded mushes with their front having a sharp array of teeth akin to a shark, while the end of the mass is where the veins connect to the tail.
-
-Jacob releases this swarm from his tail using a concentrated charge of magic, similar to the “Rush Of Extremity” technique he uses.
-
-These creatures can vary in size, and are capable of flight due to the magical veins. When the veins are cut, these creatures fall onto the ground and become essentially bear traps for the opponent to step on.
-
-Their composition is comprised entirely of hardened fire magic (and can vary once again), with small traces of impossibility magic lingering, mostly setting in when they land on the ground, slightly altering the surface to make the opponent trip or fall into this traps.
-
 ### Impossible Rifts
 
 Jacob can create portals using small amounts of impossibility magic, which he figured out during his tragic journey through the shard-gathering of [[Dire Will]]. Jacob had quickly caught on the technique of how to do this through allowing [[Dire Will|Dire]]'s possession of his body temporarily, able to grasp the shared consciousness and recall his exact processes. 
