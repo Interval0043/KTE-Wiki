@@ -19,7 +19,7 @@ tags:
 > - Gender: Male
 > - Languages: English & Japanese
 > - Species: [[Sprinklekit]] (Half Strawberry & Half Velvian)
-> - Height: 6 ft., 2 in.
+> - Height: 6 ft, 2 in.
 > - Weight: 210 lbs
 > - Author: [[Psychotropicz, Crazer]]
 
