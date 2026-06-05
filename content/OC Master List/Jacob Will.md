@@ -50,7 +50,7 @@ Jacob has red, garnet colored eyes and messy, unkempt hair. He also wears a belt
 
 Jacob’s soul was formed in the deepest spires of the Velvian Crags alongside his sister, where his soul would later erupt, emitting ferocious and unstable flames, his soul burning dark garnet.
 
-This volatile trait would reach its absolute after [[Dire Will|Dire]] put an intense physical and mental strain on Jacob for a long period (to the point where he's capable of empowering his magic from his own emotions), which in turn made his magic have the potential to be very potent, but left his endurance limited, as he can overdo himself if he cannot control it.
+This volatile trait would reach its absolute after [[Dire Will|Dire]] put an intense physical and mental strain on Jacob for a long period (to the point where he's capable of empowering his magic from his own emotions), which in turn made his magic strong, but left his endurance limited, as he can overdo himself if he cannot control it.
 
 If he is in severely injured, his magic is able to overcome his mind and body; transforming him into a manifestation of Wrath itself.
 
