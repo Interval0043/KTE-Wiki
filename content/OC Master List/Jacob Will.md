@@ -118,14 +118,11 @@ Among its many uses there's that of slight durability negation and erasure of sp
 
 ## Abilities
 
-### Manifestation of Wrath
-
-> [!quote]
-> *Amalgamated Calamities*
+### Manifestation of Wrath / Amalgamated Calamities
 
 Jacob’s inner fury can channel into a quick burst of energy, paired with a serious spike in both emotional magical intensity. His soul burns like a raging hellfire, his flames tearing through the damned with a sudden outburst, the crackles and snapping turning to nearly shockwave inducing explosions that spread at every given second, akin to unstable fissures of an active geyser.
 
-His mere emotions manifest the glow in his eyes, which burn in the same crimson light within his soul. Crimson colorations in his body forming where auralytes would laminate themselves through magic, overcome by Jacob’s need to survive, Or to fulfill his path to obliterate whatever may be in his path. In this sort of ‘Transformation’, his soul is altered into a sort of ‘Emergency response’ where auraltyes perform at a far higher rate than they should.
+His mere emotions manifest the glow in his eyes, which burn in the same crimson light within his soul. Crimson coloration in his body forming where auralytes would laminate themselves through magic, overcome by Jacob’s need to survive, Or to fulfill his path to obliterate whatever may be in his path. In this sort of ‘Transformation’, his soul is altered into a sort of ‘Emergency response’ where auraltyes perform at a far higher rate than they should.
 
 Jacob’s body and mind are at a far higher function, tasked to cease whatever threat is ahead - Pain is lessened, alertness (reaction time) is heightened,  regeneration is noticeably faster (with limbs growing back within a minute or less), and allowing himself to see in heat vision. Not to mention his hearing is significantly heightened, but not sensitive.
 
@@ -167,6 +164,6 @@ These stimulants are highly potent, with a few being enough to trigger his Manif
 
 Jacob used to draw traditionally and digitally, but has since lost his artistic vision. He thinks that he found better ways to use it, weaponizing it with his excellent strategies.
 
-He plays video games (Mostly tower defense) a lot and smokes with Teegan, though a little less due to him having his guard raised most of the time, which makes him prone to have bad trips.
+He plays video games (Mostly tower defense) a lot and smokes with [[Teegan Astral|Teegan]], though a little less due to him having his guard raised most of the time, which makes him prone to have bad trips.
 
 He likes eating huge, nutritious meals such as different forms of meats, usually tough seasoned steak. He also really likes most kinds of soup for some reason. He likes barbecue, too.
