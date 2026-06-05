@@ -164,9 +164,17 @@ However, gazing into this orb requires for him to charge the orb with impossibil
 
 - Increased resistance to malice, general evil, or instability to himself.
 - Gives near-immunity to psychological effects relating to direct manipulation.
-- Increased resistance to having magic siphoned.
+- Increased resistance to having magic siphoned, leaves behind harmful, tainted magic when extracted.
 - Above is amplified against beings categorized as [[God|Gods]].
 - Controllable; allows for Rage Stimulants.
+
+### Unrivaled Defense
+
+With presence of Dire Will, his defense was vastly enhanced to combat immense physical trauma. Dire completely overrode the hard-wired traits blessed by the [[Will Family]], modifying one to become far less complex for Jacob to use.
+
+Jacob’s blood acts similarly to oobleck, along with non-biological components (such as magic), further reducing the damage taken further. Impossibility magic takes the kinetic force from an attack and erases a part of it, leaving the rest of the force to be dispersed throughout his body.
+
+If damaged, Jacob’s blood can spread across his body and harden.
 
 ## Trivia
 
