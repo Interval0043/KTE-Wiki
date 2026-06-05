@@ -80,7 +80,10 @@ The sprinklekit’s calcaneus (heel bone) is not raised above the ground unlike 
 ### Other
 
 * Sprinklekits have an anomalous throat/esophagus that functions even without the organs present, leading to an “End” that seems to disintegrate food particles into magic.
-* All senses come from the Sprinklekit’s soul - A very important thing about this is that with given time, they can learn to amplify or lessen their own senses.
+* All senses of a sprinklekit improve with age, and never dampen down until late adulthood. Even then, a healthy elder sprinklekit's body is still above an adolescent at its weakest.
+* Biologically, male and female sprinklekits have no difference in strength or intelligence, only reproductive organs.
+* Sprinklekits feel pain much less than other species, but are much more sensitive to pleasure in distict areas (Such as the back of the ears, cheeks, or the underside of their neck).
+* Sprinklekits use their biolumiscence to locate one another during low-visibility envoirments.
 
 ## Cryo-Phylaxis System
 
