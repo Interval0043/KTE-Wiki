@@ -1,8 +1,6 @@
 ---
 aliases:
   - Jacob
-tags:
-  - Will-Family
 ---
 
 > [!quote]
@@ -19,9 +17,10 @@ tags:
 > - Gender: Male
 > - Languages: English & Japanese
 > - Species: [[Sprinklekit]] (Half Strawberry & Half Velvian)
-> - Height: 6 ft, 2 in.
+> - Height: 6 ft, 2 in
 > - Weight: 210 lbs
 > - Author: [[Psychotropicz, Crazer]]
+> - Applicable Groups: [[Will Family]]
 
 ## History
 
@@ -67,7 +66,17 @@ Jacob is capable of exerting enough force equivalent enough to significantly dam
 
 ### Massively Hypersonic (+) Speeds & Reaction Time
 
-Jacob can both run and fly at speeds varying from Mach 1000 - 8810.2, (767,269 mi/hr - 6,706,166 mi/hr), far beyond just the average human. Everything Jacob perceives is extremely, extremely slow, and can react before most can. Jacob can travel around entire planets in minutes or even less. Essentially, a human with such capabilities would be so incredibly fast, both in terms of perception and movement, that they would be able to perceive the lightning strike approaching and move out of its path before it could reach them. His attacks are relatively the same speed.
+Jacob can both run and fly at speeds varying from Mach 1000 - 8810.2, (767,269 mph - 6,706,166 mph), far beyond just the average human. Everything Jacob perceives is extremely, extremely slow, and can react before most can. Jacob can travel around entire planets in minutes or even less. Essentially, a human with such capabilities would be so incredibly fast, both in terms of perception and movement, that they would be able to perceive the lightning strike approaching and move out of its path before it could reach them. His attacks are relatively the same speed.
+
+## Battle Technique: Miragem Infernum
+
+In short, Miragem Infernum is a specialized fighting style taught by [[Draconic Will]] that blends illusion and aggression. It involves techniques like false strikes, to disguise far more devastating attacks, throw opponents off balance, or create openings. This style isn’t limited to just physical deception; it also incorporates clones, shadows, and sensory manipulation to further disorient the enemy.  His strategic mind allows him to lure opponents into game-changing positions, setting up calculated ambushes with near-flawless precision. His mastery of illusionary tactics, combined with his exceptional placement of magical attacks, makes him stealthy and formidable opponent, even in plain sight.
+
+While he doesn’t rely heavily on hand-to-hand combat, Jacob's skill with a knife, free hand, and agile footwork, gives him a variety of combat options. His hit-and-run tactics focus on efficiency, using speed and deception to maximize effectiveness. His illusions serve as both an escape route and a means to seize the upper hand.
+
+In essence, Jacob thrives on overwhelming his opponents with relentless pressure, setting them up for devastating ambushes while delivering fast, punishing strikes. His use of a knife and unarmed combat allows him to weave between attacks fluidly, something that would be much harder with a heavier weapon like a buster sword, should his initial plan fail.
+
+Jacob mainly uses knife for the more challenging, yet more rewarding aspects, while his legs and fists are used for stunning, or plain blunt force.
 
 ## Weaponry
 
@@ -95,15 +104,17 @@ Ghostly, mindless, fury-filled souls stolen from eternal maledictions that Jacob
 
 In those faces you can barely make out the faces of those who have suffered a fate worse than death. Those faces in question also pose a significant threat, as they will rip opponents apart with their horrific maw that leaves deep, lasting burns. They will also let out a horrific, deafening scream before they explode.
 
-## Battle Technique: Miragem Infernum
+### Brimstone Fire / Flames of Impossibility
 
-In short, Miragem Infernum is a specialized fighting style taught by [[Draconic Will]] that blends illusion and aggression. It involves techniques like false strikes, to disguise far more devastating attacks, throw opponents off balance, or create openings. This style isn’t limited to just physical deception; it also incorporates clones, shadows, and sensory manipulation to further disorient the enemy.  His strategic mind allows him to lure opponents into game-changing positions, setting up calculated ambushes with near-flawless precision. His mastery of illusionary tactics, combined with his exceptional placement of magical attacks, makes him stealthy and formidable opponent, even in plain sight.
+A fire which comes from the deepest, most shrouded parts of hell; Jacob’s soul thumps in resonance with the volatility that is his being. These catastrophic flames are unable to be put out through regular means. This is an anomalous flame harbored from a concentration of unholy/demonic energy, and can overpower opposing forms of magic, such as any magic in relation to goddesses or religion.
 
-While he doesn’t rely heavily on hand-to-hand combat, Jacob's skill with a knife, free hand, and agile footwork, gives him a variety of combat options. His hit-and-run tactics focus on efficiency, using speed and deception to maximize effectiveness. His illusions serve as both an escape route and a means to seize the upper hand.
+Jacob can very easily bring down entire societies to an apocalyptic extreme, where even non-organic matter is at stake; Metals are immediately liquefied, and other materials such as ceramic, glass, and fire retardants.
 
-In essence, Jacob thrives on overwhelming his opponents with relentless pressure, setting them up for devastating ambushes while delivering fast, punishing strikes. His use of a knife and unarmed combat allows him to weave between attacks fluidly, something that would be much harder with a heavier weapon like a buster sword, should his initial plan fail.
+Demonstrated to be much more potent than even [[Draconic Will|Draconic]]’s flames (If he were to rival his power at one point), Jacob has a higher form of flame, a higher-echelon to his heated weaponry:
 
-Jacob mainly uses knife for the more challenging, yet more rewarding aspects, while his legs and fists are used for stunning, or plain blunt force.
+The Flames of Impossibility. Had it been given another name, it could have been considered misleading. The vestige of Dire's magic still lingers on Jacob's body, allowing for a weakened- but potent imbuement of basic Impossibility magic into his flames. These flames do not "Burn", these flames do not "Freeze". They merely take away the presence of something, leaving but an empty gap in space behind.
+
+Among its many uses there's that of slight durability negation and erasure of space for closing distances. Also, if it is ever Jacob's wish to master such ability, the erasure of a "Target". By imbuing a "Target" to his magic, he could be able to target only one substance with these flames, having uses such as erasing all of a person's infection or diseases, but leaving them unscathed.
 
 ## Abilities
 

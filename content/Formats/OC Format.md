@@ -19,6 +19,7 @@
 > - **Weight**
 > - *Current Occupation*
 > - **Author**
+> - **Applicable Groups** (doesn't need to be included if there aren't any, see the OC Groups folder for the listed groups, or make your own if you need to)
 
 ## History
 
