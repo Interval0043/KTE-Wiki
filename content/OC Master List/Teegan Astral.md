@@ -12,8 +12,8 @@
 > - Languages: English, Japanese
 > - Gender: Male
 > - Species: [[Sprinklekit]] (Half Vanilla & Half Bluemoon)
-> - Height: 4 ft., 5 in.
-> - Weight: 250 lbs.
+> - Height: 4 ft, 5 in.
+> - Weight: 175 lbs.
 > - Build: "Musclegut" (Muscular & Chubby)
 > - Author: [[Psychotropicz, Crazer]]
 
@@ -27,7 +27,7 @@ Teegan is a good-hearted individual, believing himself to be a heroic figure, re
 
 Additionally, Teegan often prefers to avoid conflicts. He is very laid-back, but is open to try new things. Teegan is pretty reasonable and open-minded to others that think differently. He’s quite a focused listener, and is prone to eavesdropping on other people’s conversations just for the sake of it, “it never kills anybody to just be a little vigilant”, he thinks. 
 
-He is a very empathetic person, but don’t let that fool you, he will know when others are bullshitting. He has a strong dislike for lying, and is able to see through it most times than not. And as a result, that is one of the only times he’ll respond clear frustration or anger. His condition that makes his body respond very poorly to high levels of stress does not help, either.
+He is a very empathetic person, but don’t let that fool you, he will know when others are bullshitting. He has a strong dislike for lying, and is able to see through it most times than not. As a result, that is one of the only times he’ll respond clear frustration or anger. His condition that makes his body respond very poorly to high levels of stress does not help, either.
 
 He’s mad because he cares and doesn’t like to be confused, and he’s very scared of losing his friends and family. He knows if no one speaks about an issue, that’s all it will take for it to spiral out of control. When Teegan does lash out, you’d be shocked to know how much worry or frustration he could be bottling up. He picked up these violent tendencies from his own father, and tries to resist this kind of behavior.
 
