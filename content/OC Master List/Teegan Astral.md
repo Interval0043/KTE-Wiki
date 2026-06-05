@@ -7,7 +7,7 @@
 > - Nicknames:
 > 	- Teegs (Friends or peers)
 > 	- Blue / Blueberry (Relatives or family)
-> - Age: 16
+> - Age: 760
 > - Sexuality: Bisexual
 > - Languages: English, Japanese
 > - Gender: Male
