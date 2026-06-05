@@ -12,6 +12,7 @@
 > - **Age**
 > - *Sexuality*
 > - **Language(s)**
+> - *Accent*
 > - **Gender**
 > - **Species** -> Optionally, include a Species format as well! Just if you ever want to.
 > - *Race*

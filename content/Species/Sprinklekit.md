@@ -24,6 +24,7 @@ Refer to the list below to see what stage a Sprinklekit is at based on their age
 * Childhood (50-500 yrs.)
 * Adolescence (500-1000 yrs.)
 * Adulthood (1000+ yrs.)
+
 ## Souls
 
 Souls are as complicated, if not more complicated than the way a brain goes about its business (e.g. neurological processes, the way cognitive disorders are formed, how it develops). A soul holds a Sprinklekit’s conciseness, and provides work to the magical cells a Sprinklekit contains. In the very middle of the soul lies a very large concentration of magic that is essentially a supercomputer that goes through hundreds of thousands of calculations, like managing blood-flow and correctly identifying injuries. 

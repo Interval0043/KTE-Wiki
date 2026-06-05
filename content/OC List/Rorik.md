@@ -1,7 +1,3 @@
----
-tags:
-  - Interchange
----
 
 > [!abstract] Metadata
 > -  Former Name: Alyaksey Harun
