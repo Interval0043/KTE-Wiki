@@ -170,7 +170,7 @@ However, gazing into this orb requires for him to charge the orb with impossibil
 
 ### Unrivaled Defense
 
-With presence of [[Dire Will]], his defense was vastly enhanced to combat immense physical trauma. [[Dire]] completely overrode the hard-wired traits blessed by the [[Will Family]], modifying one to become far less complex for Jacob to use.
+With presence of [[Dire Will]], his defense was vastly enhanced to combat immense physical trauma. [[Dire Will|Dire]] completely overrode the hard-wired traits blessed by the [[Will Family]], modifying one to become far less complex for Jacob to use.
 
 Jacob’s blood acts similarly to oobleck, along with non-biological components (such as magic), further reducing the damage taken further. Impossibility magic takes the kinetic force from an attack and erases a part of it, leaving the rest of the force to be dispersed throughout his body.
 
