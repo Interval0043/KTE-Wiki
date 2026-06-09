@@ -1,0 +1,6 @@
+---
+aliases:
+  - Counter
+---
+> [!fail] Deceased.
+
