@@ -24,7 +24,7 @@ aliases:
 
 ## History
 
-Raised and welcomed into loving arms the [[Will Family]], Jacob is a young boy that's known for being the surviving vessel of [[Six-Horned Demon]], the most destructive being in TFCT's known history. He is a survivor of the trauma and manipulation Dire had put him through relentlessly; And scale of both of their own destruction put a huge target on his head across many dimensions, leading to ruthless massacres in what he believes self-defense. Jacob struggles with serious PTSD as a result of guilt and the destruction that followed in [[Dire Will|Dire]]’s rise and fall, his already (over)developed soul trait mostly responsible for his rather strong, impulsive desires to return a favor of revenge.
+Raised and welcomed into loving arms the [[Will Family]], Jacob is a young boy that's known for being the surviving vessel of [[Dire Will|Six-Horned Demon]], the most destructive being in TFCT's known history. He is a survivor of the trauma and manipulation Dire had put him through relentlessly; And scale of both of their own destruction put a huge target on his head across many dimensions, leading to ruthless massacres in what he believes self-defense. Jacob struggles with serious PTSD as a result of guilt and the destruction that followed in [[Dire Will|Dire]]’s rise and fall, his already (over)developed soul trait mostly responsible for his rather strong, impulsive desires to return a favor of revenge.
 
 ## Personality
 

@@ -14,3 +14,8 @@ Made with hot glue and dreams, hosted from [this GitHub Repository](https://gith
 - [[OC Format]]
 - [[Species Format]]
 - [[Markdown Reference]] (for those wanting to contribute!)
+
+## Understanding the Wiki
+
+- [[Stubs]]
+- [[Author Notes]]

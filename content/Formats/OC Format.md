@@ -22,6 +22,9 @@
 > - **Author**
 > - **Applicable Groups** (doesn't need to be included if there aren't any, see the OC Groups folder for the listed groups, or make your own if you need to)
 
+> [!info] Species Info
+> Sometimes, the species you're working with requires specialized information. Put it here, whatever it may be.
+
 ## History
 
 The OC's history goes here. However much you want to include.
