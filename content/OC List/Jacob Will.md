@@ -16,7 +16,7 @@ aliases:
 > - Sexuality: Gay
 > - Gender: Male
 > - Languages: English & Japanese
-> - Species: [[Sprinklekit]] (Half Strawberry & Half Velvian)
+> - Species: [[Sprinklekit]] (Charcoal)
 > - Height: 6 ft, 2 in
 > - Weight: 210 lbs
 > - Author: [[Psychotropicz, Crazer]]
@@ -124,7 +124,7 @@ Jacob’s inner fury can channel into a quick burst of energy, paired with a ser
 
 His mere emotions manifest the glow in his eyes, which burn in the same crimson light within his soul. Crimson coloration in his body forming where auralytes would laminate themselves through magic, overcome by Jacob’s need to survive, Or to fulfill his path to obliterate whatever may be in his path. In this sort of ‘Transformation’, his soul is altered into a sort of ‘Emergency response’ where auraltyes perform at a far higher rate than they should.
 
-Jacob’s body and mind are at a far higher function, tasked to cease whatever threat is ahead - Pain is lessened, alertness (reaction time) is heightened,  regeneration is noticeably faster (with limbs growing back within a minute or less), and allowing himself to see in heat vision. Not to mention his hearing is significantly heightened, but not sensitive.
+Jacob’s body and mind are at a far higher function, tasked to cease whatever threat is ahead; Pain is lessened, alertness (reaction time) is heightened,  regeneration is noticeably faster (with limbs growing back within a minute or less), and allowing himself to see in heat vision. Not to mention his hearing is significantly heightened, but not sensitive.
 
 #### Drawbacks
 
