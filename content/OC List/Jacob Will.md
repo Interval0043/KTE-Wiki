@@ -130,6 +130,12 @@ Jacob’s body and mind are at a far higher function, tasked to cease whatever t
 
 Once this rush of magic ends, Jacob is much more likely to need sustenance in order to maintain the balance in his body; He will undergo a rest period of 2-3 days to fully recover, as Jacob’s soul is both physically and mentally exhausted.
 
+### X-Trap
+
+Jacob can create small, X-shaped markings into any surface using his magic, which if the attacker is in a certain proximity of these traps: The mark will rapidly expand, expelling energy upwards to create a long cross-shaped geyser that is made from brimstone fire. 
+
+This trap isn’t limited to just the ground, and can be placed on walls or ceilings. These traps can also be detonated manually.
+
 ### Rush of Extremity
 
 Jacob is able to create powerful “Charges” of magic behind his back, pairing both auralytes and his knowledge in fire magic. While using this technique, a very loud queue can be heard before he actually uses is, that being the very loud sound of fire (And the loud hum of energy charging up) crackling. This gives him a very, very powerful boost that propels him so fast it can rocket him to speeds as fast as light. As a result of his family traits, (Mainly very small amounts of WAR) his body shifts into a ‘Warp-Driven’ state which allows for his body to remain tangible, but also allow for light-speed travel. In essence, his mind and body is influenced by a reality warping force to allow him to react even in such speeds, though trying to change the direction he’s going in is significantly harder.
