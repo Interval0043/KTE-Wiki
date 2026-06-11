@@ -34,4 +34,4 @@ When it comes to design, however, pretty much anything is fair game for how they
 
 First, each and every Primordial Entity must have something called a "Field Passive". These affect the whole of the battle in specific ways, but do not necessitate they apply to themselves. Some level the field to bring enemies closer in power, others do weird things, and some are just plain useless and are there for flair.
 
-Second, Primordial Entities have to respond to something to summon them. Whether it be a [[Dimensional Fragments|Dimensional Fragment]], a call from someone line [[Origins]], or something else they care about. 
+Second, Primordial Entities have to respond to something to summon them. Whether it be a [[Dimensional Fragments|Dimensional Fragment]], a call from someone like [[Origins]], or something else they care about.

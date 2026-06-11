@@ -8,4 +8,7 @@ Stubs are a common thing in any wiki, and they're considered pages that are miss
 > [!question] This page is a [[Stubs|stub]].
 > Consider reaching out to the author or adding more detail.
 
-Stubs are generally not the greatest, however this page is intended to be one, because there's not much else to say.
+Stubs are generally not the greatest, however this page is intended to be one, because there's not much else to say. Alternatively, if a page is just small and undetailed because that's either the entire point, or there isn't much to say, then this should be used instead.
+
+> [!question] This page is a [[Stubs|stub]], but deliberately so.
+> There's nothing really more to add.

@@ -4,7 +4,7 @@ aliases:
 ---
 ## General Description
 
-Sprinklekits are anthropomorphic felines that resemble a house cat in terms of appearance, with the exception that they have a large Icecream cone tail located at the back of their waist, which functions as their tail and holds the soul, a very vital organ to their body. Though, don’t be fooled by their seemingly lethargic build, as a Sprinklekit's mind and body (especially at a younger age) can develop significantly with training.
+Sprinklekits are anthropomorphic felines that resemble a house cat in terms of appearance, with the exception that they have a large ice cream cone tail located at the back of their waist, which functions as their tail and holds the soul, a very vital organ to their body. Though, don’t be fooled by their seemingly lethargic build, as a Sprinklekit's mind and body (especially at a younger age) can develop significantly with training.
 
 Sprinklekits are a naturally friendly, highly intelligent species comprised of a soft, fluffy outside of fur and icecream for blood, along with hard, yet durable icy bones. They are organic, and sustain themselves through eating various sugar-filled foods and drinks, which helps maintain their soul and vessel. An anomalous speciality sprinkekits have about theirselves is that icecream functions as an effective healing agent.
 

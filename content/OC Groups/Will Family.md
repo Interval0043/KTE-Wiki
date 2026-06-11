@@ -1,10 +1,10 @@
 ## Origin
 
-Created by the embodiment of Existence, [[Counter Will]], as means to deal with their own loneliness, and to do so, by sharing their essence to others, created a family related by blood, even if not by the traditional sense. They shared aspects similar to [[Counter Will]], including resistance to aging, and other abilities not quite as relevant to what [[Counter Will|Counter]] wanted, but that served as means to protect the Family further.
+Created by the embodiment of Existence, [[Counter Will]], as means to deal with their own loneliness, and to do so, by sharing their essence to others, created a family related by blood, even if not by the traditional sense. They shared aspects similar to Counter Will, including resistance to aging, and other abilities not quite as relevant to what [[Counter Will|Counter]] wanted, but that served as means to protect the Family further.
 
 ## Description
 
-They're a family acting as a safe haven for themselves and, when need arises, as a powerful political and destructive force. Although not as powerful as they used to be, due to the death of [[Counter Will]], and before that, [[Noite Will]], they are still relatively powerful due to their ties to the [[Legion Of Nazareth|L.O.N.]].
+They're a family acting as a safe haven for themselves and, when need arises, as a powerful political and destructive force. Although not as powerful as they used to be, due to the death of Counter Will, and before that, [[Noite Will]], they are still relatively powerful due to their ties to the [[Legion Of Nazareth|L.O.N.]].
 
 ## Hierarchy
 
@@ -56,11 +56,11 @@ Members of the family who are either too young or uninterested in being a combat
 
 ## Familial Aspects
 
-The unique capabilities, powers and properties of the family members are caused by their connection to [[Counter Will]]. Combatants with higher skill and control over their body and magic have shown the ability to modify and evolve these abilities with enough effort.
+The unique capabilities, powers and properties of the family members are caused by their connection to Counter Will. Combatants with higher skill and control over their body and magic have shown the ability to modify and evolve these abilities with enough effort.
 
 ### Harden
 
-The magic of Will Family members may have the unique property of self annihilation when conjured in a certain manner, creating a new "Type" of magic, and the technique "Harden" works by using said type as a thin veil around the user's body.
+The [[Magic]] of Will Family members may have the unique property of self annihilation when conjured in a certain manner, creating a new "Type" of magic, and the technique "Harden" works by using said type as a thin veil around the user's body.
 Self Annihilation causes magic to simply cease to be when foreign force is applied to it.
 Upon impact, the force, or energy behind a physical blow will be mostly "Absorbed" by the user's magic. This works due as the magic that constitutes the veil functions as a physical layer, due to how much magic is compressed within it, and before the force can travel from said layer to the body of the user, the magic ceases to be alongside the energy within it, before said force can reach the user.
 
@@ -82,12 +82,11 @@ The ability to, regardless of the location or whether or not light is present, k
 
 #### Magic & Reveal
 
-The ability to sense and pinpoint the flow of [[Magic]] in your surroundings. An advanced enough user may even use the way magic is wielded by the opponent as a manner to guess what exactly their ability does.
+The ability to sense and pinpoint the flow of magic in your surroundings. An advanced enough user may even use the way magic is wielded by the opponent as a manner to guess what exactly their ability does.
 
 #### Future & Prediction
 
-Precognition. The ability to see, albeit a very s> [!fail] Deceased.
-hort time-frame, into the future. With the exception of [[Counter Will]], the time-frame of this ability within the family ranges from 100 milliseconds to 8 seconds. It is the hardest of the four applications of Unpaired Vision to learn and master.
+Precognition. The ability to see, albeit a very short time-frame, into the future. With the exception of Counter Will, the time-frame of this ability within the family ranges from 100 milliseconds to 8 seconds. It is the hardest of the four applications of Unpaired Vision to learn and master.
 
 ### Will Against Reality (W.A.R.)
 
