@@ -29,11 +29,11 @@ Teegan is a young genius (Both emotionally and in an educational sense) who valu
 
 ## Personality
 
-Teegan is a good-hearted individual, believing himself to be a heroic figure, regarded to by his family as a very intelligent, humble, and confrontational. He speaks in a warm, soft demeanor, usually speaking in short sentences, and using people’s names instead of their pronouns, saves him the effort. Tends to use short words or phrases like “Eh”, “Nah”, “Cool”, or “Sup” (isn’t limited to just these 4), with an emphasis on contractions (e.g. using “don’t instead of “do not”) Unlike his old self, he’s not as interruptive, not letting his sensitive side get the best of him. 
+Teegan is a good-hearted individual, believing himself to be a heroic figure, regarded to by his family as a very intelligent, humble, and confrontational. He speaks in a warm, soft demeanor, usually speaking in short sentences, and using people’s names instead of their pronouns, saves him the effort. Tends to use short words or phrases like “Eh”, “Nah”, “Cool”, or “Sup” (isn’t limited to just these 4), with an emphasis on contractions (e.g. using “don’t instead of “do not”) Unlike his old self, he’s not as interruptive, not letting his sensitive side get the best of him. Teegan's voice is soft and airy, leaning more towards feminine vocal range that resonates with others as calm and serene.
 
-Additionally, Teegan often prefers to avoid conflicts. He is very laid-back, but is open to try new things. Teegan is pretty reasonable and open-minded to others that think differently. He’s quite a focused listener, and is prone to eavesdropping on other people’s conversations just for the sake of it, “it never kills anybody to just be a little vigilant”, he thinks. 
+Additionally, Teegan often prefers to avoid conflicts. He is very laid-back, but is open to try new things, as he's always curious in what makes other people so happy. Teegan is pretty reasonable and open-minded to other opinions because he values everyone's point of view. He’s also a strong listener, and is prone to eavesdropping on other people’s conversations just for the sake of it, “it never kills anybody to just be a little vigilant”, he thinks.
 
-He is a very empathetic person, but don’t let that fool you, he will know when others are bullshitting. He has a strong dislike for lying, and is able to see through it most times than not. As a result, that is one of the only times he’ll respond clear frustration or anger. His condition that makes his body respond very poorly to high levels of stress does not help, either.
+He is a very empathetic person, but don’t let that fool you, he will know when others are bullshitting. He has a strong dislike for lying, and is able to see through it most times than not. As a result, that is one of the only times he’ll respond with clear frustration or anger. His condition that makes his body respond very poorly to high levels of stress does not help, either.
 
 He’s mad because he cares and doesn’t like to be confused, and he’s very scared of losing his friends and family. He knows if no one speaks about an issue, that’s all it will take for it to spiral out of control. When Teegan does lash out, you’d be shocked to know how much worry or frustration he could be bottling up. He picked up these violent tendencies from his own father, and tries to resist this kind of behavior.
 
@@ -69,17 +69,17 @@ Teegan’s sub-relativistic experience at full mental capacity would essentially
 
 Unlike his friends of relatives, Teegan imprints heavily off of the moves others have used and uses it against others. Teegan has a tendency to copy whatever the opponent uses, and sometimes even mimics part of their fighting style in order to confuse them. Another unique aspect of Teegan’s unpredictable nature is his tendency to randomly throw out strong, heavy-hitting attacks, usually enhanced further with his own magic (E.g: large, high velocity projectiles and full-force strikes to weak spots he identifies).
 
-Besides for his copying, he has a rather unpredictable nature. Teegan has a having a loud, defensive approach that focuses on disarming opponents and standing his ground whilst slowly pushing them into a vulnerable spot. He will often bait or corner his opponents into less optimal positions so he can then exploit them. 
+Besides for his copying, he has a rather unpredictable nature. Teegan has a having a mosly defensive approach that focuses on disarming opponents and standing his ground; Also shielding himself from projectiles and other attacks. He will often priortize the safety of his allies.
 
-Just like Jacob, he’s very effective at planning his next moves, often placing hazards to restrict the opponent’s options in movements.
+Unlike Jacob, he is a heavy-hitter who will analyze their opponents, combat pressure instead of applying it to either tire them out, or wittle them down slowy.
 
 ## Weaponry
 
 ### 雹 雷 (Hyō Kaminari)
 
-‘Hail Thunder’ translated from Japanese, this katana has an edge to its blade that’s is constantly empowered by a powerful alloy of Orium and Sleetana. Depending on how much magic Teegan concentrates onto this katana, he can channel variety of different types of attacks, some not directly involving his own. 
+‘Hail Thunder’ translated from Japanese, this katana has an edge to its blade that’s is constantly empowered by a powerful alloy of Orium and Sleetane. Depending on how much magic Teegan concentrates onto this katana, he can channel variety of different types of attacks, some not directly involving his own. 
 
-Its origins comprised of it being an electricity-based katana that utilizes electrical magic to administer blows and even ranged projectiles, along with it’s user, providing an even greater advantage during battle - Imbued with the blue moon’s magic, it was idealistic to wield it with a weak magical capacity and expect a great output. This weapon was used by an old Orian Chosen before they had died valiantly in battle, passed down into Teegan’s young hands.
+Its origins comprised of it being an electricity-based katana that utilizes electrical magic to administer blows and even ranged projectiles, along with it’s user, providing an even greater advantage during battle; Imbued with the blue moon’s magic, it wasn't idealistic to wield it with a weak magical capacity and expect a great output. This weapon was used by an old Orian Chosen before they had died valiantly in battle, passed down into Teegan’s young hands.
 
 Teegan with his own magical enhancements can use the electricity to create physical, curve-like slashes that can travel in a given direction. The electricity the sword uses is able to chain to other opponents, along with being able to hold its electrical current inside of the individual which enables the potential for damage received to chain onto other opponents.
 
@@ -87,7 +87,9 @@ Another specialty is he is able to use the electricity to empower his swings, an
 
 ### Cryostar Pulsator (CSP)
 
-The CSP is a powerful railgun that packs a punch, with each bolt harnessing the energy of even the coldest stars of cryosilis. With the help of his leader (Indra), the CSP is made from various custom, magical materials that are designed to resist the impossibly high pressures this weapon releases, allowing for a clean pull of the trigger with barely any recoil. This railgun has multiple implanted devices inside that act as both coolants inside, and act as a self-sustaining energy generator— And as to how the generator functions? When the beam fires, it releases frigid, subzero temperatures that the generators absorbs and uses to generate enough energy to fire again.
+The CSP is a powerful railgun that packs a punch, with each bolt harnessing the energy of even the coldest stars of cryosilis. With the help of Senvic, the CSP is made from various custom, magical materials that are designed to resist the impossibly high pressures this weapon releases, allowing for a clean pull of the trigger with barely any recoil. This railgun has multiple implanted devices inside that act as both coolants inside, and act as a self-sustaining energy generator.
+
+When the beam fires, it releases frigid, subzero temperatures that the generators absorbs and uses to generate enough energy to fire again.
 
 ### Nitrogenic Electricity Devastator (NGED)
 
@@ -158,8 +160,6 @@ Another anomalous feature of the mask is that it can burn through its energy fas
 - His goal is to become apart of the Welfare and Scouting Department in [[Legion Of Nazareth|L.O.N.]], where he can make pastries for staff members and check up on the residents of other dimensions, along with saving and taking care of the many that were left without a home or world after Age Of Fear.
 
 - He often plays difficult, souls-like games that provide him a challenge, he also really likes adding a bunch of mods to his games.
-
-- Teegan's voice is described as soft and airy, leaning more towards feminine vocal range.
 
 - He has a large appetite and is a fast eater, outpacing most of his family and finishing his food before anyone else.
 
