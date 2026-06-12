@@ -69,9 +69,9 @@ Teegan’s sub-relativistic experience at full mental capacity would essentially
 
 Unlike his friends of relatives, Teegan imprints heavily off of the moves others have used and uses it against others. Teegan has a tendency to copy whatever the opponent uses, and sometimes even mimics part of their fighting style in order to confuse them. Another unique aspect of Teegan’s unpredictable nature is his tendency to randomly throw out strong, heavy-hitting attacks, usually enhanced further with his own magic (E.g: large, high velocity projectiles and full-force strikes to weak spots he identifies).
 
-Besides for his copying, he has a rather unpredictable nature. Teegan has a having a mosly defensive approach that focuses on disarming opponents and standing his ground; Also shielding himself from projectiles and other attacks. He will often priortize the safety of his allies.
+Besides for his copying, he has a rather unpredictable nature. Teegan has a having a mosly defensive approach that focuses on disarming opponents and standing his ground; Also shielding himself from projectiles and other attacks. He will often priortize the safety of his allies, and will hold himself back if he knows his opponent can't defeat him
 
-Unlike Jacob, he is a heavy-hitter who will analyze their opponents, combat pressure instead of applying it to either tire them out, or wittle them down slowy.
+Unlike Jacob, he is a heavy-hitter who will analyze their opponents, combat pressure instead of applying it to either tire them out, or wittle them down slowly. He will back down from fights easily and offer mercy, as he doesn't really want to hurt anyone.
 
 ## Weaponry
 
