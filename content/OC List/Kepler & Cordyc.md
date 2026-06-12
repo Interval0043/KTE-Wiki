@@ -1,5 +1,11 @@
-> [!note] This page is an [[Early Pages|Early Page]].
-> There's still more to come.
+---
+aliases:
+  - Kepler
+  - Cordyc
+---
+
+> [!info] This page is currently under construction.
+> Changes will be made semi-frequently.
 
 > [!abstract] Kepler's Metadata
 > - Name: Kepler
@@ -33,6 +39,9 @@
 > - [[Dimensional Fragments|Fragment]]: Celestial
 > - Binding [[Souls|Soul]]: Celestial
 > - Inheritance: [[Hedron]]
+> 	- Discharge
+> 	- Breakshot
+> 	- Adaptive
 
 ## History
 
@@ -93,70 +102,21 @@ In terms of love, Kepler's a little lost. Hedrons are notable for it being extre
 
 ## Abilities
 
-### Attributes
-
-#### Kepler
-
-##### Internalized Heating Module
-
-- Increased resistance to ice / cold attacks and environments.
-- Increased resistance to rapid temperature changes.
-
-##### Ready & Alert
-
-Switches effect based on Doubt status.
-
-- Increased reaction time (No Doubt).
-- Increased perception (Doubt).
-
-##### Torque
-
-- Increased *sudden* electrical release potency.
-- Increased time of effect for all electrical attacks and related statuses.
-
-> [!info] ##### Inherited: Adaptive
-> - Allows for new ability gain easier than most.
-> - Can be based on an item or new skill.
-> - Easiest when another species imparts new knowledge.
-
-#### Cordyc
-
-##### Levavi Motus
-
-- Increased float and dissipate speeds.
-- Decreased weight.
-- Walking is removed.
-
-##### Potentia Ducatur
-
-- Continuously uses Kepler's stamina while Cordyc is active.
-- Allows for powerful function at the cost of rapid exhaustion.
-
-##### Sensus Alternationis
-
-Senses are interpreted differently:
-
-- Hearing, Smell, and Taste are removed.
-- Sight is exclusively thermal.
-- Touch is more difficult, as Cordyc does not possess the same type of Binding Soul as a [[Manifold]].
-- Phase Space ghosting distance is increased.
-- Radial detection is applied at close-range.
-
 ### Kepler's Abilities
 
-> [!info] #### Inherited: Discharge
-> Also listed in the [[Hedron]] specification.
-> 
-> All Hedrons naturally build up electric charge over time; they take it in but don't naturally release it. When contacting an enemy AND a point of which is conductive\*, they can release electricity and shock the enemy. The rate at which is case-by-case. While the release time can be chosen when the Hedron attacks, if they're hit with a strong enough attack, the electricity will auto-discharge in defense, damaging the enemy.
-> 
-> \*: Provided the stored electricity is large enough, this requirement is waived. Note that the Hedron will be under pressure / pain at this point, it needs to be very high.
-> 
-> UNIQUE: Kepler specifically generates at a higher rate than most, but has a much harder time releasing it. Inside his shell is a film of Celestial Matter, making it difficult to get rid of. Discharge is a little different, see Celestial Awakening.
+#### Discharge
 
-> [!info] #### Inherited: Breakshot
-> Also listed in the [[Hedron]] specification.
-> Not currently written yet.
+> [!info] Inherited.
 
+Normal ability listed at [[Hedron#Discharge]].
+
+UNIQUE: Kepler specifically generates at a higher rate than most, but has a much harder time releasing it. Inside his shell is a film of Celestial Matter, making it difficult to get rid of. Discharge is a little different, see Celestial Awakening.
+
+#### Breakshot
+
+Normal ability listed at [[Hedron#Breakshot]]
+
+\[unique not written yet\]
 
 #### Feint
 
@@ -242,3 +202,47 @@ Returns Cordyc to Kepler. All changes mentioned in Celestial Awakening are rever
 ## Weaponry
 
 No dedicated weapons.
+
+## Attributes
+
+### Kepler
+
+#### Internalized Heating Module
+
+- Increased resistance to ice / cold attacks and environments.
+- Increased resistance to rapid temperature changes.
+
+#### Ready & Alert
+
+Switches effect based on Doubt status.
+
+- Increased reaction time (No Doubt).
+- Increased perception (Doubt).
+
+#### Torque
+
+- Increased *sudden* electrical release potency.
+- Increased time of effect for all electrical attacks and related statuses.
+
+### Cordyc
+
+#### Levavi Motus
+
+- Increased float and dissipate speeds.
+- Decreased weight.
+- Walking is removed.
+
+#### Potentia Ducatur
+
+- Continuously uses Kepler's stamina while Cordyc is active.
+- Allows for powerful function at the cost of rapid exhaustion.
+
+#### Sensus Alternationis
+
+Senses are interpreted differently:
+
+- Hearing, Smell, and Taste are removed.
+- Sight is exclusively thermal.
+- Touch is more difficult, as Cordyc does not possess the same type of Binding Soul as a [[Manifold]].
+- Phase Space ghosting distance is increased.
+- Radial detection is applied at close-range.

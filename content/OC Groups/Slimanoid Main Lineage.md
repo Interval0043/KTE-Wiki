@@ -1,5 +1,5 @@
-> [!question] This page is a [[Stubs|stub]].
-> Consider reaching out to the author or adding more detail.
+> [!faq] This page is a stub.
+> Consider asking the author to improve on it, or add something yourself with their permission.
 
 A lineage of [[Slimanoid|Slimanoids]]. These guys kinda just asexually reproduce, but they can also reproduce when given DNA of another species. No, there's no ritual or mating necessary. It's just DNA in, child half goopy boy out.
 

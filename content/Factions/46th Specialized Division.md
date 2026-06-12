@@ -4,8 +4,8 @@ aliases:
   - Four Six Sierra Delta
 ---
 
-> [!question] This page is a [[Stubs|stub]].
-> Consider reaching out to the author or adding more detail.
+> [!faq] This page is a stub.
+> Consider asking the author to improve on it, or add something yourself with their permission.
 
 ## History
 

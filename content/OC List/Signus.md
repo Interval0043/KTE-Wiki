@@ -1,5 +1,5 @@
-> [!note] This page is an [[Early Pages|Early Page]].
-> There's still more to come.
+> [!info] This page is currently under construction.
+> Changes will be made semi-frequently.
 
 > [!warning] Currently unverified.
 

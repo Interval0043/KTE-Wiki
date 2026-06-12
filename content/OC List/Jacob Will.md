@@ -5,7 +5,7 @@ aliases:
 
 > [!quote]
 > **God damn it, I swear-I swear I'll kill all of you.**
-> $\to$ Jacob, watching in fury and utter dismay as the malice was released by [[Dire Will|Dire]].
+> $\to$ Jacob, watching in fury and utter dismay as the malice was released by [[Dire Will]].
 
 > [!abstract] Metadata
 > - Name: Jacob Will
@@ -155,6 +155,16 @@ An [[Interdimensional Defense & Advanced Research Center|I.D.A.R.C.]]-developed 
 The compound numbs pain and acts as an agent that gives him in edge in a difficult battle. The compound overrides all other emotions in favor of Wrath for the time it stays inside of his system, so he takes a lot of caution in injecting any amount of it into his system to ensure he doesn’t harm himself or others he cares for.
 
 These stimulants are highly potent, with a few being enough to trigger his Manifestation Of Wrath.
+
+### Smo-King
+
+>[!quote]
+> *It’s a smoke king, it burns all sorts of things!*
+> \- Jacob
+
+The 2nd device Jacob commissioned from I.D.A.R.C. after the Rage Stimulant, serving to mask himself in battle, acting as high-utility smoke grenades designed for Jacob’s brimstone fire to create copious amounts of smoke.
+
+It has a transmutator built inside that allows for magic to be created at the cost of a user’s magic. Jacob can arm the grenade by concentrating a small amount of his own brimstone fire magic inside, similar to lighting an internal fuse that he only has knowledge of, meaning that others can’t interfere, or forcefully set it off unless they know where to light it.
 
 ### Destiny Core
 

@@ -51,9 +51,12 @@ Available types: note, abstract, info, todo, tip, success, question, warning, fa
 
 ## Links
 
-[[index]] -> `[[index]]`
-[link to google](https://google.com) -> `[link to google](https://google.com)`
-[[index|Home]] -> `[[index|Home]]` (aliased link)
+- [[index]] -> `[[index]]`
+- [link to google](https://google.com) -> `[link to google](https://google.com)`
+- [[index|Home]] -> `[[index|Home]]` (aliased link)
+- [[Wiki Style Guideline#Stub]] -> `[[Wiki Style Guideline#Stub]]` (external link to a heading)
+- [[#Text Editing]] -> `[[#Text Editing]]` (internal link to a heading)
+- ![[we're rich (test image).png]] -> `![[we're rich (test image.png)]]` (internal embed)
 
 ## Colored Text
 

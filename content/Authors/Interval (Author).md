@@ -33,7 +33,7 @@ The list down here is not the most comprehensive, but I'm trying. Also, the head
 
 ### [[Kingdom SE]]
 
-- [[Kepler]]
+- [[Kepler & Cordyc]]
 - [[Poinsot]]
 - [[Lagrange]]
 
@@ -52,8 +52,6 @@ The list down here is not the most comprehensive, but I'm trying. Also, the head
 
 - [[Eiro]]
 - [[Scorch]]
-- [[Laplace]]
-- [[Cordite]]
 
 ### [[KTE]]
 
@@ -61,3 +59,5 @@ The list down here is not the most comprehensive, but I'm trying. Also, the head
 - [[Variate]]
 - [[Nuclide]]
 - [[Rorik]]
+- [[Laplace]]
+- [[Cordite]]
