@@ -4,15 +4,15 @@ aliases:
 ---
 ## General Description
 
-Sprinklekits are anthropomorphic felines that resemble a house cat in terms of appearance, with the exception that they have a large ice cream cone tail located at the back of their waist, which functions as their tail and holds the soul, a very vital organ to their body. Though, don’t be fooled by their seemingly lethargic build, as a Sprinklekit's mind and body (especially at a younger age) can develop significantly with training.
+Sprinklekits are anthropomorphic felines that resemble a house cat in terms of appearance, with the exception that they have a large ice cream cone tail located at the back of their waist, which functions as their tail. Don't be fooled by their seemingly lethargic tail which at first (which at first appears to weigh them dowm), as a Sprinklekit's mind and body (especially at a younger age) can develop significantly with training.
 
-Sprinklekits are a naturally friendly, highly intelligent species comprised of a soft, fluffy outside of fur and icecream for blood, along with hard, yet durable icy bones. They are organic, and sustain themselves through eating various sugar-filled foods and drinks, which helps maintain their soul and vessel. An anomalous speciality sprinkekits have about theirselves is that icecream functions as an effective healing agent.
+Sprinklekits are by nature friendly, and highly intelligent species comprised of a soft, fluffy outside of fur and "icecream" for blood. They also have hard, icy bones. They are organic, and sustain themselves through eating various sugar-filled foods and drinks. An anomalous speciality sprinkekits have about theirselves is that icecream functions as an effective healing agent.
 
-One very crucial detail is that most sprinklekits each have unique fur patterns on their bodies, which can vary, often resembling the sprinkles seen on ice cream.
+One very crucial detail is that most sprinklekits each have unique fur patterns on their bodies, which can vary, but often resembling the sprinkles seen on ice cream.
 
 ## Lifespan / Maturity
 
-A Sprinklekit’s lifespan can vary between 25,000-30,000 years of age before passing of natural causes, making them one of the more knowledgeable species. Sprinklekit’s follow the same physical and mental development process any sapient being does, but at a decelerated rate; As their brain develops for over 2,000-5,000 years allowing them to advance at points beyond what humans could ever imagine. In these millennia, the soul is much more complex, Sprinklekits in their prime become a machine-like in terms of computing power, able to learn concepts with ease (mental disabilities affect this, though).
+A Sprinklekit’s lifespan can vary between 25,000-30,000 years of age before passing of natural causes, making them one of the more knowledgeable species. Sprinklekit’s follow the same physical and mental development process any sapient being does, but at a decelerated rate; As their brain develops for over 2,000-5,000 years allowing them to advance at points beyond what humans could ever imagine. In these millennia, the soul is much more complex, as Sprinklekits in their prime become  machine-like in terms of computing power, able to learn concepts with ease (mental disabilities affect this, though).
 
 ### Physical Aging
 
@@ -27,11 +27,11 @@ Refer to the list below to see what stage a Sprinklekit is at based on their age
 
 ## Souls
 
-Souls are as complicated, if not more complicated than the way a brain goes about its business (e.g. neurological processes, the way cognitive disorders are formed, how it develops). A soul holds a Sprinklekit’s conciseness, and provides work to the magical cells a Sprinklekit contains. In the very middle of the soul lies a very large concentration of magic that is essentially a supercomputer that goes through hundreds of thousands of calculations, like managing blood-flow and correctly identifying injuries. 
+Souls are as complicated, if not more complicated than every single organ or cell in a non-magical being. A soul holds a Sprinklekit’s conciseness, and provides work to the magical cells a Sprinklekit contains. In the very middle of the soul lies a very large concentration of magic that is essentially a supercomputer that goes through hundreds of thousands of calculations, like managing blood-flow and correctly identifying injuries. 
 
-Within this, a soul of a Sprinklekit can develop a trait that goes by a very diversified spectrum, and is usually determined at birth. A trait can dictate a wide variety of things, from very simple things as the way the magic of an individual works, or more complex concepts like emotional management and intelligence.
+A soul of a Sprinklekit can develop a trait that goes by a very diverse spectrum, and is usually determined at birth. A trait can dictate a wide variety of things, from very simple things as the way the magic of an individual works, or more complex concepts like emotional management and intelligence.
 
-Souls, by definition are the powerhouse to all magic within a sprinklekit’s body; Without it, they wouldn’t be able to function in the slightest, just like how mitochondria generate energy for ATP.
+Souls, by definition are the powerhouse to all magic within a sprinklekit’s body; Without it, they wouldn’t be able to function in the slightest, just like how mitochondria generates energy for ATP.
 
 ### Location
 
@@ -39,7 +39,7 @@ The soul of a sprinklekit is located within the middle of the chest, which is wh
 
 ### Traits
 
-Soul traits are a very common characteristic within the magically formed soul. Color very closely associates to the “Traits” given, an example being a bright neon green resembling “Kindness”, the glow reflecting the positive energy within an individual, while a “Dull” trait tends to be more vivid. In nature, Sprinklekits are more naturally leaned towards submission and kindness, and are generally more emotional creatures in comparison to humans. One thing to note, however is that Sprinklekits have a very high likelihood of developing positive traits instead of what’s considered a “Dull” trait. Due to their positive nature, it is very difficult for a Sprinklekit to even transition itself into negative trait, as they will tend to find others to confide in.
+Soul traits are a very common characteristic within the magically formed soul. Color very closely associates to the “Traits” given, an example being a bright neon green resembling “Kindness”, while a “Dull” trait tends to be more vivid. In nature, Sprinklekits are more naturally leaned towards submission and kindness, and are generally more emotional creatures in comparison to humans. One thing to note, however is that Sprinklekits have a very high likelihood of developing positive traits instead of what’s considered a “Dull” trait. Due to their positive nature, it is very difficult for a Sprinklekit to even transition itself into a negative trait, as they will tend to find others to confide in.
 
 Trying to manipulate a soul trait is extremely difficult in most circumstances, unless experimentation or soul manipulation is performed. Sadly, neurological conditions or disabilities may stunt their natrual immunity to “Dull” traits.
 
@@ -47,7 +47,7 @@ Trying to manipulate a soul trait is extremely difficult in most circumstances, 
 
 ### Auralytes
 
-When a Sprinklekit is born, every bit of its body: bones, lattice scaffolds, “muscle” tension fields, nerves, is fabricated from the hyper‑versatile magical cell line called the auralyte. You’ll see them virtually everywhere in a sprinklekit’s body, embedded in the eyes, chest, inner ears, and sometimes fur (They often radiate a bioluminescent glow in these specified regions).
+When a Sprinklekit is born, every bit of its body: bones, lattice scaffolds, “muscle” tension fields, is fabricated from the hyper‑versatile magical cell line called the auralyte. You’ll see them virtually everywhere in a sprinklekit’s body, embedded in the eyes, chest, inner ears, and sometimes fur (They often radiate a bioluminescent glow in these specified regions).
 
 They appear to be small, crystalline concentrations of magic that are in the shape of a 3-dimensional prism, with a clear, smooth icy surface.
 
@@ -79,11 +79,11 @@ The sprinklekit’s calcaneus (heel bone) is not raised above the ground unlike 
 
 ### Other
 
-* Sprinklekits have an anomalous throat/esophagus that functions even without the organs present, leading to an “End” that seems to disintegrate food particles into magic.
+* Sprinklekits have an anomalous throat/esophagus that functions even without the presence of organs, leading to an “End” that seems to disintegrate food particles into magic.
 * All senses of a sprinklekit improve with age, and never dampen down until late adulthood. Even then, a healthy elder sprinklekit's body is still above an adolescent at its weakest.
 * Biologically, male and female sprinklekits have no difference in strength or intelligence, only reproductive organs.
 * Sprinklekits feel pain much less than other species, but are much more sensitive to pleasure in distict areas (Such as the back of the ears, cheeks, or the underside of their neck).
-* Sprinklekits use their biolumiscence to locate one another during low-visibility envoirments.
+* Sprinklekits use their biolumiscence to locate one another during low-visibility settings.
 
 ## Cryo-Phylaxis System
 
