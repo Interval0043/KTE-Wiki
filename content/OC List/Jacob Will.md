@@ -44,7 +44,7 @@ Over painfully long time during and after Dire Will’s incident, Jacob develope
 
 Jacob has two consecutive piercings on his left ear, adorning a crown of red, metallic barbed wire, worn with a black mask that has a red X mark roughly where his forehead is. Jacob wears a black-and-red striped sweatshirt that has fur with blotted patterns around the collar of the shirt. A muscular, slim-bodied [[Sprinklekit]] with extremely dense muscle tissue. His face is riddled with a wide variety of scars, one most notably on his neck (stretching downward from his collarbone to his stomach in a hook shape).
 
-Jacob has red, garnet colored eyes and messy, unkempt hair. He also wears a belt that connects together with ease, included with attachable waist guards he uses to conceal his knife, and also to give himself some extra protection; The same reason for there’s also knee-pads strapped to his jeans. He also wears shoulder guards which nearly go down to his elbow.
+Jacob has red, garnet colored eyes and messy, unkempt hair. He also wears a cloth belt, included with attachable waist guards he uses to conceal his knife, and also to give himself some extra protection; The same reason for there’s also knee-pads strapped to his jeans. He also wears shoulder guards which nearly go down to his elbow. He also has 2 arm bands on each of his wrists.
 
 ## Soul: Prime Wrath
 
