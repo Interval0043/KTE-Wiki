@@ -1,3 +1,9 @@
+---
+aliases:
+  - Fourier
+  - Hyacinth
+---
+
 > [!abstract] Fourier's Metadata
 > - Name: Fourier
 > - Age: ~2,600 Gregorian Years
@@ -8,7 +14,7 @@
 > - Species: [[Hedron]]
 > - Height: 9 ft, 1 in
 > - Weight: ~1.2 Metric Tonnes
-> - Author: [[Interval (Author)]]
+> - Author: [[Polytope]]
 
 > [!abstract] Hyacinth's Metadata
 > - Name: Hyacinth
@@ -74,7 +80,7 @@ Fourier is one of the more important [[Hedron|Hedrons]], serving as one of the s
 
 Easily described as stern, caring, and vengeful. Being who he is, he cares for all he can. Put him in a situation with someone in danger, and he's the first to jump at it. However, in that same vein, he also teaches his own very well. He's fine with nonsense, but disregard for others is not at all something he supports.
 
-His vengeful streak only occurs once someone attacks one of his own species, specifically a prominent member. He doesn't get all pissed over a nobody, but if someone like [[Kepler & Cordyc|Kepler]] got seriously injured for a not very good reason, then he's after whoever hurt him. However, justified injuries (i.e. Kepler began the fight) don't get him all riled up.
+His vengeful streak only occurs once someone attacks one of his own species, specifically a prominent member. He doesn't get all pissed over a nobody, but if someone like [[Kepler|Kepler]] got seriously injured for a not very good reason, then he's after whoever hurt him. However, justified injuries (i.e. Kepler began the fight) don't get him all riled up.
 
 Finally, there's one more bit. To those he considers adjacent family and not descendants, his care shows a lot more than the teaching. And for [[Hallis]], a lot of his personality is wiped in favor of formality, considering he's second at the top of the Hedrons.
 

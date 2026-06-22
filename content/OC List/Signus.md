@@ -16,7 +16,7 @@
 > - Height: 9 ft, 11 in
 > - Weight: 560 lbs
 > - Current Occupation: Wood Carver / Woodsmith
-> - Author: [[Interval (Author)]]
+> - Author: [[Polytope]]
 
 > [!info] Species Info
 > Bound [[Dimensional Fragments|Fragment]]: Ancient Flame
@@ -53,21 +53,6 @@ Signus' new wear is very similar to that of a cowboy's, in that he's got a fairl
 
 ## Abilities
 
-### Attributes
-
-#### Fire Drain
-
-- Fire-based attacks will heal instead of hurt by their fire-component.
-- Hybrid attacks (kinetic with fire imbued as an example) will still deal Kinetic damage but will heal by the Fire damage.
-
-#### Learned Resilience
-
-- Increased resistance to Water, Ice, and Wind-based attacks or components.
-
-#### Boosted Presence
-
-- Provides enhanced fire potency when around an allied fire-based attack.
-
 ### Standard
 
 Signus, to reiterate, is currently the only Primordial Entity which engages in combat regularly without being so angry as to use a Field Passive. He wanders like a normal person but holds the responsibility of a bound Primordial Entity.
@@ -92,9 +77,13 @@ Along with [[Scorch]]'s influence, Signus can grip an enemy in hardened brimston
 
 While Signus is on the battlefield, heat covers everything and afflicts everything except Signus, including the caller. Slowly, enemies and allies alike will burn away, giving the fight a more frantic pace to outlast the enemy.
 
-#### Active: Signus' Distinction
+#### Signus' Distinction
 
 Once in a while, Signus can get to extremely hot flames, his body briefly turning a deep purple. During this time, his attacks, attack speed, reaction time, and movement speed are much greater in scale, but exhaustion creeps in very fast.
+
+#### Reappearances
+
+Anywhere where there's fire, provided it isn't on a living entity, Signus can near-instantly appear there. The range is limited to 100 meters at a time.
 
 ## Weaponry
 
@@ -124,3 +113,21 @@ Clamped is meant for ranged engagements where a tighter packing allows for highe
 
 Signus summons the ammunition, but standard fire uses 30-shell magazines. Extended fire runs off of Signus himself, which functionally has no meaningful limit. Technically it has a limit, which is Signus' supply of fire.
 
+## Attributes
+
+### Fire Drain
+
+- Fire-based attacks will heal instead of hurt by their fire-component.
+- Hybrid attacks (kinetic with fire imbued as an example) will still deal Kinetic damage but will heal by the Fire damage.
+
+### Learned Resilience
+
+- Increased resistance to Water, Ice, and Wind-based attacks or components.
+
+### Boosted Presence
+
+- Provides enhanced fire potency when around an allied fire-based attack.
+
+### Expanded Tolerance
+
+- Allows for those without his fragment to call on him, if they have either his or someone else with a fragment's approval.

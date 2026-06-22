@@ -17,7 +17,7 @@ aliases:
 > - Species: [[Hedron]]
 > - Height: 6 ft, 4 in
 > - Weight: 537 lbs
-> - Author: [[Interval (Author)]]
+> - Author: [[Polytope]]
 
 > [!abstract] Cordyc's Metadata
 > - Name: Cordyc
@@ -29,7 +29,7 @@ aliases:
 > - Race: Orion
 > - Activated Height: 12 ft, 8 in
 > - Activated Weight: 587 lbs
-> - Author: [[Interval (Author)]]
+> - Author: [[Polytope]]
 
 > [!info] Hedron Info
 > - Shell: Standard Composite
@@ -55,7 +55,7 @@ Not much in specific happened with Kepler during [[Kingdom III]] aside from what
 
 ### TFCT (Crossing)
 
-In said mission of finding his siblings, he met [[Interval (OC)|Interval]], a person whom he respects for what he did to aid him. Although, he's been concerned as of late, citing that "he's changed, and he won't talk to me". He still owns Interval's own MP443 Grach from long ago, but keeps it in a display case and refuses to use it.
+In said mission of finding his siblings, he met [[Interval]], a person whom he respects for what he did to aid him. Although, he's been concerned as of late, citing that "he's changed, and he won't talk to me". He still owns Interval's own MP443 Grach from long ago, but keeps it in a display case and refuses to use it.
 
 During this time, Poinsot and Lagrange were recovered and found safe. From there, Kepler began finding more of his species around and making bonds.
 

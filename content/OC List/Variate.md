@@ -2,8 +2,6 @@
 
 > [!abstract] Metadata
 > - Name: Variate
-> - Nickname:
-> 	- Saint ([[Interval (OC)]])
 > - Age: 2 yrs.
 >  > [!info]
 >  > If you're confused by the age number, check the species' maturation at the species page, or keep reading. There's a reason why he's only two.
@@ -14,7 +12,7 @@
 >  - Height: 7 ft, 3 in
 >  - Weight: 584 lbs
 >  - Current Occupation: Weapons Specialist at [[Interdimensional Defense & Advanced Research Center|I.D.A.R.C.]]
->  - Author: [[Interval (Author)]]
+>  - Author: [[Polytope]]
 
 ## History
 

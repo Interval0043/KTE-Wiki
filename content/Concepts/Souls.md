@@ -14,7 +14,7 @@ This involves [[Sprinklekit|Sprinklekits]] and how their souls are used.
 
 It's listed in the [[Sprinklekit]] species page under "Souls".
 
-## [[Interval (Author)|Polytope]]'s Interpretation
+## [[Polytope|Polytope]]'s Interpretation
 
 While not fully feature-complete, as it cannot handle standard organs like other soul types do, it's used in the [[Hedron]] and [[Manifold]] species.
 

@@ -39,7 +39,7 @@ It is highly recommend you include this part. Each section under this is its own
 
 ## *Weapons, Abilities, whatever you want to call it!*
 
-This section is completely up to you, even the header names. I ([[Interval (Author)]]) typically do Abilities, Extra Weapons, and Attributes. But, you do you! Creativity is definitely encouraged with this one.
+This section is completely up to you, even the header names. I ([[Polytope]]) typically do Abilities, Extra Weapons, and Attributes. But, you do you! Creativity is definitely encouraged with this one.
 
 > [!example]
 > This is just an example of how the format is used. Don't include this in your submissions, please!
@@ -56,7 +56,7 @@ This section is completely up to you, even the header names. I ([[Interval (Auth
 > - Height: 5 ft., 8 in.
 > - Weight: 150 lbs.
 > - Current Occupation: camp counselor (real)
-> - author: [[Interval (Author)]]
+> - author: [[Polytope]]
 > 
 > ## History
 > he's just a guy

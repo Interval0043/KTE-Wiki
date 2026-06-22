@@ -16,7 +16,7 @@
 > - [[Dimensional Fragments|Fragment]]: Earthen
 > - Height: 7 ft, 8 in
 > - Weight: 301 lbs
-> - Author: [[Interval (Author)]]
+> - Author: [[Polytope]]
 
 ## History
 

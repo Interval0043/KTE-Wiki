@@ -11,8 +11,8 @@ aliases:
 
 ### Former Name
 
-Originally created under the name Division 46 by [[Interval (OC)]] a bit after [[TFCT (Crossing)]], its original goals were to restitch Dimensional Boundaries and prevent merges. However, after a falling out, Division 46 fell through.
+Originally created under the name Division 46 by [[Interval]] a bit after [[TFCT (Crossing)]], its original goals were to restitch Dimensional Boundaries and prevent merges. However, after a falling out, Division 46 fell through.
 
 ### New Light
 
-Now, as [[Interval (OC)]] gets his bearings and reintroduces himself to the world, he's found that [[Malice]] is a gigantic issue he does not enjoy, with his newfound appreciation of nature clashing with [[Malice]]'s desire to consume.
+Now, as Interval gets his bearings and reintroduces himself to the world, he's found that [[Malice]] is a gigantic issue he does not enjoy, with his newfound appreciation of nature clashing with Malice's desire to consume.
