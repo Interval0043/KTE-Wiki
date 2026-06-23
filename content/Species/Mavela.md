@@ -26,9 +26,11 @@ While not inherently unstable in nature, people who define themselves by only po
 
 An Eden Energy user also has a special application (outside of just making others stronger) that makes the user a formidable, but knowledgeable threat, and that is their “adaptability”. Their “adaptability” means seamlessly integrating forms of knowledge into their arsenal, givjng them the ability to also extract abstract information from other souls in nearly every way.
 
-### Unexperienced: Anyone absorbed usually turns into raw energy, but can very rarely turn into small quantities of magic that integrate memories, allowing the user to understand things that they aren’t aware of; Or understand the fundamentals of, but not exactly know enough about the form of magic or fighting technique to use it.
+### Unexperienced: 
+Anyone absorbed usually turns into raw energy, but can very rarely turn into small quantities of magic that integrate memories, allowing the user to understand things that they aren’t aware of; Or understand the fundamentals of, but not exactly know enough about the form of magic or fighting technique to use it.
 
-### Experienced: A user can either turn extracted life force into either raw energy or knowledge, or both (divided equally). Instead of having to learn magic from the ground-up, they may start off with adequate knowledge, and are capable enough to use it in battle. They are also capable of extracting techniques and fighting styles from others, but still not all. 
+### Experienced: 
+A user can either turn extracted life force into either raw energy or knowledge, or both (divided equally). Instead of having to learn magic from the ground-up, they may start off with adequate knowledge, and are capable enough to use it in battle. They are also capable of extracting techniques and fighting styles from others, but still not all. 
 > [!note]
 >
 > The more advanced a user is of MIGHT, the more capable the user is of extracting information/attributes from others more effectively. They can do other things such adopting languages, mapping out areas, and knowing other people just through a singular kill.
