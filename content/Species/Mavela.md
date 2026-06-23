@@ -40,6 +40,7 @@ A user can either turn extracted life force into either raw energy or knowledge,
 * Mavela can grow up to 20 feet tall.
 * Old mavela tend to have serious callousing, which can be as grit as sandpaper, which is why a majority wear gloves.
 * A Mavela's blood is black.
+* A female and male Mavela drastically differ in power, males being significantly more powerful than females.
 
 # Bodily structure
 
