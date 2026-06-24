@@ -41,7 +41,7 @@ The rigid moral framework he has is something he and very few others have known 
 
 ## Appearance
 
-Adorns a blue flower crown which is held together by vines, with half of his face being covered by an anomalous gas mask with a futuristic design. Under Teegan’s zippered camo jacket (which contains the colors blue, black and white), there’s a black hoodie, which is paired with grey jeans and some black, laced sneakers. A long piece of black fabric covers his blinded right eye, where a huge curved scar stretching all the way from his collar bone up to his forehead could be seen, which is hidden behind his clothing.
+Adorns a blue flower crown which is held together by vines, along with a flower eyepatch with chains covering his right eye. Half of his face is covered by an anomalous gas mask with a futuristic design. Under Teegan’s white suit there’s a shirt, which is paired with jeans and some white, laced boots. A huge curved scar stretches all the way from his collar bone up to his forehead, which is mostly covered by clothing and the eyepatch, where his right eye was damaged in battle.
 
 ## Soul: Prime Empathy
 
@@ -67,7 +67,7 @@ Teegan’s sub-relativistic experience at full mental capacity would essentially
 
 ## Battle Technique: Adaptive
 
-Unlike his friends of relatives, Teegan imprints heavily off of the moves others have used and uses it against others. Teegan has a tendency to copy whatever the opponent uses, and sometimes even mimics part of their fighting style in order to confuse them. Another unique aspect of Teegan’s unpredictable nature is his tendency to randomly throw out strong, heavy-hitting attacks, usually enhanced further with his own magic (E.g: large, high velocity projectiles and full-force strikes to weak spots he identifies).
+Unlike his friends or relatives, Teegan imprints heavily off of the moves others have used and uses it against others. Teegan has a tendency to copy whatever the opponent uses, and sometimes even mimics part of their fighting style in order to confuse them. Another unique aspect of Teegan’s unpredictable nature is his tendency to randomly throw out strong, heavy-hitting attacks, usually enhanced further with his own magic (E.g: large, high velocity projectiles and full-force strikes to weak spots he identifies).
 
 Besides for his copying, he has a rather unpredictable nature. Teegan has a having a mosly defensive approach that focuses on disarming opponents and standing his ground; Also shielding himself from projectiles and other attacks. He will often priortize the safety of his allies, and will hold himself back if he knows his opponent can't defeat him
 
@@ -77,26 +77,28 @@ Unlike Jacob, he is a heavy-hitter who will analyze their opponents, combat pres
 
 ### 雹 雷 (Hyō Kaminari)
 
-‘Hail Thunder’ translated from Japanese, this katana has an edge to its blade that’s is constantly empowered by a powerful alloy of Orium and Sleetane. Depending on how much magic Teegan concentrates onto this katana, he can channel variety of different types of attacks, some not directly involving his own. 
+‘Hail Thunder’ translated from Japanese, this anomalous katana has an edge to its blade that’s is constantly empowered by powerful alloys forged within Cryosilis.
 
-Its origins comprised of it being an electricity-based katana that utilizes electrical magic to administer blows and even ranged projectiles, along with it’s user, providing an even greater advantage during battle; Imbued with the blue moon’s magic, it wasn't idealistic to wield it with a weak magical capacity and expect a great output. This weapon was used by an old Orian Chosen before they had died valiantly in battle, passed down into Teegan’s young hands.
+Its origins of being an electricity-based katana means that is utilizes a holy form of electrical magic, providing an even greater advantage during battle; Imbued with the blue moon’s magic, it made it far easier for Teegan to defend himself against the creations of [[Dire]. This weapon was used by an old Orian Chosen member before they had died valiantly in battle, passed down into Teegan’s young hands.
 
-Teegan with his own magical enhancements can use the electricity to create physical, curve-like slashes that can travel in a given direction. The electricity the sword uses is able to chain to other opponents, along with being able to hold its electrical current inside of the individual which enables the potential for damage received to chain onto other opponents.
+*This katana can be charged with Teegan's own magic, and can do the following!
 
-Another specialty is he is able to use the electricity to empower his swings, and even dash with the katana, essentially speed-blitzing the enemy.
+* Create physical, curve-like slashes of electricity that can chain onto other opponents.
+* Able to charge the katana with magic, with swings being capable of sending Teegan in a given direction quickly. 
+
 
 ### Cryostar Pulsator (CSP)
 
-The CSP is a powerful railgun that packs a punch, with each bolt harnessing the energy of even the coldest stars of cryosilis. With the help of Senvic, the CSP is made from various custom, magical materials that are designed to resist the impossibly high pressures this weapon releases, allowing for a clean pull of the trigger with barely any recoil. This railgun has multiple implanted devices inside that act as both coolants inside, and act as a self-sustaining energy generator.
+The CSP (Which Teegan calls "Pulsar") is a powerful, highly destructive railgun that packs a punch, with each bolt harnessing the energy of even the coldest stars of cryosilis. With the help of Senvic, the CSP is made from various custom, magical materials that are designed to resist the impossibly high pressures this weapon releases, allowing for a clean pull of the trigger with barely any recoil. This railgun has multiple implanted devices inside that act as both coolants inside, and act as a self-sustaining energy generator.
 
-When the beam fires, it releases frigid, subzero temperatures that the generators absorbs and uses to generate enough energy to fire again.
+When the beam fires, it releases frigid, subzero temperatures that the generators absorbs and uses to generate enough energy to fire again. This is by far Teegan's most powerful weapon, as it can level out entire stars as opposed to being able to destroy small planets.
 
 ### Nitrogenic Electricity Devastator (NGED)
 
 Patented by [[Senvic Astral]], this thousand year old concept was brought back to its feet. 
 Teegan is now responsible for the devastation such a fabrication brings.
 
-The NGED is a complex, sleek needle shaped device that has an opening at the end that shoots a powerful, concentrated laser consisted of extremely cold, electricified devastation.  The NGED is a weaker, but more cost-effective iteration of the CSP. Implanted inside of the weapon is a self-adjusting flight mechanism that allows for the device to balance itself whilst airborne, allowing for a quick and steady shot when needed. Teegan is able to attach this device to any part of his body, mostly his arms and back. These beams, when released are powerful enough to create an effect that allows for Teegan to boost his momentum, similar to a jetpack.
+The NGED is a complex, sleek needle-shaped device that has an opening at the end that shoots a powerful, concentrated laser consisted of extremely cold, electricified devastation.  The NGED is a weaker, but more cost-effective iteration of the CSP. Implanted inside of the weapon is a self-adjusting flight mechanism that allows for the device to balance itself whilst airborne, allowing for a quick and steady shot when needed. Teegan is able to attach this device to any part of his body, mostly his arms and back. These beams, when released are powerful enough to create an effect that allows for Teegan to boost his momentum, similar to a jetpack.
 
 Additionally, the NGED is able to recharge its energy at much more adequate rate, and can fire instantaneously without internally damaging its systems, as the NGED is formed from Teegan’s own magic. In contrast, the CSP cannot be replicated, and as such requiring more caution to be handled.
 
@@ -131,7 +133,7 @@ During a fight, Teegan’s mask radiates an aura of intense, volatile orium gas 
 
 Additionally, there’s a rare chance for “Clouds” of these gases to form, which provide an even greater threat, as they stray away from the cyclone, and are more conductive, and shoot out ice shards in all directions like shrapnel due to the concentrations of unstable energy inside. 
 
-The cyclone subconsciously adjusts to his exact position, making sure Teegan is never outside of the ‘Eye’.
+The cyclone constantly adjusts to his exact position, making sure Teegan is never outside of the ‘Eye’.
 
 ### Heal Beam
 
