@@ -16,16 +16,6 @@ A significant change in a young Mavela’s appearance and behavior is the develo
 
 The maturation process is relatively the same as ordinary humans, other than the fact that once Mavela hit 25~ years of age, they are unable to age physically past that point. Unlike any other species, they are paradoxical: incapable of physically aging, but are still capable of passing of natural causes.
 
-## Eden Energy (MIGHT)
-
-Eden Energy is a form of magic that is produced from the raw desire to dominate, found in entities of orgin to Godfall. Fundamentally, Eden energy is the manifestation of might itself that affects anything living, but is more likely to affect those with an active conscience.
-
-When an entity possesses Eden Energy, they have the ability to empower themselves from taking lives, siphoning away their life force. The “empowerment” described is an absolute improvement to one’s spiritual and physical essence; Though gradually, it takes more of this energy to amplify itself more.
-
-While not inherently unstable in nature, people who define themselves by only power are often consumed by the energy (both physically and mentally), and will go through a process to redistribute this energy after their eventual death. This distribution process is not by choice, and will follow the decay of the soul and vessel.
-
-An Eden Energy user also has a special application (outside of just making others stronger) that makes the user a formidable, but knowledgeable threat, and that is their “adaptability”. Their “adaptability” means seamlessly integrating forms of knowledge into their arsenal, givjng them the ability to also extract abstract information from other souls in nearly every way.
-
 ### Unexperienced: 
 Anyone absorbed usually turns into raw energy, but can very rarely turn into small quantities of magic that integrate memories, allowing the user to understand things that they aren’t aware of; Or understand the fundamentals of, but not exactly know enough about the form of magic or fighting technique to use it.
 

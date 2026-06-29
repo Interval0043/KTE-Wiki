@@ -4,7 +4,7 @@
 > - Name: Variate
 > - Age: 2 yrs.
 >  > [!info]
->  > If you're confused by the age number, check the species' maturation at the species page, or keep reading. There's a reason why he's only two.
+>  > If you're confused by the age number, check the species' maturation at the species page. There's a reason why he's only two.
 >  - Sexuality: Unknown, assumed asexual
 >  - Language: English
 >  - Gender: Male

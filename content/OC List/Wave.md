@@ -64,4 +64,16 @@ Wave can analyze and place an effect on an enemy, deepening their weakness susce
 
 This ability is signaled by the lenses on his glasses briefly flashing yellow.
 
-### 
+### Burning Hold
+
+His left hand will glow red to signify this is active. While active, he can catch any projectile or magic-based attack with it to store it in his hand. The time between activation and catching is important to note, as it dictates the reliability and strength of the move.
+
+The activation to catch window must be no longer than 3 seconds. When releasing the magic, he must prime and then release. The prime-release time is the same as the activate-catch time, giving an incentive to activating right before an attack connects. The time it takes to catch it is also inversely proportional to the strength of the counter. The longer the time taken, the weaker the return. When caught nearly immediately after activation, the released attack will be significantly stronger than what it was originally.
+
+Note that something like this isn't going to be constantly active, as it can catch nearly anything that falls under its category. Granted, there is a Break condition, where if an attack is high enough in strength, the counter fails to initiate entirely.
+
+### One More
+
+Using a bit of energy and active uptime, Wave can initiate a One More, giving himself an immediate action to take. This can be used to end strings of hits, or to get himself an opening when he needs to slide in a specific attack. He can also use it to get out of enemy hit strings, however he tends to be unreliable with it and may not exit properly.
+
+The One More is signified by a brief blue light em where Wave is standing
