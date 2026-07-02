@@ -25,11 +25,11 @@ aliases:
 
 ## Basics
 
-Teegan is a young genius (Both emotionally and in an educational sense) who values morality and reason. His goal in life is to become someone who impacts the world positively, and become somebody people can look up to. He’s sensitive, caring, and protective over the people he loves. But most of the time, he’s a nonchalant, but unserious goof who only wants to bring smiles to the people around him. He’s a skilled fighter that takes baking very seriously, and will offer up just about anyone for a bite.
+Teegan is a young genius (Both emotionally and in an educational sense) who values morality and reason. His goal in life is to become someone who impacts the world positively, and become somebody people can look up to. He’s sensitive, caring, and protective over the people he loves. But most of the time, he’s a nonchalant, but unserious goof who only wants to bring smiles to the people around him. 
 
 ## Personality
 
-Teegan is a good-hearted individual, believing himself to be a heroic figure, regarded to by his family as a very intelligent, humble, and confrontational. He speaks in a warm, soft demeanor, usually speaking in short sentences, and using people’s names instead of their pronouns, saves him the effort. Tends to use short words or phrases like “Eh”, “Nah”, “Cool”, or “Sup” (isn’t limited to just these 4), with an emphasis on contractions (e.g. using “don’t instead of “do not”) Unlike his old self, he’s not as interruptive, not letting his sensitive side get the best of him. Teegan's voice is soft and airy, leaning more towards feminine vocal range that resonates with others as calm and serene.
+Teegan is a good-hearted individual, believing himself to be a heroic figure, regarded to by his family as an intelligent, humble, and confrontational person. Unlike his old self, he’s not as interruptive, more resistant to letting his sensitive side get the best of him. 
 
 Additionally, Teegan often prefers to avoid conflicts. He is very laid-back, but is open to try new things, as he's always curious in what makes other people so happy. Teegan is pretty reasonable and open-minded to other opinions because he values everyone's point of view. He’s also a strong listener, and is prone to eavesdropping on other people’s conversations just for the sake of it, “it never kills anybody to just be a little vigilant”, he thinks.
 
@@ -38,6 +38,8 @@ He is a very empathetic person, but don’t let that fool you, he will know when
 He’s mad because he cares and doesn’t like to be confused, and he’s very scared of losing his friends and family. He knows if no one speaks about an issue, that’s all it will take for it to spiral out of control. When Teegan does lash out, you’d be shocked to know how much worry or frustration he could be bottling up. He picked up these violent tendencies from his own father, and tries to resist this kind of behavior.
 
 The rigid moral framework he has is something he and very few others have known about, but have never acknowledged.
+
+He speaks in a warm, soft demeanor, usually speaking in short sentences. He tends to use short words or phrases like “Eh”, “Nah”, “Cool”, or “Sup” (isn’t limited to just these 4), with an emphasis on contractions (e.g. using “don’t instead of “do not”). Teegan's voice is also soft and airy, leaning more towards feminine vocal range that resonates with others as calm and serene.
 
 ## Appearance
 
@@ -81,7 +83,7 @@ Unlike Jacob, he is a heavy-hitter who will analyze their opponents, combat pres
 
 Its origins of being an electricity-based katana means that is utilizes a holy form of electrical magic, providing an even greater advantage during battle; Imbued with the blue moon’s magic, it made it far easier for Teegan to defend himself against the creations of [[Dire]]. This weapon was used by an old Orian Chosen member before they had died valiantly in battle, passed down into Teegan’s young hands.
 
-This katana can be charged with Teegan's own magic, and can do the following!
+This katana can be charged with Teegan's own magic, and can do the following:
 
 * Create physical, curve-like slashes of electricity that can chain onto other opponents.
 * Able to charge the katana with magic, with swings being capable of sending Teegan in a given direction quickly. 
@@ -90,15 +92,15 @@ This katana can be charged with Teegan's own magic, and can do the following!
 #### Additional Weapon Capabilities
 
 * Breaker: Increased contact damage against armor.
-* Paralyze: 20% chance to paralyze a limb (\*in select species, see below) when a charged contact strike is made with said limb. It will primarily work through nerve paralysis but also functions through soul affliction.
+* Paralyze: 20% chance to paralyze a limb (in select species, see below) when a charged contact strike is made with said limb. It will primarily work through nerve paralysis but also functions through soul affliction.
 	* Condition: The affected entity must have a functioning nervous system and/or soul which acts in place of one.
 * Overclock: Faster swing recovery for more punishing attacks
 
 ### Cryostar Pulsator (CSP)
 
-The CSP (Which Teegan calls "Pulsar") is a powerful, highly destructive railgun that packs a punch, with each bolt harnessing the energy of even the coldest stars of Cryosilis. With the help of Senvic, the CSP is made from various custom, magical materials that are designed to resist the impossibly high pressures this weapon releases, allowing for a clean pull of the trigger with barely any recoil. This railgun has multiple implanted devices inside that act as both coolants inside, and act as a self-sustaining energy generator.
+The CSP (Which Teegan calls "Pulsar") is a powerful, destructive railgun that packs a punch, with each bolt harnessing the energy of even the coldest stars of Cryosilis. With the help of Senvic, the CSP is made from various custom, magical materials that are designed to resist the impossibly high pressures this weapon releases, allowing for a clean pull of the trigger with barely any recoil. This railgun has multiple implanted devices inside that act as both coolants inside, and act as a self-sustaining energy generator.
 
-When the beam fires, it releases frigid, subzero temperatures that the generators absorbs and uses to generate enough energy to fire again. This is by far Teegan's most powerful weapon, as it can level out entire stars as opposed to being able to destroy small planets.
+When the beam fires, it releases frigid, subzero temperatures that the generators absorb and use to generate enough energy to fire again. This is by far Teegan's most powerful weapon, as it can level out entire stars as opposed to being able to destroy small planets.
 
 ### Nitrogenic Electricity Devastator (NGED)
 
