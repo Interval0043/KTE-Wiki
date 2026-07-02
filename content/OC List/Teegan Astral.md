@@ -94,7 +94,7 @@ This katana can be charged with Teegan's own magic, and can do the following:
 #### Additional Weapon Capabilities
 
 * Breaker: Increased contact damage against armor.
-* Paralyze: 20% chance to paralyze a limb (in select species, see below) when a charged contact strike is made with said limb. It will primarily work through nerve paralysis but also functions through soul affliction.
+* Paralyze: Has a chance to paralyze a limb (in a select species, see below) when a charged contact strike is made with said limb. It will primarily work through nerve paralysis but also functions through soul affliction.
 	* Condition: The affected entity must have a functioning nervous system and/or soul which acts in place of one.
 * Overclock: Faster swing recovery for more punishing attacks
 
