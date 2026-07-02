@@ -33,7 +33,7 @@ Teegan is a good-hearted individual, believing himself to be a heroic figure, re
 
 Additionally, Teegan often prefers to avoid conflicts. He is very laid-back, but is open to try new things, as he's always curious in what makes other people so happy. Teegan is pretty reasonable and open-minded to other opinions because he values everyone's point of view. He’s also a strong listener, and is prone to eavesdropping on other people’s conversations just for the sake of it, “it never kills anybody to just be a little vigilant”, he thinks.
 
-He is a very empathetic person, but don’t let that fool you, he will know when others are bullshitting. He has a strong dislike for lying, and is able to see through it most times than not. As a result, that is one of the only times he’ll respond with clear frustration or anger. His condition that makes his body respond very poorly to high levels of stress does not help, either.
+He is a very empathetic person, but don’t let that fool you, he will know when others are bullshitting. He is not naive, and also has a strong dislike for lying. As a result, that is one of the only times he’ll respond with clear frustration or anger. His condition that makes his body respond very poorly to high levels of stress does not help, either.
 
 He’s mad because he cares and doesn’t like to be confused, and he’s very scared of losing his friends and family. He knows if no one speaks about an issue, that’s all it will take for it to spiral out of control. When Teegan does lash out, you’d be shocked to know how much worry or frustration he could be bottling up. He picked up these violent tendencies from his own father, and tries to resist this kind of behavior.
 
@@ -45,13 +45,15 @@ He speaks in a warm, soft demeanor, usually speaking in short sentences. He tend
 
 Adorns a blue flower crown which is held together by vines, along with a flower eyepatch with chains covering his right eye. Half of his face is covered by an anomalous gas mask with a futuristic design. Under Teegan’s white suit there’s a shirt, which is paired with jeans and some white, laced boots. A huge curved scar stretches all the way from his collar bone up to his forehead, which is mostly covered by clothing and the eyepatch, where his right eye was damaged in battle.
 
-## [[Souls|Soul]]: Prime Empathy
+## [[Souls|Soul]]: Prime Empathy / Cryosilis Neutron Star ([[Astral Family]] Trait)
 
-A soul that takes on a teal color. At birth, Teegan had a heightened sense of awareness in other’s struggles. Now, Teegan utilizes this to help others and allow them to grow as a person. Teegan can display a unique a sense of belonging to the mentally unwell and vulnerable. Teegan naturally hones a sense of comfort akin to a god.
+At birth, Teegan had a heightened sense of awareness in other’s struggles. Now, Teegan utilizes this to help others and allow them to grow as a person. Teegan can display a unique a sense of belonging to the mentally unwell and vulnerable; As Teegan naturally hones a sense of comfort akin to a god. Teegan is able to utilize the soul magic he has to physically heal and cleanse those of impurities.
 
-Teegan with this soul is able to stabilize other’s feelings easier than just about anyone else, his influence so powerful it would take an eternity to replicate in another individual, if they had the courage to do so. Teegan is able to utilize his soul magic to physically heal and cleanse those who struggle, able to induce a calming and positive feeling. Teegan is able to see through the worst and bring out the most, which is what makes him so special.
+Teegan’s soul is what’s called a ‘Prime Soul’, meaning that he does not need a vessel to survive, and can reform vessel he holds using his own supply of magic.
 
-Teegan’s soul is what’s called a ‘Prime Soul’, meaning that he does not need a vessel to survive, and can reform vessel he holds through his own supply of magic.
+Just like the celestial object Teegan embodies Teegan's soul is in constant motion, and in appearance, is similar to that of a neutron star: Teegan's soul is teal, encompassed in a plasma-like coating of Orium.
+
+When there is no vessel for Teegan's soul to take form in, he is able to release strong pulsars as a measure of defense.
 
 ## Statistics
 
@@ -121,19 +123,6 @@ Teegan’s body naturally stores and collects electrical energy through a very d
 
 The only thing Teegan really uses this ability for is its defensive purposes, like disarming opponents with powerful shocks, or immobilizing them temporarily. Teegan’s oral cavity has developed specialized auralytes that act like a battery, releasing visible concentrations of a blue electricity. This can’t travel very far, but it spreads out enough to zap anyone close that’s in his general direction. If it ever comes to such a situation, his teeth can act as tasers; His teeth are essentially prongs, and when that enters any place it’s not supposed to, it’s powerful enough to definitely burn. One last use is controlling magnetic fields, especially to fly.
 
-### Eyes of Oria
-
-> [!quote]
-> ***This feeling, and those voices of urge, Who may you be? What remains unanswered shall be if fate calls: to part forevermore. Witness this surge as I diminish the sinful, and loathe those askew.***
-
-Harbored at birth, Teegan’s eyes are able to radiate a bright, sky blue color. Rays of light shine in a horizontal line traveling away from his head. Teegan receives a significant, but not an entirely clear power boost. However, his overall magic and senses ampen to a great degree. 
-
-Teegan’s sympathy, and hesitation to hurt the opponent slowly begins to fade as the fight continues. Whenever this happens, Teegan can show less disregard for his own safety, becoming a brutal, relentless force of nature.
-
-This only occurs if he is near-death, or feels a very strong sense of hatred towards an individual, he has a choice to either give in or deny the choice to do so through the whispering of the anomaly.
-This restores his vessel completely, and any previous mind-altering effects will be cleared.
-Afterwards, Teegan is not able to receive the option to use this again within a period of days or weeks unless he is near-death, of which the anomaly can gain complete control of his body due to the lack of magic being able to support himself.
-
 ### (Passive) Polar Cyclone
 
 The “Polar Cyclone” is a magical technique that allows for Teegan to utilize the power of wind in order to conserve his stamina and maximize his movement speed, while benefiting him in other ways such as granting him flight. This is one of the many wonders of orium Teegan has yet to discover.
@@ -146,15 +135,15 @@ The cyclone constantly adjusts to his exact position, making sure Teegan is neve
 
 ### Heal Beam
 
-Teegan can manifest steady beams of healing magic that can connect and outstretch to a given target, this beam constantly pumps healing magic into the individual - Potency can be dialed back and fourth depending on what Teegan deems fit. 
+Teegan can manifest steady beams of healing magic that can connect and outstretch to a given target. The potency of these beams can be dialed back and fourth depending on what Teegan deems fit. 
 
 These beams radiate with a form of blue, electric energy; almost like they’re fluid, flowing bolts of lighting.
 
-### Shallow Fixation
+### Eye For Eye
 
-When Teegan’s eyes of oria gleam, so does his understanding in others, but not in  sympathetic way. When he trades glares with one another, he will physically drain their life force away, depending on how much resentment, dislike or hatred the individual has towards him. 
+When Teegan’s eyes of oria gleam, so does his understanding in others, but not in sympathetic way. When he trades glares with one another, he will physically drain their life force away, depending on how much resentment, dislike or hatred the individual has towards him. 
 
-This often leaves the opponent fatigued and nauseous, and it often makes them more irritated towards Teegan. This ability essentially gives him order to keep his the enemy from backing down.
+This often leaves the opponent fatigued and nauseous, but it makes them more irritated towards Teegan. 
 
 ### HAILSTORM
 
@@ -174,7 +163,7 @@ However, he only uses this ability if his allies are in a critical or vulnerable
 
 ### Pluvianic Mask
 
-An anomalous, yet intricately made gas mask that seems to be comprised of a weird, dark material infused with Teegan’s own electricity— Acting as a form of fuel source, where he can filter out any harmful gases or compounds. Teegan is able to turn translucent in varying visibility, enough for it to be virtually invisible. This mask is permanently “attached” to his face, but another unique feature about it is that it can enter a state of intangibility, meaning his full face can be exposed if he so chooses.
+An anomalous, yet intricately made gas mask that seems to be comprised of a weird, dark material infused with Teegan’s own electricity; This material acts to filter out any harmful gases or compounds. This mask is permanently “attached” to his face, but another unique feature about it is that it can enter a state of intangibility, meaning his full face can be exposed if he so chooses. This also means that Teegan's mask is able to turn translucent in varying visibility, enough for it to be virtually invisible. 
 
 Another anomalous feature of the mask is that it can burn through its energy faster in order to release a thick, magical gas that is highly conductive with electricity, and acts as a powerful tool for him to control the environment in a tough situation. The gas looks very similar to clouds, with the low grumbles of lightning being prevalent.
 
