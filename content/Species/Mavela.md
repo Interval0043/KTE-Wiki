@@ -1,5 +1,3 @@
-
-
 Mavela are pale-white, night-dwelling [[Human|Humans]] twisted by the over-abundance of magic within [[Godfall]], previously known on Earth as humans; Who were ripped out of their world without a second thought, right into the hands of [[Niocstra]], who remolded humanity’s societal expectations into a brutal dystopia of kill-and-conquer. Their souls were doomed to embody the essence of negative emotion, which makes their kind much more susceptible to becoming severely mentally ill, or worse: Evil, remorseless fiends that leech off of, and destroy the world around them.
 
 They’re taller, far stronger, and their bodies rapidly mutate to survive any extreme. Mavela are predatory, and have evolved large, pointed black teeth, with the inside of the throat lined with layers of thin, viperfish-like teeth. Mavela also have razor-sharp, claw-like nails used as weapons, or as tools to climb and navigate through terrain.
@@ -15,15 +13,6 @@ Early Mavela (especially in their adolescent stages) are driven more by risk-tak
 A significant change in a young Mavela’s appearance and behavior is the development of their eyes: An extreme dilation in the pupil, which is a telltale sign that they’re still developing to thrive outside of low-light conditions. In older Mavela, it signifies an emergency response in their body.
 
 The maturation process is relatively the same as ordinary humans, other than the fact that once Mavela hit 25~ years of age, they are unable to age physically past that point. Unlike any other species, they are paradoxical: incapable of physically aging, but are still capable of passing of natural causes.
-
-### Unexperienced: 
-Anyone absorbed usually turns into raw energy, but can very rarely turn into small quantities of magic that integrate memories, allowing the user to understand things that they aren’t aware of; Or understand the fundamentals of, but not exactly know enough about the form of magic or fighting technique to use it.
-
-### Experienced: 
-A user can either turn extracted life force into either raw energy or knowledge, or both (divided equally). Instead of having to learn magic from the ground-up, they may start off with adequate knowledge, and are capable enough to use it in battle. They are also capable of extracting techniques and fighting styles from others, but still not all. 
-> [!note]
->
-> The more advanced a user is of MIGHT, the more capable the user is of extracting information/attributes from others more effectively. They can do other things such adopting languages, mapping out areas, and knowing other people.
 
 ## Other
 * Mavela are organless, and thus have an anomalous esophagus leading to their soul (Like other magical species), which is how they eat.

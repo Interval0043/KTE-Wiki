@@ -43,7 +43,7 @@ The rigid moral framework he has is something he and very few others have known 
 
 Adorns a blue flower crown which is held together by vines, along with a flower eyepatch with chains covering his right eye. Half of his face is covered by an anomalous gas mask with a futuristic design. Under Teegan’s white suit there’s a shirt, which is paired with jeans and some white, laced boots. A huge curved scar stretches all the way from his collar bone up to his forehead, which is mostly covered by clothing and the eyepatch, where his right eye was damaged in battle.
 
-## Soul: Prime Empathy
+## [[Souls|Soul]]: Prime Empathy
 
 A soul that takes on a teal color. At birth, Teegan had a heightened sense of awareness in other’s struggles. Now, Teegan utilizes this to help others and allow them to grow as a person. Teegan can display a unique a sense of belonging to the mentally unwell and vulnerable. Teegan naturally hones a sense of comfort akin to a god.
 
@@ -77,19 +77,26 @@ Unlike Jacob, he is a heavy-hitter who will analyze their opponents, combat pres
 
 ### 雹 雷 (Hyō Kaminari)
 
-‘Hail Thunder’ translated from Japanese, this anomalous katana has an edge to its blade that’s is constantly empowered by powerful alloys forged within Cryosilis.
+‘Hail Thunder’ translated from Japanese, this anomalous katana has an edge to its blade that’s is constantly empowered by powerful alloys forged within [[Cryosilis]].
 
-Its origins of being an electricity-based katana means that is utilizes a holy form of electrical magic, providing an even greater advantage during battle; Imbued with the blue moon’s magic, it made it far easier for Teegan to defend himself against the creations of [[Dire]. This weapon was used by an old Orian Chosen member before they had died valiantly in battle, passed down into Teegan’s young hands.
+Its origins of being an electricity-based katana means that is utilizes a holy form of electrical magic, providing an even greater advantage during battle; Imbued with the blue moon’s magic, it made it far easier for Teegan to defend himself against the creations of [[Dire]]. This weapon was used by an old Orian Chosen member before they had died valiantly in battle, passed down into Teegan’s young hands.
 
-*This katana can be charged with Teegan's own magic, and can do the following!
+This katana can be charged with Teegan's own magic, and can do the following!
 
 * Create physical, curve-like slashes of electricity that can chain onto other opponents.
 * Able to charge the katana with magic, with swings being capable of sending Teegan in a given direction quickly. 
+* Able to block, activating a shock on contact with physical attacks.
 
+#### Additional Weapon Capabilities
+
+* Breaker: Increased contact damage against armor.
+* Paralyze: 20% chance to paralyze a limb (\*in select species, see below) when a charged contact strike is made with said limb. It will primarily work through nerve paralysis but also functions through soul affliction.
+	* Condition: The affected entity must have a functioning nervous system and/or soul which acts in place of one.
+* Overclock: Faster swing recovery for more punishing attacks
 
 ### Cryostar Pulsator (CSP)
 
-The CSP (Which Teegan calls "Pulsar") is a powerful, highly destructive railgun that packs a punch, with each bolt harnessing the energy of even the coldest stars of cryosilis. With the help of Senvic, the CSP is made from various custom, magical materials that are designed to resist the impossibly high pressures this weapon releases, allowing for a clean pull of the trigger with barely any recoil. This railgun has multiple implanted devices inside that act as both coolants inside, and act as a self-sustaining energy generator.
+The CSP (Which Teegan calls "Pulsar") is a powerful, highly destructive railgun that packs a punch, with each bolt harnessing the energy of even the coldest stars of Cryosilis. With the help of Senvic, the CSP is made from various custom, magical materials that are designed to resist the impossibly high pressures this weapon releases, allowing for a clean pull of the trigger with barely any recoil. This railgun has multiple implanted devices inside that act as both coolants inside, and act as a self-sustaining energy generator.
 
 When the beam fires, it releases frigid, subzero temperatures that the generators absorbs and uses to generate enough energy to fire again. This is by far Teegan's most powerful weapon, as it can level out entire stars as opposed to being able to destroy small planets.
 
@@ -147,6 +154,20 @@ When Teegan’s eyes of oria gleam, so does his understanding in others, but not
 
 This often leaves the opponent fatigued and nauseous, and it often makes them more irritated towards Teegan. This ability essentially gives him order to keep his the enemy from backing down.
 
+### HAILSTORM
+
+Teegan has an app on his phone called “HAILSTORM” that was installed on his phone by [[Senvic Astral|Senvic]], which opens a bunch of wormholes that release a massive barrage of missiles that explode into heavy orium-infused shrapnel. These missiles home into a single or multiple given locations.
+
+Has a long cooldown, as this ability is very destructive and devastating.
+
+### Pulsar Defense
+
+Teegan has an ability that ensures whoever he protects will be encased in an extreme field of gravity that propels any harmful projectiles or even opponents. This field is also imbued with as intensely frigid temperatures, meaning coming into close contact to whoever is protected could potentially be flash-frozen immediately.
+
+Whoever is affected by this ability isn’t affected by it forever, as the effect it has dies down over time, but can be restored by Teegan’s magic. Maintaining such an impossibly low temperatures and gravity is costly, which means it can be quite tiring if he uses this on multiple people.
+
+However, he only uses this ability if his allies are in a critical or vulnerable state. The indication of this ability usually follows a series of two large rays of magic expelling from below and overhead and then rotating around aimlessly.
+
 ## Equipment
 
 ### Pluvianic Mask
@@ -154,6 +175,36 @@ This often leaves the opponent fatigued and nauseous, and it often makes them mo
 An anomalous, yet intricately made gas mask that seems to be comprised of a weird, dark material infused with Teegan’s own electricity— Acting as a form of fuel source, where he can filter out any harmful gases or compounds. Teegan is able to turn translucent in varying visibility, enough for it to be virtually invisible. This mask is permanently “attached” to his face, but another unique feature about it is that it can enter a state of intangibility, meaning his full face can be exposed if he so chooses.
 
 Another anomalous feature of the mask is that it can burn through its energy faster in order to release a thick, magical gas that is highly conductive with electricity, and acts as a powerful tool for him to control the environment in a tough situation. The gas looks very similar to clouds, with the low grumbles of lightning being prevalent.
+
+### Neurobloom
+
+The main resource-management ability Teegan has that is responsible for his success in the mimicry of both his allies and opponents. Teegan can create Neurobloom by summoning large, sun-shaped seeds in the ground, which quickly grow into crystalline sunflowers that aim their heads at target to “photosynthesize” from them.
+
+These flowers extract parts of the target’s psyche and can even do the opposite by nullifying certain parts of an opponent’s (or even an ally’s) memory. 
+
+What this does is that it allows Teegan to steal abilities or techniques from others, or even disabling them in the user temporarily through tampering with their memory. For example, if enough flowers are aimed at an enemy, Teegan’s flowers can cause the opponent to forcefully “forget” how to use it, making them unaware of the ability’s existence. However, Teegan cannot nullify passive abilities, only active ones. 
+
+Another application of this ability is that Teegan can both copy active and passive abilities from both his opponent and allies, however the abilities extracted from allies can be used much more freely. Though, there is usually more resistance whenever going into taking advantage of those who aren’t very willing.
+
+Another special feature of these flowers is that their roots rapidly expand to interconnect to eachother, intensifying their resilience, but allowing for a network of tendrils that can be controlled by the flowers themselves and Teegan. In the presence of an attack, these roots will shoot out from the ground and cover the flower defensively, while others may attack or attempt to fend off the opponent.
+
+There are different kinds of Neurobloom, but they all serve to fulfil the same purpose of extraction. Generally, whenever an ability is stolen or “nullified” fully, the flower is destroyed after when the process of doing so. Neuroblooms spread and produce seeds through higher tiers of Neuroblooms through releasing a special form of pollen.
+
+Whenever an ability is stolen or nullified, the Neurobloom(s) responsible will be destroyed after the use of the ability. 
+
+### Basic Neurobloom (1st Tier)
+
+Smaller flowers that focus on nullifying the opponent’s active abilities (cannot nullify passives).
+
+### Advanced Neurobloom (2nd Tier)
+
+Bigger flowers that focus on stealing the opponent’s active and passive abilities.
+
+### Monarch Neurobloom (3rd Tier)
+
+The largest out of the 3, Moncarch Neuroblooms have 2 conjoined stems and 2 heads that focus separately on nullifying and stealing opponent’s abilities. However, the highest tier of Neurobloom is capable of surviving a couple to a few uses.
+
+Whenever a Monarch Neurobloom finishes the process of extracting information from the opponent, it releases a special form of pollen that effects nearby Neuroblooms, allowing for then to shoot projectiles or imbue their roots with a form of magic an opponent or ally has.
 
 ## Trivia
 
