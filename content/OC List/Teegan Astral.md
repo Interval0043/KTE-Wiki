@@ -60,13 +60,13 @@ When there is no vessel for Teegan's soul to take form in, he is able to release
 
 ## Statistics
 
-### Durability (Large Planet Level)
+### Durability (Planetary Level)
 
-Teegan is capable of resisting enough force to destroy or significantly damage areas with size comparable to a large planet (E.g: Jupiter, Saturn.). 
+Teegan is capable of resisting enough force to destroy or significantly damage areas with size comparable to a planet.
 
-### Planetary AP + Destruction (Small Planet)
+### Planetary AP + Destruction (Planetary level)
 
-Teegan is capable of exerting enough force equivalent enough to significantly damage areas with size comparable to a small planet like Pluto, although not with ease.
+Teegan is capable of exerting enough force equivalent enough to significantly damage areas with size comparable to a planet.
 
 ### Sub-Relativistic Speeds + Reaction Time
 
