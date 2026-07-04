@@ -30,7 +30,7 @@ Jacob struggles with serious PTSD as a result of guilt and the destruction that 
 
 ## Personality
 
-Jacob is an adventurous, outspoken individual who often speaks callously. He swears pretty often and usually doesn't go by names for anyone (e.g. saying things like "Hey you", or what's generally considered to be rude), speaking quickly and breathlessly depending on the mood he feels. He does this because of his subjection to situations with little breathing room, and didn’t have time to think for politeness. He is very direct when he needs to be, and uses a lot of contractions like "You're" or "Ain't" to sound quicker.
+Jacob is an adventurous, outspoken individual who often speaks callously. He swears pretty often and usually doesn't go by names for anyone (e.g. saying things like "Hey you", or what's generally considered to be rude), speaking quickly and breathlessly depending on the mood he feels. He does this because of his subjection to situations with little breathing room, and didn’t have time to think for politeness. He is very direct when he needs to be, and uses a lot of contractions like "You're" or "Ain't" to sound quicker. He also tends to use a lot of slang.
 
 He finds fulfillment in exploration and the liberation of others, coming from the stories told of the world by [[Counter Will]]. His liberation comes from [[Draconic Will|Draconic]], and while not often at all holding a “moral high-horse”, he hates seeing others being bossed around or controlled.
 
