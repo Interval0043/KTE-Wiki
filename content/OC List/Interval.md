@@ -71,4 +71,10 @@ Long gone is his vitriol and vengeance, now he's just really tired in an almost 
 
 For a long while, especially while in isolation, he's wished for someone to spend his time with. While preferably a lover, it could even be someone he could consider a friend. He thinks of himself as being disrespected by most, which may be true considering his past.
 
-Yet another product of his isolation is his unwillingness to talk, 
+Yet another product of his isolation is his unwillingness to talk, preferring to not speak unless asked questions directly, and will only answer as necessary. Social concepts tend to lose their hold in extended periods of being alone.
+
+## Appearance
+
+First and most prominently are his eyes, as they're almost always half-lidded and sagging, unlike the norm where they're completely open at almost all times. He also has a mild standing forward hunch, likely because of carrying heavy objects by himself quite often in his own living. He's thinned out a little, despite Manifolds not typically gaining or losing weight, but something weighing down on his soul has caused him to lose gas.
+
+On to the clothes, he typically wears a tunic and leggings made of ethically-sourced animal pelt, of which is a combination of deer, elk, and a few others native to [[Foreau]]. He wears hiking boots almost everywhere, and they are not clean in the slightest, tracking a slight amount of mud everywhere he walks.
