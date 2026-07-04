@@ -50,11 +50,9 @@ Jacob has red, garnet colored eyes and messy, unkempt hair. He also wears a clot
 
 ## Soul: Prime Wrath
 
-Jacob’s soul was formed in the deepest spires of the Velvian Crags alongside his sister, where his soul would later erupt, emitting ferocious and unstable flames, his soul burning dark garnet.
+Jacob’s soul was formed in the deepest spires of the Velvian Crags, where his soul would later erupt, emitting ferocious and unstable flames that made his soul burn a dark garnet. These flames would be later named brimstone flames to signify the power behind them.
 
-This volatile trait would reach its absolute after Dire put an intense physical and mental strain on Jacob for a long period (to the point where he's capable of empowering his magic from his own emotions), which in turn made his magic strong, but left his endurance limited, as he can overdo himself if he cannot control it.
-
-If he is in severely injured, his magic is able to overcome his mind and body; transforming him into a manifestation of Wrath itself.
+This volatile trait reached its absolute after Dire put an intense physical and mental strain on Jacob, which in turn made his magic stronger, but left his endurance limited.
 
 ## Statistics
 
@@ -198,6 +196,8 @@ If damaged, Jacob’s blood can spread across his body and harden.
 
 - Jacob used to draw traditionally and digitally, but has since lost his artistic vision. He thinks that he found better ways to use it, weaponizing it with his excellent strategies.
 
-- He plays video games (Mostly tower defense) a lot and smokes with [[Teegan Astral|Teegan]], though a little less due to him having his guard raised most of the time, which makes him prone to have bad trips.
+- He plays video games (Mostly tower defense) a lot, and smokes with [[Teegan Astral|Teegan]], though a little less due to him having his guard raised most of the time, which makes him prone to have bad trips.
 
 - He likes eating huge, nutritious meals such as different forms of meats, usually tough seasoned steak. He also really likes most kinds of soup for some reason. He likes barbecue, too.
+
+- He got the nickname "BBQ" when his younger self put barbeque on all of his food.
