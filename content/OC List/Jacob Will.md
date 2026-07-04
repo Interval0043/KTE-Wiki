@@ -196,8 +196,8 @@ If damaged, Jacob’s blood can spread across his body and harden.
 
 ## Trivia
 
-Jacob used to draw traditionally and digitally, but has since lost his artistic vision. He thinks that he found better ways to use it, weaponizing it with his excellent strategies.
+- Jacob used to draw traditionally and digitally, but has since lost his artistic vision. He thinks that he found better ways to use it, weaponizing it with his excellent strategies.
 
-He plays video games (Mostly tower defense) a lot and smokes with [[Teegan Astral|Teegan]], though a little less due to him having his guard raised most of the time, which makes him prone to have bad trips.
+- He plays video games (Mostly tower defense) a lot and smokes with [[Teegan Astral|Teegan]], though a little less due to him having his guard raised most of the time, which makes him prone to have bad trips.
 
-He likes eating huge, nutritious meals such as different forms of meats, usually tough seasoned steak. He also really likes most kinds of soup for some reason. He likes barbecue, too.
+- He likes eating huge, nutritious meals such as different forms of meats, usually tough seasoned steak. He also really likes most kinds of soup for some reason. He likes barbecue, too.
