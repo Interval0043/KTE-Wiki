@@ -8,8 +8,6 @@ Kills growing to their name means power, both figuratively and literally.
 
 Mavela are a ravenous species that necessitate constant growth and exercise, having a life expectancy of 10,000 years, meaning they aren’t biologically locked to a certain age to die of “natural causes”. However, this doesn’t mean that they are physically immortal, as their lifespan also has to do with the “Eden Energy” that makes up a part of their soul. Within these stages of development, a Mavela can expect a lot of psychological and physical changes.
 
-Early Mavela (especially in their adolescent stages) are driven more by risk-taking factors, and are also more hyperactive than humans. Another cognitive bias that could potentially stick with Mavela is their dislike of companionship from other sapient or non-sapient creatures, other than themselves; As previous interactions between other unfamliar entities has resulted in their death. They are also hardwired to have a strong distaste for noisy atmospheres, which has the possibility to trigger a frenzy of fear and a strong sense of impending doom; as danger in Godfall is often tied to noise, and are already more sensitive to noise in general.
-
 A significant change in a young Mavela’s appearance and behavior is the development of their eyes: An extreme dilation in the pupil, which is a telltale sign that they’re still developing to thrive outside of low-light conditions. In older Mavela, it signifies an emergency response in their body.
 
 The maturation process is relatively the same as ordinary humans, other than the fact that once Mavela hit 25~ years of age, they are unable to age physically past that point. Unlike any other species, they are paradoxical: incapable of physically aging, but are still capable of passing of natural causes.
@@ -38,3 +36,7 @@ A Mavela’s soul is formed commonly to embody a negative, “Dull” trait, and
 Due to a part of their soul solely being responsible for the management of MIGHT, this means that becoming a part of the Mavela species means that you’e already given a natural talent of sorts: Any Mavela is capable of extracting the life force of others more effectively, as opposed to any other species that tries to grasp MIGHT and benefit from its alternative capabilities.
 
 Just like a few other soul-centered organisms, emotion is a factor of power that influences themselves and the world around them; And for many Mavela, the “limit” or authority over themselves (including everything around them) else heightens through expression. In short: The mind of a Mavela is very powerful when in its deepest turmoils.
+
+## Psychology
+
+Early Mavela (especially in their adolescent stages) are driven more by risk-taking factors, and are also more hyperactive than humans. Another cognitive bias that could potentially stick with Mavela is their dislike of companionship from other sapient or non-sapient creatures, other than themselves; As previous interactions between other unfamliar entities has resulted in their death. They are also hardwired to have a strong distaste for noisy atmospheres, which has the possibility to trigger a frenzy of fear and a strong sense of impending doom; as danger in Godfall is often tied to noise, and are already more sensitive to noise in general.
