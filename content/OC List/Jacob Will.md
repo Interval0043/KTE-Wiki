@@ -56,13 +56,13 @@ This volatile trait reached its absolute after Dire put an intense physical and 
 
 ## Statistics
 
-### Exceptional Durability (Small Planet Level)
+### Exceptional Durability (Planetary Level)
 
-Jacob is capable of resisting enough force to destroy or significantly damage areas with size comparable to a smaller planet.
+Jacob is capable of resisting enough force to destroy or significantly damage areas with sizes comparable to planets.
 
-### Planetary AP + Destruction (Small-Large Planet Level)
+### Planetary AP + Destruction (Planetary Level)
 
-Jacob is capable of exerting enough force equivalent enough to significantly damage areas with size comparable to a large planet like Jupiter.
+Jacob is capable of exerting enough force equivalent enough to significantly damage areas with size comparable to planets.
 
 ### Massively Hypersonic (+) Speeds & Reaction Time
 
