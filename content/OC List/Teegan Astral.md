@@ -36,7 +36,7 @@ Teegan is a good-hearted individual, believing himself to be a heroic figure, re
 
 Additionally, Teegan often prefers to avoid conflicts. He is very laid-back, but is open to try new things, as he's always curious in what makes other people so happy. Teegan is pretty reasonable and open-minded to other opinions because he values everyone's point of view. He’s also a strong listener, and is prone to eavesdropping on other people’s conversations just for the sake of it, “it never kills anybody to just be a little vigilant”, he thinks.
 
-He is a very empathetic person, but don’t let that fool you, he will know when others are bullshitting. He is not naive, and also has a strong dislike for lying. As a result, that is one of the only times he’ll respond with clear frustration or anger. His condition that makes his body respond very poorly to high levels of stress does not help, either.
+He is a very empathetic person, but don’t let that fool you, he will know when others are bullshitting. He is not naive, and also has a strong dislike for lying. As a result, that is one of the only times he’ll respond with clear frustration or anger.
 
 He’s mad because he cares and doesn’t like to be confused, and he’s very scared of losing his friends and family. He knows if no one speaks about an issue, that’s all it will take for it to spiral out of control. When Teegan does lash out, you’d be shocked to know how much worry or frustration he could be bottling up. He picked up these violent tendencies from his own father, and tries to resist this kind of behavior.
 
