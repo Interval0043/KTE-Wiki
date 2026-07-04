@@ -23,7 +23,7 @@ aliases:
 > - Author: [[Psychotropicz, Crazer]]
 > - Applicable Groups: [[Astral Family]]
 
-## Basics/History
+## History/Basics
 
 Teegan is a young genius (Both emotionally and in an educational sense) who values morality and reason. His goal in life is to become someone who impacts the world positively, and become somebody people can look up to. He’s sensitive, caring, and protective over the people he loves. But most of the time, he’s a nonchalant, but unserious goof who only wants to bring smiles to the people around him. His biggest fears are death, his sedatephobia (Fear of quiet envoirnments), and the selfishness in others.
 
