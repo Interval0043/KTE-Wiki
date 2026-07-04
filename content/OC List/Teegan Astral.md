@@ -25,11 +25,12 @@ aliases:
 
 ## History/Basics
 
-Teegan is a young genius (Both emotionally and in an educational sense) who values morality and reason. His goal in life is to become someone who impacts the world positively, and become somebody people can look up to. He’s sensitive, caring, and protective over the people he loves. But most of the time, he’s a nonchalant, but unserious goof who only wants to bring smiles to the people around him. His biggest fears are death, his sedatephobia (Fear of quiet envoirnments), and the selfishness in others.
+Teegan is a young genius (Both emotionally and in an educational sense) who values morality and reason. His goal in life is to become someone who impacts the world positively, and become somebody people can look up to. He’s sensitive, caring, and protective over the people he loves. But most of the time, he’s a nonchalant, but unserious goof who only wants to bring smiles to the people around him. His biggest fears are death, his sedatephobia (fear of quiet envoirnments), and the selfishness in others.
 
 He was taken into care by the [[Astral Family]], where he now assists Leigon Of Nazareth in his voluntary duties of rescuing others. He was originally an Orian Chosen member before the destruction of cryosilis, having resigned out of fear; The death and silence that followed still haunts Teegan to this day. Thankfully, he wasn't shunned nor heckled for leaving, and he would begin to fiercly fight for others once he regained his footing.
 
 What most don't know about him is that he was born in the Oria Crags, where a certain tree would be responsible for the creation of his soul.
+
 ## Personality
 
 Teegan is a good-hearted individual, believing himself to be a heroic figure, regarded to by his family as an intelligent, humble, and confrontational person. Unlike his old self, he’s not as interruptive, more resistant to letting his sensitive side get the best of him. 
