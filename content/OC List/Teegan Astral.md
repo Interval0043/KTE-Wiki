@@ -23,10 +23,13 @@ aliases:
 > - Author: [[Psychotropicz, Crazer]]
 > - Applicable Groups: [[Astral Family]]
 
-## Basics
+## Basics/History
 
-Teegan is a young genius (Both emotionally and in an educational sense) who values morality and reason. His goal in life is to become someone who impacts the world positively, and become somebody people can look up to. He’s sensitive, caring, and protective over the people he loves. But most of the time, he’s a nonchalant, but unserious goof who only wants to bring smiles to the people around him. 
+Teegan is a young genius (Both emotionally and in an educational sense) who values morality and reason. His goal in life is to become someone who impacts the world positively, and become somebody people can look up to. He’s sensitive, caring, and protective over the people he loves. But most of the time, he’s a nonchalant, but unserious goof who only wants to bring smiles to the people around him. His biggest fears are death, his sedatephobia (Fear of quiet envoirnments), and the selfishness in others.
 
+He was taken into care by the [[Astral Family]], where he now assists Leigon Of Nazareth in his voluntary duties of rescuing others. He was originally an Orian Chosen member before the destruction of cryosilis, having resigned out of fear; The death and silence that followed still haunts Teegan to this day. Thankfully, he wasn't shunned nor heckled for leaving, and he would begin to fiercly fight for others once he regained his footing.
+
+What most don't know about him is that he was born in the Oria Crags, where a certain tree would be responsible for the creation of his soul.
 ## Personality
 
 Teegan is a good-hearted individual, believing himself to be a heroic figure, regarded to by his family as an intelligent, humble, and confrontational person. Unlike his old self, he’s not as interruptive, more resistant to letting his sensitive side get the best of him. 
@@ -45,7 +48,7 @@ He speaks in a warm, soft demeanor, usually speaking in short sentences. He tend
 
 Adorns a blue flower crown which is held together by vines, along with a flower eyepatch with chains covering his right eye. Half of his face is covered by an anomalous gas mask with a futuristic design. Under Teegan’s white suit there’s a shirt, which is paired with jeans and some white, laced boots. A huge curved scar stretches all the way from his collar bone up to his forehead, which is mostly covered by clothing and the eyepatch, where his right eye was damaged in battle.
 
-## [[Souls|Soul]]: Prime Empathy / Cryosilis Neutron Star ([[Astral Family]] Trait)
+## [[Souls|Soul]]: Prime Empathy / Cryosilis Neutron Star (Astral Family Trait)
 
 At birth, Teegan had a heightened sense of awareness in other’s struggles. Now, Teegan utilizes this to help others and allow them to grow as a person. Teegan can display a unique a sense of belonging to the mentally unwell and vulnerable; As Teegan naturally hones a sense of comfort akin to a god. Teegan is able to utilize the soul magic he has to physically heal and cleanse those of impurities.
 
@@ -198,6 +201,8 @@ The largest out of the 3, Moncarch Neuroblooms have 2 conjoined stems and 2 head
 Whenever a Monarch Neurobloom finishes the process of extracting information from the opponent, it releases a special form of pollen that effects nearby Neuroblooms, allowing for then to shoot projectiles or imbue their roots with a form of magic an opponent or ally has.
 
 ## Trivia
+
+- He has a lot of knowledge and awarness about the world around him, as he has had access to classified documents from the Leigon Of Nazareth.
 
 - He is a frequent listener of music, mainly many soundtracks from video games. He also likes to bake, and is known for memorizing nearly 200 induvidual recipes for pie.
 
