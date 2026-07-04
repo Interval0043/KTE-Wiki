@@ -33,6 +33,10 @@ A soul of a Sprinklekit can develop a trait that goes by a very diverse spectrum
 
 Souls, by definition are the powerhouse to all magic within a sprinklekit’s body; Without it, they wouldn’t be able to function in the slightest, just like how mitochondria generates energy for ATP.
 
+### Psychology 
+
+
+
 ### Location
 
 The soul of a sprinklekit is located within the middle of the chest, which is where the sternum is often found. There are 3 countermeasures evolution has taken in order to ensure the safety of the sprinklekit species, aptly named the “Cryo-Phylaxis system”.
