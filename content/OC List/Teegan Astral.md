@@ -87,7 +87,7 @@ Unlike Jacob, he is a heavy-hitter who will analyze their opponents, combat pres
 
 ‘Hail Thunder’ translated from Japanese, this anomalous katana has an edge to its blade that’s is constantly empowered by powerful alloys forged within [[Cryosilis]].
 
-Its origins of being an electricity-based katana means that is utilizes a holy form of electrical magic, providing an even greater advantage during battle; Imbued with the blue moon’s magic, it made it far easier for Teegan to defend himself against the creations of [[Dire]]. This weapon was used by an old Orian Chosen member before they had died valiantly in battle, passed down into Teegan’s young hands.
+Its origins of being an electricity-based katana means that is utilizes a holy form of electrical magic, providing an even greater advantage during battle; Imbued with the blue moon’s magic, it made it far easier for Teegan to defend himself against the creations of [[Dire Will|Dire]]. This weapon was used by an old Orian Chosen member before they had died valiantly in battle, passed down into Teegan’s young hands.
 
 This katana can be charged with Teegan's own magic, and can do the following:
 

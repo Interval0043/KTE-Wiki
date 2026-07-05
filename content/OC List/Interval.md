@@ -65,6 +65,18 @@ Interval has spent much of the last 30 years in complete isolation from human co
 
 Now well-rested and realizing he has work to do, he reformed [[46th Specialized Division|46SD]] and is currently making plans. With only his right arm and an unending hunger, he's ready to hunt Malice and show them who they're up against.
 
+#### The Deal
+
+"Cosmos, come to me. I need some assistance."
+
+**"What could it possibly be, wretch?"**
+
+"The world's gone to shit, and I feel like I need to do something about it. Malice has taken quite a lot of the nearby city, and I can only do so much myself."
+
+**"Fine. But for that, I need something in return. Give me your left arm. Not that I find any value in it, rather that I need you to know your place."**
+
+"
+
 ## Personality
 
 Long gone is his vitriol and vengeance, now he's just really tired in an almost endearing way. Life's had a way of giving him exhaustion, and his Absence Fragment doesn't help in that regard. He very much enjoys naps, much like myself.
@@ -78,3 +90,5 @@ Yet another product of his isolation is his unwillingness to talk, preferring to
 First and most prominently are his eyes, as they're almost always half-lidded and sagging, unlike the norm where they're completely open at almost all times. He also has a mild standing forward hunch, likely because of carrying heavy objects by himself quite often in his own living. He's thinned out a little, despite Manifolds not typically gaining or losing weight, but something weighing down on his soul has caused him to lose gas.
 
 On to the clothes, he typically wears a tunic and leggings made of ethically-sourced animal pelt, of which is a combination of deer, elk, and a few others native to [[Foreau]]. He wears hiking boots almost everywhere, and they are not clean in the slightest, tracking a slight amount of mud everywhere he walks.
+
+The last thing of note is his left arm is entirely missing, including the shoulder. Despite this, he still wears clothes that have two sleeve-holes, in a tell that he wishes he had both arms.

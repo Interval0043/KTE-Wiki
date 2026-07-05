@@ -24,11 +24,7 @@ Lastly, as each member passes down these traits from generation to generation, t
 
 ## List of Family Members
 
-- [[Theia Astral]]
-- [[Reishon Astral]]
-- [[Senvic Astral]]
-- [[Shaden Astral]]
-- [[Teegan Astral]]
+
 
 ## Close Ties
 
