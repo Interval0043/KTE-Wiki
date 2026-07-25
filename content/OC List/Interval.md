@@ -133,7 +133,7 @@ They will be put in as necessary.
 
 ### Blurred Sensation
 
--Distance to Interval is proportional to senses experienced by the enemy. The closer they are, the less they hear, smell, and taste. Vision is affected through a smog that seemingly gets thicker the closer the enemy approaches. Touch is unaffected, along with other senses.
+Distance to Interval is proportional to senses experienced by the enemy. The closer they are, the less they hear, smell, and taste. Vision is affected through a smog that seemingly gets thicker the closer the enemy approaches. Touch is unaffected, along with other senses.
 
 ### Monodextrous Proficiency
 

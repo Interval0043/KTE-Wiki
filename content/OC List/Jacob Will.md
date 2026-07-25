@@ -170,7 +170,7 @@ It has a transmutator built inside that allows for magic to be created at the co
 
 A legendary object Jacob’s soul manifested in the immediate aftermath of Dire’s death; This is an intense byproduct of Jacob’s devotion to bringing down the evil that plagued and tortured thousands of worlds at a time. He can bring it in and out of existence, and for good reason: He wants to keep it hidden, because he knows what he has is what everyone would die for to have.
 
-This orb can be gazed into only by the wrathful eyes of the holder himself. What he sees is an enormous vision of all [[Malice]], stretching past a seemingly infinite distance in all directions, functioning as a sort of anomalous “map” that gives him a real-time surveillance of [[Malediction|Maledictions]] from impossible distances.
+This orb can be gazed into only by the wrathful eyes of the holder himself. What he sees is an enormous vision of all [[Malice]], stretching past a seemingly infinite distance in all directions, functioning as a sort of anomalous “map” that gives him a real-time surveillance of [[Malice#Malediction|Malediction]] from impossible distances.
 
 However, gazing into this orb requires for him to charge the orb with impossibility magic for him to do so, acting as a sort of “battery” that prevents him from using it too often. Turns out, anything involving Malice just makes anything more difficult.
 
