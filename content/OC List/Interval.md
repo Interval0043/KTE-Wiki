@@ -105,9 +105,9 @@ The last thing of note is his left arm is entirely missing, including the should
 
 As Interval's gift from Cosmos, it functions as a blunderbuss-inspired shotgun-style weapon. It's light, with a pistol grip and one single magical shell in the chamber. It does not need to be reloaded, as it charges naturally while holstered.
 
-The draw speed is highly increased, allowing its primary use to shine. It's able to be brought up and shot point-blank very easily for high burst damage and high cooldown. Alternatively, it can be swung to act as a blunt weapon, usually rotated around the trigger guard and spun around his index finger.
+The draw speed is highly increased, allowing its primary use to shine. It's able to be brought up and shot point-blank very easily for high burst damage and high cooldown. Alternatively, it can be swung to act as a blunt weapon, usually rotated around the trigger guard and spun around his index finger. When used this way, it emits a powerful burst of raw Magic, allowing it to reliably stun or kill lower-level Malice.
 
-<span style="color:yellow">Repeater:</span> When fired, it will fire again very soon after, almost acting as a fast double-barrel fire, despite there not being two barrels. When swung, Interval will attempt a second hit on the return as well, as opposed to putting it at his side.
+<span style="color:yellow">Repeater:</span> When fired, it will fire again very soon after, almost acting as a fast double-barrel fire, despite there not being two barrels. When swung, Interval will attempt a second stronger hit on the return as well, as opposed to putting it at his side.
 
 ### EAOs
 
