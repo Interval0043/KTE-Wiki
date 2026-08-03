@@ -83,7 +83,7 @@ Once in a while, Signus can get to extremely hot flames, his body briefly turnin
 
 #### Reappearances
 
-Anywhere where there's fire, provided it isn't on a living entity, Signus can near-instantly appear there. The range is limited to 100 meters at a time.
+Anywhere there's fire, provided it isn't on a living entity, Signus can near-instantly appear there. The range is limited to 100 meters at a time.
 
 ## Weaponry
 

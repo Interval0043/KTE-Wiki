@@ -1,4 +1,3 @@
-
 > [!abstract] Metadata
 > -  Former Name: Alyaksey Harun
 > - Designation: Rorik
@@ -58,21 +57,7 @@ his military training can rise through, making him grow cold. This is only tempo
 ### Shared Cognition
 
 Some other experiment that same lab was working on managed to get tangled with Rorik, laying dormant in his brain. Through extracted logs, it is known to cause unnecessary aggression in cases of high stress, or an otherwise instinctive drift akin to an actual wolf, which should not normally exist. This is foreshadowed through the sclera flashing purple for a brief moment.
-He is a frequent listener of music, mainly many soundtracks from video games. He also likes to bake, and is known for memorizing nearly 200 induvidual recipes for pie.
 
-His goal is to become apart of the Welfare and Scouting Department in LON, where he can make pastries for staff members and check up on the residents of other dimensions, along with saving and taking care of the many that were left without a home or world after Age Of Fear.
-
-He often plays difficult, souls-like games that provide him a challenge, he also really likes adding a bunch of mods to his games.
-
-Teegan's voice is described as soft and airy, leaning more towards feminine vocal range.
-
-He has a large appetite and is a fast eater, outpacing most of his family and finishing his food before anyone else.
-
-He's usually preoccupied with his daily exercise, as he as a lot of care for his body. He also owns expensive hygenic products (Which Jacob sometimes uses). Despite this, he doesn't feel the need to use makeup, because he feels like his appearance is already "Stunning enough" for Jacob (Which may or may not be true.) 
-
-Teegan’s favorite foods/drinks/deserts are: Mint milkshakes, mint-chocolate chip icecream, pancakes and lemon lime flavored sodas like sprite. He also likes chewing on ice.
-
-For trips he goes on, he usually goes to other dimensions and loves soaring through the intense winds of cold gas planets like Neptune
 ### Extra Strength
 
 Because of the steroids they gave him and other substances, it damaged his pituitary gland. This means he has an excess production of certain hormones, especially ones which control muscle and bone development, leading to excess strength. While helpful, this is still a medical issue that should be resolved, as this leads to discomfort when there shouldn’t be any.
