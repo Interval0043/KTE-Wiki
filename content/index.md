@@ -11,7 +11,7 @@ Made with hot glue and dreams, hosted from [this GitHub Repository](https://gith
 
 ## Useful Pages
 
-- [[OC Format]]
+- [[Character Format]]
 - [[Species Format]]
 - [[Markdown Reference]] (for those wanting to contribute!)
 - [[Wiki Style Guideline]] (after reading the Markdown Reference)

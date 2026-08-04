@@ -6,7 +6,7 @@
 > Insert a quote for the OC here.
 
 > [!abstract] Metadata
-> Metadata is (mostly) Crazer's old format. Just the whole quick and fast info deal.
+> Metadata is (mostly) [[Psychotropicz, Crazer|Crazer]]'s old format. Just the whole quick and fast info deal.
 > - **Full Name**
 > - *Nickname(s)*
 > - **Age**
