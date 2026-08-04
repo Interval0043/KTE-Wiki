@@ -31,7 +31,7 @@
 
 ### Formation
 
-Soon after the death of [[Dire Will]], especially in the middle of [[KTE (init)]], more [[Dimensional Fragments]] were spread around. One of which was a Radon fragment, forming and giving us Nuclide. He came to [[Interdimensional Defense & Advanced Research Center|I.D.A.R.C.]] soon after, requiring a specialized suit to function properly around other people. Eventually, he was trusted and knowledgeable enough to earn himself a spot on their staff.
+Soon after the death of [[Dire Will]], especially in the middle of [[Eternal Infection (init)]], more [[Dimensional Fragments]] were spread around. One of which was a Radon fragment, forming and giving us Nuclide. He came to [[Interdimensional Defense & Advanced Research Center|I.D.A.R.C.]] soon after, requiring a specialized suit to function properly around other people. Eventually, he was trusted and knowledgeable enough to earn himself a spot on their staff.
 
 For an unknown reason at the time, his personality formed when he put his suit on, as he seemingly didn't have one beforehand and only acted on pure instinct.
 

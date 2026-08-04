@@ -63,7 +63,7 @@ Safe to say, the guy's about as broken as they get for Manifolds. Through the ye
 
 Interval has spent much of the last 30 years in complete isolation from human contact. For one, it's given him the ability to appreciate nature much more, and therefore intensified his hatred of Malice. Second, he's gained the ability to understand non-speaking / non-anthropomorphic animals on a deeper level, often finding solace in their non-judgmental presence.
 
-### [[KTE (Where Life Stands)]]
+### [[Eternal Infection (Life Goes On)]]
 
 Now well-rested and realizing he has work to do, he reformed [[46th Specialized Division|46SD]] and is currently making plans. With only his right arm and an unending hunger, he's ready to hunt Malice and show them who they're up against.
 
