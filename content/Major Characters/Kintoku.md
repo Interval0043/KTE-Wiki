@@ -11,7 +11,7 @@
 > - Sexuality: Varies
 > - Languages: As many as those he absorbs.
 > - Gender: N/A
-> - Species: [[Human]] ([[Malediction]])
+> - Species: [[Human]] ([[Malice|Malediction]])
 > - Height: Varies
 > - Weight: Varies
 > - Author: [[Spookie]]
