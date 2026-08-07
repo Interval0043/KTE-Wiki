@@ -72,6 +72,10 @@ Species pages or concepts often have certain restrictions by the author on usage
 > [!failure] Author Note
 > The Failure callout is used when something is kept to the author and feedback is either not accepted or accepted only by close people, or the content isn't usable.
 
+### Other
+
+Anything else takes least priority in whatever order is deemed best fit.
+
 ### Usage Example
 
 > [!example] This is the Page Label example. Example Page Name: Jim's Legacy

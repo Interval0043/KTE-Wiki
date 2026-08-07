@@ -1,8 +1,6 @@
 > [!info] This page is currently under construction.
 > Changes will be made semi-frequently.
 
-> [!warning] Currently unverified.
-
 > [!quote]
 > *Always burning, always eager. What is it you ask of me, old friend?*
 > $\to$ Signus, responding to [[Lagrange]]'s friendly call.

@@ -14,7 +14,7 @@ aliases:
 
 The Hedrons are a fairly rare species, with an estimated 10,000 being an upper bound. Due to their unique formation criteria, with the added requirement of needing a [[Dimensional Fragments|Dimensional Fragment]] in most cases, they don't come about very often.
 
-They're primarily composed of a shell, a binding [[Souls|Soul]], and an inner substance that's usually a gas of some kind. Often, they also have a Fragment, but that isn't necessarily required (see: [[Variate]]). 
+They're primarily composed of a shell, a binding [[Souls|Soul]], and an inner substance that's usually a gas of some kind. Often, they also have a [[Dimensional Fragments|Fragment]], but that isn't necessarily required (see: [[Variate]]). 
 
 ## History
 
