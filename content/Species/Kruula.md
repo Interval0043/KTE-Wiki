@@ -1,4 +1,4 @@
-Kruula are bulky, golem-like demons with a hard, almost rocky exoskeleton They instinctively gravitate themselves towards chaos and destruction, sensing fear that brews a strong desire for souls. They hold the power of BLIGHT, used as a catalyst for their reign of power over souls.
+Kruula are bulky, golem-like demons with a hard, almost rocky exoskeleton. They instinctively gravitate themselves towards chaos and destruction, sensing fear that brews a strong desire for souls. They hold the power of BLIGHT, used as a catalyst for their reign of power over souls.
 
 A majority of the Kruula that exist were formed inside of the Eidolon Cavern, where lingering remnants of souls from Dire’s aftermath (and other unfortunate souls from other dimensions) were reincarnated. Many onlookers of Unstable Catalyst lacked the understanding that many of these poor creatures lived in a cruel, never ending battle for both survival and spiritual freedom; As Kruula weren’t at all to meant to relish in anything else but mindless slaughter.
 
