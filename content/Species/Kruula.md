@@ -66,7 +66,7 @@ Under the plates of a Kruula’s fingers lies a magical, gelatinous substance si
 
 ### Feet and hands 
 
-Kruula have feet/hands that share similarities to a gecko, with small, tightly-knit plating that appear to be “folds”. Kruula have tiny, microscopic hairs between them that they can retract, as to not stick to every surface they’re on. The way their feet and hairs are structured leaves them disadvantaged in diagonal mobility due to shortcomings in maintaining balance and grip; Their astounding mass clashes too much with even advanced evolutionary traits. Males are most affected by this disadvantage.
+Kruula have feet/hands that share similarities to a gecko, with small, tightly-knit plating that appear to be folds. Kruula have tiny, microscopic hairs between these that they can retract, as to not stick to every surface they’re on. The way their feet and hairs are structured leaves them disadvantaged in diagonal mobility due to shortcomings in maintaining balance and grip; Their astounding mass clashes too much with even advanced evolutionary traits. Males are most affected by this disadvantage.
 
 ### Mouth
 
