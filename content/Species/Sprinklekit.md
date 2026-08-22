@@ -4,16 +4,15 @@ aliases:
 ---
 ## General Description
 
-Sprinklekits are anthropomorphic felines that resemble a house cat in appearance, with the exception that they are bipedal, and have a large ice cream cone tail. They are exceptionally mobile, and most possess extraordinary levels of intelligence. 
+Sprinklekits are anthropomorphic felines that resemble a house cat in appearance, with the exception that they are bipedal, and have a large ice cream cone tail. They are exceptionally mobile, and most possess extraordinary levels of intelligence in adulthood. This felinid species has adapted to survive freezing temperatures, navigate obscured low-visibility environments, and traverse through intense weather and unstable terrain. 
 
-They are also very wise and by friendly by nature, where their values are often orchestrated by the divine; Teachings of self-acceptance and embracing imperfection in themselves in others. Within every sprinklekit’s soul lies benevolence, an unyielding force that pushes a betterment on the fate of omniverse. They possess 
-
+They are also very wise and by friendly by nature, where their values are often orchestrated by the divine; Teachings of self-acceptance and embracing imperfection in themselves in others. Within every sprinklekit’s soul lies benevolence: an unyielding force that pushes a betterment on the fate of omniverse. 
 
 ## Lifespan / Maturity
 
 A Sprinklekit’s lifespan can vary between 25,000-30,000 years of age before passing of natural causes, making them one of the more knowledgeable species among the omniverse. Sprinklekits follow the same physical and mental development process any sapient being does, but at a decelerated rate; As their brain develops for over 2,000-5,000 years, reaching far beyond what humans could ever imagine. In these millennia, Sprinklekits in their prime becoming machine-like in terms of computing power, able to dissect and master concepts with little to no effort (mental disabilities affect this, though).
 
-A young sprinklekit rests frequently within its first years 10, as their body 
+A young sprinklekit rests frequently within its first 10 years, as their body enters the phase where their body appears to be liquid, though constantly maintains a steady form. A sprinklekit’s auralytes in this stage are not fully developed, and thus cannot maintain a cold body temperature as easily, which calls for the parent to ensure the young sprinklekit is at a temperature stable.
 
 ### Physical Aging
 
@@ -26,13 +25,13 @@ Refer to the list below to see what stage a Sprinklekit is at based on their age
 * Adolescence (500-1000 yrs.)
 * Adulthood (1000+ yrs.)
 
-## Souls
+## Soul
 
-Souls are as complicated, if not more complicated than every single organ or cell in a non-magical being. A soul holds a Sprinklekit’s conciseness, and provides work to the magical cells a Sprinklekit contains. In the very middle of the soul lies a very large concentration of magic that is essentially a supercomputer that goes through hundreds of thousands of calculations, like managing blood-flow and correctly identifying injuries. 
+A soul of a Sprinklekit can develop a trait that goes by a very diverse spectrum, and is usually determined at birth. A trait can dictate a wide variety of things, from very simple things as the way the magic of an individual works, or more complex concepts like emotional management and intelligence. Sprinklekits are much more likely to develop positive traits that affect a sprinklekit’s psyche in a good manner, as opposed to Mavela, where their bad traits are often something they fall victim to.
 
-A soul of a Sprinklekit can develop a trait that goes by a very diverse spectrum, and is usually determined at birth. A trait can dictate a wide variety of things, from very simple things as the way the magic of an individual works, or more complex concepts like emotional management and intelligence.
+Emotions can bring out magic from their souls that’s powerful enough to warp themselves and reality around them. 
 
-Souls, by definition are the powerhouse to all magic within a sprinklekit’s body; Without it, they wouldn’t be able to function in the slightest, just like how mitochondria generates energy for ATP.
+A sprinklekit’s soul is in the shape of a heart.
 
 ### Psychology 
 
@@ -60,9 +59,9 @@ They rapidly regenerate damaged regions, regrow lost parts, and harden into bone
 
 ### Bones
 
-A sprinklekit’s bone structure is comprised of dense, but brittle bone strudel that is modified by magic in order to resist extremely powerful blows. The Sprinklekit’s bone structure’s purpose evolution, as it advanced overtime was to minimize the amount of breaks; the trade off being that dislocations or small fractures were still prevalent, as these bones resist shattering by dispersing impact and self-repairing small cracks through the use of the blood inside of their body. Magical coding inside allows for the body to replicate and attach itself to the bone structure, thus makomb the regenerative process much more easier to perform. 
+A sprinklekit’s bone structure is comprised of dense, but brittle bone strudel that is modified by magic in order to resist extremely powerful blows. The Sprinklekit’s bone structure’s purpose evolution, as it advanced overtime was to minimize the amount of breaks; the trade off being that dislocations or small fractures were still prevalent, as these bones resist shattering by dispersing impact and self-repairing small cracks through the use of the blood inside of their body. Magical coding inside allows for the body to replicate and attach itself to the bone structure, thus makong the regenerative process much more easier to perform. 
 
-Considering their body is made from a special form of icecream that is sort of liquid, dislocated bones “Plop” back into place over a given period of timen They do this through the flesh forcefully pressing against the bones involuntarily.
+Considering their body is made from a special form of icecream that is sort of liquid, dislocated bones “Plop” back into place over a given period of time. They do this through the flesh forcefully pressing against the bones involuntarily.
 
 A Sprinklekit's icy bones act like a load-bearing frame, keeping the body intact like a chassis. Since organs aren't needed, the skeleton doesn't need to protect lungs or a heart. Instead, a hollow, latticed structure in place that makes the bones lighter, more flexible, and more efficient at distributing force. Instead of solid mass, the interwoven framework spreads stress across multiple paths, reducing the chance of fractures. This design enhances durability under impact, allows for faster movement, and provides more space for magical energy flow or structural regeneration, making the bones resilient and adaptive rather than purely rigid.
 
@@ -81,14 +80,6 @@ Pads, similar to their 4-legged counterparts are located at the tip of their fin
 ### Feet
 
 The sprinklekit’s calcaneus (heel bone) is not raised above the ground unlike other feline creatures, and they have a set of 4 toes with retractable claws extremely similar to the hands but larger. They have pads on the bottom of their feet, similar to their hands.
-
-### Other
-
-* Sprinklekits have an anomalous throat/esophagus that functions even without the presence of organs, leading to an “End” that seems to disintegrate food particles into magic.
-* All senses of a sprinklekit improve with age, and never dampen down until late adulthood. Even then, a healthy elder sprinklekit's body is still above an adolescent at its weakest.
-* Biologically, male and female sprinklekits have no difference in strength or intelligence, only reproductive organs.
-* Sprinklekits feel pain much less than other species, but are much more sensitive to pleasure in distict areas (Such as the back of the ears, cheeks, or the underside of their neck).
-* Sprinklekits use their biolumiscence to locate one another during low-visibility settings.
 
 ## Cryo-Phylaxis System
 
@@ -109,3 +100,11 @@ The “Internal Reinforcement Web” is a series of interlocking layers of frost
 Its composition is a magical film, linked to the soul’s emotional and magical state. Its appearance is reminiscent of a bubble, with a frosty texture lining the surface.
 
 The “HadalSphere” is the very last stop a Sprinklekit before the soul is exposed. The “HadalSphere” directly surrounds the soul, entangling it with transparent, magical ‘Roots’ that physical contact is unable to disrupt, allowing for the soul to transmit magic to vital parts of the body. The HadalSphere acts as a sort of membrane, filtering out psychoactive compounds.
+
+### Other/Trivia
+
+* Sprinklekits have an anomalous throat/esophagus that functions even without the presence of organs, leading to an “End” that seems to disintegrate food particles into magic.
+* All senses of a sprinklekit improve with age, and never dampen down until late adulthood. Even then, a healthy elder sprinklekit's body is still above an adolescent at its weakest.
+* Biologically, male and female sprinklekits have no difference in strength or intelligence, only reproductive organs.
+* Sprinklekits feel pain much less than other species, but are much more sensitive to pleasure in distict areas (Such as the back of the ears, cheeks, or the underside of their neck).
+* Sprinklekits use their biolumiscence to locate one another during low-visibility settings.
