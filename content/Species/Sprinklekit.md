@@ -4,15 +4,16 @@ aliases:
 ---
 ## General Description
 
-Sprinklekits are anthropomorphic felines that resemble a house cat in terms of appearance, with the exception that they have a large ice cream cone tail located at the back of their waist.
+Sprinklekits are anthropomorphic felines that resemble a house cat in appearance, with the exception that they are bipedal, and have a large ice cream cone tail. They are exceptionally mobile, and most possess extraordinary levels of intelligence. 
 
-Sprinklekits are by nature friendly, and highly intelligent species comprised of a soft, fluffy outside of fur and "icecream" for blood. They also have hard, icy bones. They are organic, and sustain themselves through eating various sugar-filled foods and drinks. An anomalous speciality sprinkekits have about theirselves is that icecream functions as an effective healing agent.
+They are also very wise and by friendly by nature, where their values are often orchestrated by the divine; Teachings of self-acceptance and embracing imperfection in themselves in others. Within every sprinklekit’s soul lies benevolence, an unyielding force that pushes a betterment on the fate of omniverse. They possess 
 
-One very crucial detail is that most sprinklekits each have unique fur patterns on their bodies, which can vary, but often resembling the sprinkles seen on ice cream.
 
 ## Lifespan / Maturity
 
-A Sprinklekit’s lifespan can vary between 25,000-30,000 years of age before passing of natural causes, making them one of the more knowledgeable species. Sprinklekit’s follow the same physical and mental development process any sapient being does, but at a decelerated rate; As their brain develops for over 2,000-5,000 years allowing them to advance at points beyond what humans could ever imagine. In these millennia, the soul is much more complex, as Sprinklekits in their prime become  machine-like in terms of computing power, able to learn concepts with ease (mental disabilities affect this, though).
+A Sprinklekit’s lifespan can vary between 25,000-30,000 years of age before passing of natural causes, making them one of the more knowledgeable species among the omniverse. Sprinklekits follow the same physical and mental development process any sapient being does, but at a decelerated rate; As their brain develops for over 2,000-5,000 years, reaching far beyond what humans could ever imagine. In these millennia, Sprinklekits in their prime becoming machine-like in terms of computing power, able to dissect and master concepts with little to no effort (mental disabilities affect this, though).
+
+A young sprinklekit rests frequently within its first years 10, as their body 
 
 ### Physical Aging
 
