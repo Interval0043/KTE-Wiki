@@ -1,6 +1,6 @@
-Kruula are bulky, golem-like demons with a hard, almost rocky exoskeleton. They instinctively gravitate themselves towards chaos and destruction, sensing fear that brews a strong desire for souls. They hold the power of BLIGHT, used as a catalyst for their reign of power over souls.
+Kruula are bulky, golem-like demons with a hard, almost rocky exoskeleton. They instinctively gravitate themselves towards chaos and destruction, sensing fear that brews a strong desire for souls. These creatures are a powerhouse of souls ridden with BLIGHT; A force if handled correctly, is responsible for unfathomable power.
 
-A majority of the Kruula that exist were formed inside of the Eidolon Cavern, where lingering remnants of souls from Dire’s aftermath (and other unfortunate souls from other dimensions) were reincarnated. Many onlookers of Unstable Catalyst lacked the understanding that many of these poor creatures lived in a cruel, never ending battle for both survival and spiritual freedom; As Kruula weren’t at all to meant to relish in anything else but mindless slaughter.
+A majority of the Kruula that exist were reincarnated inside of the Eidolon Cavern, where lingering remnants of souls from Dire’s aftermath (and other unfortunate souls from other dimensions) were reborn. Many onlookers of Unstable Catalyst simply misunderstood them.
 
 ## Lifespan / Maturity
 
@@ -56,7 +56,7 @@ Their build, both female and male: center around blending in with their surround
 
 ### Hair
 
-All Kruula have barbed, hidden spines layered around their head. These spines are venomous, hidden under the Kruula’s hair. Whenever the barbs of a Kruula is exposed, it’s a very uncomfortable experience; A part of maintaining Kruula hygiene is not allowing for the hair to be unkempt or short. 
+All Kruula have barbed, hidden spines layered around their head. These spines are venomous, and hidden under the Kruula’s hair. Whenever the barbs of a Kruula is exposed, it’s a very uncomfortable experience; A part of maintaining Kruula hygiene is not allowing for the hair to be unkempt or short. 
 
 If these barbs anchor, they detach and inject BLIGHT. A Kruula has control over these barbs, being able to lower and raise them if necessary.
 
