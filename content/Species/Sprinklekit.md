@@ -55,12 +55,12 @@ Trying to manipulate a soul trait is extremely difficult in most circumstances, 
 
 ## Bodily Structure
 
-A sprinklekit’s bone structure is built for resistance, mobility, and quick recovery. Sprinklekits are extremely durable as early as 10 years old, though are susceptible to dislocations. These dislocations are usually minor, and even if major, a sprinklekit’s pain receptors do not exude am unbearable feeling. 
+A sprinklekit’s bone structure is built for resistance, mobility, and quick recovery. 
 
-They hold some form of defense against exceptionally high temperatures as an emergency measure, though it is unclear as to why this exists. 
+A very unique phenomenon that defies even the standard logistics of biology (paired with magic) is that they are able to regenerate lost limbs. This is due to the fact that their body is made exclusively from various compounds that are easy to replicate. 
 
-A very unique phenomenon that defies even the standard logistics of biology paired with magic is that they are able to regenerate even lost limbs. This is due to the fact that their body is made exclusively from various compounds that are easy to replicate. 
-
+It is also unclear as to how there is a specific defense measure designed to resist extremely high temperatures, even though the possibility of this happening under any circumstance is extremely low. 
+ 
 ### Auralytes
 
 When a Sprinklekit is born, every bit of its body: bones, lattice scaffolds, “muscle” tension fields, is fabricated from the hyper‑versatile magical cell line called the auralyte. You’ll see them virtually everywhere in a sprinklekit’s body, embedded in the eyes, chest, inner ears, and sometimes fur (They often radiate a bioluminescent glow in these specified regions).
@@ -68,6 +68,10 @@ When a Sprinklekit is born, every bit of its body: bones, lattice scaffolds, “
 They appear to be small, crystalline concentrations of magic that are in the shape of a 3-dimensional prism, with a clear, smooth icy surface.
 
 They rapidly regenerate damaged regions, regrow lost parts, and harden into bone-like formations when necessary. They also quickly flash-freeze harmful microrgamism that enter their body.
+
+### Mouth
+
+Due to magic, a sprinklekit’s teeth are infinitely replicable. Their tongue is also barbed to assist grooming the fur of themselves and others. Despite being organless, a sprinklekit possesses an anomalous esophagus that doesn’t necessitate respiration, serving only to navigate food towards the soul.
 
 ### Bones
 
@@ -117,7 +121,6 @@ The “HadalSphere” is the very last trick up a Sprinklekit’s sleeve before 
 
 ### Other/Trivia
 
-* Sprinklekits have an anomalous throat/esophagus that functions even without the presence of organs, leading to an “End” that seems to disintegrate food particles into magic.
 * All senses of a sprinklekit improve with age, and never dampen down until late adulthood. Even then, a healthy elder sprinklekit's body is still above an adolescent at its weakest.
 * Biologically, male and female sprinklekits have no difference in strength or intelligence, only reproductive organs.
 * Sprinklekits feel pain much less than other species, but are much more sensitive to pleasure in distict areas (Such as the back of the ears, cheeks, or the underside of their neck). These distinct sensitive areas originate from their ancestors.
