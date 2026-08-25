@@ -35,7 +35,7 @@ A sprinklekit’s soul is in the shape of a heart.
 
 ### Psychology 
 
-
+Fortunately,this felid species doesn’t share the some of the primitive characteristics that we do. or of other similar beings. For example, Sprinklekits are naturally driven by connection, even those outside of their own species. 
 
 ### Location
 
