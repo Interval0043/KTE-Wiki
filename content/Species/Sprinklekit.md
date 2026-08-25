@@ -125,3 +125,5 @@ The “HadalSphere” is the very last trick up a Sprinklekit’s sleeve before 
 * Biologically, male and female sprinklekits have no difference in strength or intelligence, only reproductive organs.
 * Sprinklekits feel pain much less than other species, but are much more sensitive to pleasure in distict areas (Such as the back of the ears, cheeks, or the underside of their neck). These distinct sensitive areas originate from their ancestors.
 * Sprinklekits use their biolumiscence to locate one another during low-visibility settings like storms, these come from the marks on their body.
+* A sprinklekit’s soul is in the shape of a heart.
+* A sprinklekit’s nose is also in the shape of a heart.
