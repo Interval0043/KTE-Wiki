@@ -27,15 +27,15 @@ Refer to the list below to see what stage a Sprinklekit is at based on their age
 
 ## Soul
 
-A soul of a Sprinklekit can develop a trait that goes by a very diverse spectrum, and is usually determined at birth. A trait can dictate a wide variety of things, from very simple things as the way the magic of an individual works, or more complex concepts like emotional management and intelligence. Sprinklekits are much more likely to develop positive traits that affect a sprinklekit’s psyche in a good manner, as opposed to Mavela, where their bad traits are often something they fall victim to.
+A soul of a Sprinklekit can develop a trait that goes by a very diverse spectrum, and is usually determined at birth. A trait can dictate a wide variety of things, from very simple things as the way the magic of an individual works, or more complex concepts like emotional management and intelligence. Sprinklekits are much more likely to develop positive traits that affect a sprinklekit’s psyche in a good manner, as opposed to Mavela, where Dull traits are often something they fall victim to.
 
 Emotions can bring out magic from their souls that’s powerful enough to warp themselves and reality around them. 
 
-A sprinklekit’s soul is in the shape of a heart.
-
 ### Psychology 
 
-Fortunately,this felid species doesn’t share the some of the primitive characteristics that we do. or of other similar beings. For example, Sprinklekits are naturally driven by connection, even those outside of their own species. 
+Fortunately, this felid species doesn’t share some of the primitive characteristics that we do. or of other similar beings. For example, Sprinklekits are instinctively driven by connection, as opposed to being solitary. However, a sprinklekit is still driven by the same energy-conservation cycles involving over 15-16 hours of sleep, due to the general increase in neural activity, which eventually leads to some mental shortcomings if not maintained properly for a while. 
+
+This does not mean they are lethargic, it means simply that their mind and body must balance out the immense input with an equally profound output.
 
 ### Location
 
@@ -49,6 +49,8 @@ Trying to manipulate a soul trait is extremely difficult in most circumstances, 
 
 ## Bodily Structure
 
+A sprinklekit’s bone structure is built for resistance, mobility, and quick recovery. Sprinklekits are extremely durable as early as 10 years old, though are susceptible to dislocations. They also hold some form of defense against exceptionally high temperatures as an emergency measure, though it is unclear as to why this exists.
+
 ### Auralytes
 
 When a Sprinklekit is born, every bit of its body: bones, lattice scaffolds, “muscle” tension fields, is fabricated from the hyper‑versatile magical cell line called the auralyte. You’ll see them virtually everywhere in a sprinklekit’s body, embedded in the eyes, chest, inner ears, and sometimes fur (They often radiate a bioluminescent glow in these specified regions).
@@ -59,13 +61,15 @@ They rapidly regenerate damaged regions, regrow lost parts, and harden into bone
 
 ### Bones
 
-A sprinklekit’s bone structure is comprised of dense, but brittle bone strudel that is modified by magic in order to resist extremely powerful blows. The Sprinklekit’s bone structure’s purpose evolution, as it advanced overtime was to minimize the amount of breaks; the trade off being that dislocations or small fractures were still prevalent, as these bones resist shattering by dispersing impact and self-repairing small cracks through the use of the blood inside of their body. Magical coding inside allows for the body to replicate and attach itself to the bone structure, thus makong the regenerative process much more easier to perform. 
+A sprinklekit’s bone structure is comprised of dense, but brittle bone strudel that is modified by magic in order to resist extremely powerful blows. The bone structure’s purpose is that it minimizes the amount of breaks; the trade off being that dislocations or small fractures are more prevalent.
 
-Considering their body is made from a special form of icecream that is sort of liquid, dislocated bones “Plop” back into place over a given period of time. They do this through the flesh forcefully pressing against the bones involuntarily.
+Considering their blood is a compound made from a special form of icecream, the semi-liquid form plops these bones back into place over a given period of time. They do this through the flesh forcefully pressing against the bones involuntarily.
 
-A Sprinklekit's icy bones act like a load-bearing frame, keeping the body intact like a chassis. Since organs aren't needed, the skeleton doesn't need to protect lungs or a heart. Instead, a hollow, latticed structure in place that makes the bones lighter, more flexible, and more efficient at distributing force. Instead of solid mass, the interwoven framework spreads stress across multiple paths, reducing the chance of fractures. This design enhances durability under impact, allows for faster movement, and provides more space for magical energy flow or structural regeneration, making the bones resilient and adaptive rather than purely rigid.
+ Since organs aren't needed, the skeleton doesn't need to protect lungs or a heart. Instead, a hollow, latticed structure in place that makes the bones lighter, more flexible, and more efficient at distributing force. A Sprinklekit's icy bones act like a load-bearing frame, keeping the body intact like a chassis. So instead a sprinklekit’s structure being just solid mass, the interwoven framework spreads stress across multiple paths, reducing the chance of fractures. This design enhances durability under impact, allows for faster movement, and provides more space for magical energy flow or structural regeneration, making the bones resilient and adaptive rather than purely rigid.
 
 As for a sprinklekit’s spine, a segmented column of interlocking icy rings or ridges allows mobility via magical suspension, hovering slightly apart and linked by magical energy.
+
+### Tail
 
 The rounded, scoop-shaped midsection of the sprinklekit is a joint that connects both the coney tail to the back of the waist. Internally, it contains a circular lattice ring, almost like a frozen vertebral disc, made from layered magical ice spirals that allow rotation, wagging, and coiling of the cone tail. The lattice here isn't rigid. Instead, it’s accordion-like, expanding and contracting as needed, enabling smooth movement without snapping or shattering, sort of like how the tail end of a rattlesnake works.
 
@@ -93,18 +97,18 @@ The only suiting name for something that protects the Sprinklekit’s chest cavi
 
 ### Internal Reinforcement Web
 
-The “Internal Reinforcement Web” is a series of interlocking layers of frost crystals, similar in geometry to snowflakes. This part is even more complex as it maintains a higher level of density, but remains as lightweight and even more flexible than its outer structure. This section is used to disperse physical trauma away from the soul, along with serving a purpose as the soul’s exoskeleton. A key part of why it’s an exoskeleton is because it contains small channels of the soul’s energy, preventing magical attacks from latching directly onto the soul.
+The “Internal Reinforcement Web” is a series of interlocking layers of frost crystals, similar in geometry to snowflakes. This part is even more complex as it maintains a higher level of density, but remains as lightweight and even more flexible than its outer structure. This section is used to disperse physical trauma away from the soul, along with serving a purpose as the soul’s exoskeleton. A key part of why it’s an exoskeleton is because it contains small channels of the soul’s energy, preventing attacks from latching directly onto the soul.
 
 ### Hadalsphere
 
 Its composition is a magical film, linked to the soul’s emotional and magical state. Its appearance is reminiscent of a bubble, with a frosty texture lining the surface.
 
-The “HadalSphere” is the very last stop a Sprinklekit before the soul is exposed. The “HadalSphere” directly surrounds the soul, entangling it with transparent, magical ‘Roots’ that physical contact is unable to disrupt, allowing for the soul to transmit magic to vital parts of the body. The HadalSphere acts as a sort of membrane, filtering out psychoactive compounds.
+The “HadalSphere” is the very last trick up a Sprinklekit’s sleeve before the soul is exposed. The “HadalSphere” directly surrounds the soul, entangling it with transparent, magical ‘Roots’ that physical contact is unable to disrupt, allowing for the soul to transmit magic to vital parts of the body. The HadalSphere acts as a sort of membrane, filtering out compounds that could negatively affect a sprinklekit’s mind. 
 
 ### Other/Trivia
 
 * Sprinklekits have an anomalous throat/esophagus that functions even without the presence of organs, leading to an “End” that seems to disintegrate food particles into magic.
 * All senses of a sprinklekit improve with age, and never dampen down until late adulthood. Even then, a healthy elder sprinklekit's body is still above an adolescent at its weakest.
 * Biologically, male and female sprinklekits have no difference in strength or intelligence, only reproductive organs.
-* Sprinklekits feel pain much less than other species, but are much more sensitive to pleasure in distict areas (Such as the back of the ears, cheeks, or the underside of their neck).
-* Sprinklekits use their biolumiscence to locate one another during low-visibility settings.
+* Sprinklekits feel pain much less than other species, but are much more sensitive to pleasure in distict areas (Such as the back of the ears, cheeks, or the underside of their neck). These distinct sensitive areas originate from their ancestors.
+* Sprinklekits use their biolumiscence to locate one another during low-visibility settings like storms, these come from the marks on their body.
