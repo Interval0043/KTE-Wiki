@@ -10,9 +10,9 @@ They are also very wise and by friendly by nature, where their values are often 
 
 ## Lifespan / Maturity
 
-A Sprinklekit’s lifespan can vary between 25,000-30,000 years of age before passing of natural causes, making them one of the more knowledgeable species among the omniverse. Sprinklekits follow the same physical and mental development process any sapient being does, but at a decelerated rate; As their brain develops for over 2,000-5,000 years, reaching far beyond what humans could ever imagine. In these millennia, Sprinklekits in their prime becoming machine-like in terms of computing power, able to dissect and master concepts with little to no effort (mental disabilities affect this, though).
+A Sprinklekit’s lifespan can vary between 25,000-30,000 years of age before passing of natural causes, making them one of the more knowledgeable species among the omniverse. Sprinklekits follow the same physical and mental development process any sapient being does, but at a decelerated rate; As their brain develops for over 2,000-5,000 years, reaching far beyond what humans could ever imagine. In these millennia, Sprinklekits in their prime becoming machine-like in terms of computing power, able to dissect and master concepts with little to no effort (mental disabilities affect this, though). 
 
-A young sprinklekit rests frequently within its first 10 years, as their body enters the phase where their body appears to be liquid, though constantly maintains a steady form. A sprinklekit’s auralytes in this stage are not fully developed, and thus cannot maintain a cold body temperature as easily, which calls for the parent to ensure the young sprinklekit is at a temperature stable.
+A young sprinklekit rests frequently within its first 10 years, as their body enters the phase where their body appears to be liquid, though constantly maintains a steady form. A sprinklekit’s auralytes in this stage are not fully developed, and thus cannot maintain a cold body temperature as easily, which calls for the parent to ensure the young sprinklekit is at a temperature stable. A young sprinklekit (typically through the 50-1000 year gap) is also quite active the same way humans are, requiring substantially less sleep than an adult. However, this typically requires a larger diet to maintain.
 
 ### Physical Aging
 
@@ -33,9 +33,11 @@ Emotions can bring out magic from their souls that’s powerful enough to warp t
 
 ### Psychology 
 
-Fortunately, this felid species doesn’t share some of the primitive characteristics that we do. or of other similar beings. For example, Sprinklekits are instinctively driven by connection, as opposed to being solitary. However, a sprinklekit is still driven by the same energy-conservation cycles involving over 15-16 hours of sleep, due to the general increase in neural activity, which eventually leads to some mental shortcomings if not maintained properly for a while. 
+Fortunately, this felid species doesn’t share some of the primitive characteristics that we do. or of other similar beings. For example, Sprinklekits are instinctively driven by connection, as opposed to being solitary. However, a sprinklekit is still driven by the same energy-conservation cycles involving over 15-16 hours of sleep, due to the general increase in neural activity, which eventually leads to some mental shortcomings if not maintained properly for a while.
 
-This does not mean they are lethargic, it means simply that their mind and body must balance out the immense input with an equally profound output.
+This does not mean they are lethargic, it means simply that their mind and body must balance out the immense input with an equally profound output. Many sprinklekits are often described to be machine-like in terms of computation power, along having near-photographic memory. 
+
+Sprinklekits do not have a form of adrenaline, and thus do not experience a “fight-or-flight” response, or atleast a reaction as extreme as humans. 
 
 ### Location
 
@@ -49,7 +51,11 @@ Trying to manipulate a soul trait is extremely difficult in most circumstances, 
 
 ## Bodily Structure
 
-A sprinklekit’s bone structure is built for resistance, mobility, and quick recovery. Sprinklekits are extremely durable as early as 10 years old, though are susceptible to dislocations. They also hold some form of defense against exceptionally high temperatures as an emergency measure, though it is unclear as to why this exists.
+A sprinklekit’s bone structure is built for resistance, mobility, and quick recovery. Sprinklekits are extremely durable as early as 10 years old, though are susceptible to dislocations. These dislocations are usually minor, and even if major, a sprinklekit’s pain receptors do not exude am unbearable feeling. 
+
+They hold some form of defense against exceptionally high temperatures as an emergency measure, though it is unclear as to why this exists. 
+
+A very unique phenomenon that defies even the standard logistics of biology paired with magic is that they are able to regenerate even lost limbs. This is due to the fact that their body is made exclusively from various compounds that are easy to replicate. 
 
 ### Auralytes
 
