@@ -25,6 +25,10 @@ Refer to the list below to see what stage a Sprinklekit is at based on their age
 * Adolescence (500-1000 yrs.)
 * Adulthood (1000+ yrs.)
 
+## Dependancies
+
+Anything that involves sugar/glucose. Icecream in specific has an anomalous effect towards them that speeds up their natural healing process.
+
 ## Soul
 
 A soul of a Sprinklekit can develop a trait that goes by a very diverse spectrum, and is usually determined at birth. A trait can dictate a wide variety of things, from very simple things as the way the magic of an individual works, or more complex concepts like emotional management and intelligence. Sprinklekits are much more likely to develop positive traits that affect a sprinklekit’s psyche in a good manner, as opposed to Mavela, where Dull traits are often something they fall victim to.
@@ -37,7 +41,7 @@ Fortunately, this felid species doesn’t share some of the primitive characteri
 
 This does not mean they are lethargic, it means simply that their mind and body must balance out the immense input with an equally profound output. Many sprinklekits are often described to be machine-like in terms of computation power, along having near-photographic memory. 
 
-Sprinklekits do not have a form of adrenaline, and thus do not experience a “fight-or-flight” response, or atleast a reaction as extreme as humans. 
+A sprinklekit’s body language is shared with that of their primitive counterparts, such as their hair sticking up, or their ears shifting in response to certain emotions. Sprinklekits do not have a form of adrenaline, and thus do not experience a “fight-or-flight” response, or atleast a reaction as extreme as humans. This means that most sprinklekits are just naturally more calm and levelheaded.
 
 ### Location
 
