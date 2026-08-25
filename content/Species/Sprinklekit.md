@@ -127,3 +127,4 @@ The “HadalSphere” is the very last trick up a Sprinklekit’s sleeve before 
 * Sprinklekits use their biolumiscence to locate one another during low-visibility settings like storms, these come from the marks on their body.
 * A sprinklekit’s soul is in the shape of a heart.
 * A sprinklekit’s nose is also in the shape of a heart.
+* Follicles of loose hair/fur melt whenever they come off, meaning they can’t get hairballs by ingesting fur.
