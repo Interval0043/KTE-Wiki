@@ -12,13 +12,6 @@ A significant change in a young Mavela’s appearance and behavior is the develo
 
 The maturation process is relatively the same as ordinary humans, other than the fact that once Mavela hit 25~ years of age, they are unable to age physically past that point. Unlike any other species, they are paradoxical: incapable of physically aging, but are still capable of passing of natural causes.
 
-## Other
-* Mavela are organless, and thus have an anomalous esophagus leading to their soul (Like other magical species), which is how they eat.
-* Mavela can grow up to 20 feet tall.
-* Old mavela tend to have serious callousing, which can be as grit as sandpaper, which is why a majority wear gloves.
-* A Mavela's blood is black.
-* A female and male Mavela drastically differ in power, males being significantly more powerful than females.
-
 # Bodily structure
 
 ## Bone Structure
@@ -40,3 +33,10 @@ Just like a few other soul-centered organisms, emotion is a factor of power that
 ## Psychology
 
 Early Mavela (especially in their adolescent stages) are driven more by risk-taking factors, and are also more hyperactive than humans. Another cognitive bias that could potentially stick with Mavela is their dislike of companionship from other sapient or non-sapient creatures, other than themselves; As previous interactions between other unfamliar entities has resulted in their death. They are also hardwired to have a strong distaste for noisy atmospheres, which has the possibility to trigger a frenzy of fear and a strong sense of impending doom; as danger in Godfall is often tied to noise, and are already more sensitive to noise in general.
+
+## Other/Trivia
+* Mavela are organless, and thus have an anomalous esophagus leading to their soul (Like other magical species), which is how they eat.
+* Mavela can grow up to 20 feet tall.
+* Old mavela tend to have serious callousing, which can be as grit as sandpaper, which is why a majority wear gloves.
+* A Mavela's blood is black.
+* A female and male Mavela drastically differ in power, males being significantly more powerful than females.
