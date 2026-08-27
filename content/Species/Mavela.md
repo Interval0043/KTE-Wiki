@@ -18,6 +18,10 @@ The maturation process is relatively the same as ordinary humans, other than the
 
 Mavela are omnivorous like humans, though can adapt to eating/drinking certain things to survive that humans couldn’t. The stronger a Mavela becomes, the food they require to stay afloat drastically increases. Usually though, they are sustained through harvesting magic from other entities.
 
+## Appearance/Variation
+
+
+
 # Biology
 
 Their entire structure is centered around being a playground for all sorts of rapid advancements; An upper hand to everything, and a middle finger to whatever can’t one-up the indomitable human—-or for better words: Mavela spirit.
