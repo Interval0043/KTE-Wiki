@@ -29,6 +29,10 @@ Refer to the list below to see what stage a Sprinklekit is at based on their age
 
 Anything that involves sugar/glucose. Icecream in specific has an anomalous effect towards them that speeds up their natural healing process.
 
+## Appearance/Variation
+
+
+
 ## Soul
 
 A soul of a Sprinklekit can develop a trait that goes by a very diverse spectrum, and is usually determined at birth. A trait can dictate a wide variety of things, from very simple things as the way the magic of an individual works, or more complex concepts like emotional management and intelligence. Sprinklekits are much more likely to develop positive traits that affect a sprinklekit’s psyche in a good manner, as opposed to Mavela, where Dull traits are often something they fall victim to.
