@@ -24,7 +24,7 @@ Mavela are omnivorous like humans, though can adapt to eating/drinking certain t
 
 # Biology
 
-Their entire structure is centered around being a playground for all sorts of rapid advancements; An upper hand to everything, and a middle finger to whatever can’t one-up the indomitable human—-or for better words: Mavela spirit.
+Their entire structure is centered around being a playground for all sorts of rapid advancements; An upper hand to everything, and a middle finger to whatever can’t one-up the indomitable human, or for better words: Mavela spirit.
 
 ## Bone Structure
 
