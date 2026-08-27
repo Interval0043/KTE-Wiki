@@ -8,13 +8,19 @@ Kills growing to their name means power, both figuratively and literally.
 
 ## Lifespan / Maturity
 
-Mavela are a ravenous species that necessitate constant growth and exercise, having a life expectancy of 10,000 years, meaning they aren’t biologically locked to a certain age to die of “natural causes”. However, this doesn’t mean that they are physically immortal, as their lifespan also has to do with the “Eden Energy” that makes up a part of their soul. Within these stages of development, a Mavela can expect a lot of psychological and physical changes.
+Mavela are a ravenous species that necessitate constant growth and exercise, having a life expectancy of 10,000 years, meaning they aren’t biologically locked to a certain age to pass away. However, this doesn’t mean that they are physically immortal, as their lifespan also has to do with the “Eden Energy” that makes up a part of their soul. Within these stages of development, a Mavela can expect a lot of psychological and physical changes.
 
 A significant change in a young Mavela’s appearance and behavior is the development of their eyes: An extreme dilation in the pupil, which is a telltale sign that they’re still developing to thrive outside of low-light conditions. In older Mavela, it signifies an emergency response in their body.
 
 The maturation process is relatively the same as ordinary humans, other than the fact that once Mavela hit 25~ years of age, they are unable to age physically past that point. Unlike any other species, they are paradoxical: incapable of physically aging, but are still capable of passing of natural causes.
 
-# Bodily structure
+## Dependancies
+
+Mavela are omnivorous like humans, though can adapt to eating/drinking certain things to survive that humans couldn’t. The stronger a Mavela becomes, the food they require to stay afloat drastically increases. Usually though, they are sustained through harvesting magic from other entities.
+
+# Biology
+
+Their entire structure is centered around being a playground for all sorts of rapid advancements; An upper hand to everything, and middle finger to whatever can’t one-up the indomitable human spirit.
 
 ## Bone Structure
 
