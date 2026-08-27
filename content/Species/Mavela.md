@@ -20,7 +20,7 @@ Mavela are omnivorous like humans, though can adapt to eating/drinking certain t
 
 # Biology
 
-Their entire structure is centered around being a playground for all sorts of rapid advancements; An upper hand to everything, and middle finger to whatever can’t one-up the indomitable human spirit.
+Their entire structure is centered around being a playground for all sorts of rapid advancements; An upper hand to everything, and a middle finger to whatever can’t one-up the indomitable human—-or for better words: Mavela spirit.
 
 ## Bone Structure
 
@@ -40,7 +40,9 @@ Just like a few other soul-centered organisms, emotion is a factor of power that
 
 ## Psychology
 
-Early Mavela (especially in their adolescent stages) are driven more by risk-taking factors, and are also more hyperactive than humans. Another cognitive bias that could potentially stick with Mavela is their dislike of companionship from other sapient or non-sapient creatures, other than themselves; As previous interactions between other unfamliar entities has resulted in their death. They are also hardwired to have a strong distaste for noisy atmospheres, which has the possibility to trigger a frenzy of fear and a strong sense of impending doom; as danger in Godfall is often tied to noise, and are already more sensitive to noise in general.
+Early Mavela (especially in their adolescent stages) are driven more by risk-taking factors, and are also more hyperactive than humans. Another cognitive bias that could potentially stick with Mavela is their dislike of companionship from other sapient or non-sapient creatures, other than themselves; As previous interactions between other unfamiliar entities resulted in their own deaths.
+
+They are also hardwired to have a strong distaste for noisy atmospheres, which has the possibility to trigger a frenzy of fear and a strong sense of impending doom; as danger in Godfall is often tied to noise, which makes them more sensitive to noise in general than their ancestors.
 
 ## Other/Trivia
 * Mavela are organless, and thus have an anomalous esophagus leading to their soul (Like other magical species), which is how they eat.
