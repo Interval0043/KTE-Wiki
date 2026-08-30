@@ -2,7 +2,7 @@
 
 Mavela are pale-white, night-dwelling [[Human|Humans]] twisted by the over-abundance of magic within [[Godfall]], previously known on Earth as humans; Who were ripped out of their world without a second thought, right into the hands of [[Niocstra]], who remolded humanity’s societal expectations into a brutal dystopia of kill-and-conquer. Their souls were doomed to embody the essence of negative emotion, which makes their kind much more susceptible to becoming severely mentally ill, or worse: Evil, remorseless fiends that leech off of, and destroy the world around them.
 
-They’re taller, far stronger, and their bodies rapidly mutate to survive any extreme. Mavela are predatory, and have evolved large, pointed black teeth, with the inside of the throat lined with layers of thin, viperfish-like teeth. Mavela also have razor-sharp, claw-like nails used as weapons, or as tools to climb and navigate through terrain.
+They’re taller, far stronger, and their bodies rapidly mutate to survive any extreme.
 
 Kills growing to their name means power, both figuratively and literally.
 
