@@ -22,6 +22,9 @@ Mavela are omnivorous like humans, though can adapt to eating/drinking certain t
 
 The distinction between a male and female is very clear: It’s almost as if sex divides them into two different beings. For as long as Mavela have developed, there is a clear difference in sex: The unhealthy image of what a male and female was supposed to be in many contexts back on earth has shaped them into something that embodies the nigh-absolute of it. 
 
+An examples being that males in adulthood usually grow to 30-40 feet in height, while females are still roughly the same in height as their human counterparts in adulthood.
+
+
 # Biology
 
 Their entire structure is centered around being a playground for all sorts of rapid advancements; An upper hand to everything, and a middle finger to whatever can’t one-up the indomitable human, or for better words: Mavela spirit.
@@ -50,7 +53,7 @@ They are also hardwired to have a strong distaste for noisy atmospheres, which h
 
 ## Other/Trivia
 * Mavela are organless, and thus have an anomalous esophagus leading to their soul (Like other magical species), which is how they eat.
-* Mavela can grow up to 20 feet tall.
+* Mavela can grow up to 40 feet tall at the maximum.
 * Old mavela tend to have serious callousing, which can be as grit as sandpaper, which is why a majority wear gloves.
 * A Mavela's blood is black.
 * A female and male Mavela drastically differ in power, males being significantly more powerful than females.
