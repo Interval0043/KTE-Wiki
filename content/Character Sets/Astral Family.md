@@ -14,7 +14,7 @@ Going over the traits of the astral family is quite interesting, especially beca
 
 Instead, when a family member is born, the magic they’re all given is predetermined at birth, tied to the information of a random celestial body (E.g: Black holes, Stars, planets, asteroids). For example, if a new soul is assigned a certain star at birth, their soul, vessel, sex, or other physical characteristics have the possibility to be affected.
 
-Initially, astral family members thought that once they were assigned to a certain group of magic, they weren’t learn anything else outside of what the magic they were assigned (due to limited information they had on themselves) However, they realized that they could learn the same types of magic the rest of the family had been born with.
+Initially, astral family members thought that once they were assigned to a certain group of magic, they weren’t learn anything else outside of what the magic they were assigned (due to limited information they had on themselves). However, they realized that they could learn the same types of magic the rest of the family had been born with.
 
 Reishon has a rather impressive share of traits that strengthen the endurance and physical strength of each member of the bloodline, ensuring that no soul or vessel is developed weak or dysfunctional.
 
