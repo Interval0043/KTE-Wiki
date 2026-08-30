@@ -20,7 +20,7 @@ Mavela are omnivorous like humans, though can adapt to eating/drinking certain t
 
 ## Appearance/Variation
 
-
+The distinction between a male and female is very clear: It’s almost as if sex divides them into two different beings. For as long as Mavela have developed, there is a clear difference in sex: The unhealthy image of what a male and female was supposed to be in many contexts back on earth has shaped them into something that embodies the nigh-absolute of it. 
 
 # Biology
 
