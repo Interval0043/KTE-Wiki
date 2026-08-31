@@ -79,3 +79,7 @@ A Kruula’s tongue isn’t static either, sharing similar molding capabilities 
 Kruula have thousands of eyes, though appear to be hollow sockets. Like insects, these thousands of eyes give them an extraordinary, panoramic view that allows them to track fast movements. Kruula have access to thermal vision, too. 
 
 A Kruula does not need to blink often, but if they do, their reliable, albeit limited structure within the ridges of their eyes shields them.
+
+## Other/Trivia
+
+TBA
