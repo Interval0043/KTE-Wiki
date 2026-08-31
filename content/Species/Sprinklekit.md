@@ -31,7 +31,9 @@ Anything that involves sugar/glucose. Icecream in specific has an anomalous effe
 
 ## Appearance/Variation
 
+There exists millions of unique sub-species of sprinklekit that hold their own unique characteristics that differentiate themselves one from another. While we may call these different subspecies by the names of the flavors of icecream they represent, they all follow scientific classifications, based on the cardinal direction in Cryosilis they originate from.
 
+Female and male sprinklekits differentiate only in reproductive organs. 
 
 ## Soul
 
@@ -57,13 +59,11 @@ Soul traits are a very common characteristic within the magically formed soul. C
 
 Trying to manipulate a soul trait is extremely difficult in most circumstances, unless experimentation or soul manipulation is performed. Sadly, neurological conditions or disabilities may stunt their natrual immunity to “Dull” traits.
 
-## Bodily Structure
+## Biology
 
 A sprinklekit’s bone structure is built for resistance, mobility, and quick recovery. 
 
-A very unique phenomenon that defies even the standard logistics of biology (paired with magic) is that they are able to regenerate lost limbs. This is due to the fact that their body is made exclusively from various compounds that are easy to replicate. 
-
-It is also unclear as to how there is a specific defense measure designed to resist extremely high temperatures, even though the possibility of this happening under any circumstance is extremely low. 
+A very unique phenomenon that defies even the standard logistics of biology (paired with magic) is that they are able to regenerate lost limbs. This is due to the fact that their body is made exclusively from various compounds that are easy to replicate.  
  
 ### Auralytes
 
