@@ -10,7 +10,7 @@ They are also very wise and by friendly by nature, where their values are often 
 
 ## Lifespan / Maturity
 
-A Sprinklekit’s lifespan can vary between 25,000-30,000 years of age before passing of natural causes, making them one of the more knowledgeable species among the omniverse. Sprinklekits follow the same physical and mental development process any sapient being does, but at a decelerated rate; As their brain develops for over 2,000-5,000 years, reaching far beyond what humans could ever imagine. In these millennia, Sprinklekits in their prime becoming machine-like in terms of computing power, able to dissect and master concepts with little to no effort (mental disabilities affect this, though). 
+A Sprinklekit’s lifespan can vary between 25,000-30,000 years of age before passing of natural causes, making them one of the more knowledgeable species among the omniverse. Sprinklekits follow the same physical and mental development process any sapient being does, but at a decelerated rate.
 
 A young sprinklekit rests frequently within its first 10 years, as their body enters the phase where their body appears to be liquid, though constantly maintains a steady form. A sprinklekit’s auralytes in this stage are not fully developed, and thus cannot maintain a cold body temperature as easily, which calls for the parent to ensure the young sprinklekit is at a temperature stable. A young sprinklekit (typically through the 50-1000 year gap) is also quite active the same way humans are, requiring substantially less sleep than an adult. However, this typically requires a larger diet to maintain.
 
@@ -48,6 +48,8 @@ Fortunately, this felid species doesn’t share some of the primitive characteri
 This does not mean they are lethargic, it means simply that their mind and body must balance out the immense input with an equally profound output. Many sprinklekits are often described to be machine-like in terms of computation power, along having near-photographic memory. 
 
 A sprinklekit’s body language is shared with that of their primitive counterparts, such as their hair sticking up, or their ears shifting in response to certain emotions. Sprinklekits do not have a form of adrenaline, and thus do not experience a “fight-or-flight” response, or atleast a reaction as extreme as humans. This means that most sprinklekits are just naturally more calm and levelheaded.
+
+As their brain develops for over 2,000-5,000 years, they reach far beyond what humans could ever imagine. In these millennia, Sprinklekits in their prime becoming machine-like in terms of computing power, able to dissect and master concepts with little to no effort (mental disabilities affect this, though). 
 
 ### Location
 
@@ -127,7 +129,7 @@ The “HadalSphere” is the very last trick up a Sprinklekit’s sleeve before 
 
 * All senses of a sprinklekit improve with age, and never dampen down until late adulthood. Even then, a healthy elder sprinklekit's body is still above an adolescent at its weakest.
 * Biologically, male and female sprinklekits have no difference in strength or intelligence, only reproductive organs.
-* Sprinklekits feel pain much less than other species, but are much more sensitive to pleasure in distict areas (Such as the back of the ears, cheeks, or the underside of their neck). These distinct sensitive areas originate from their ancestors.
+* Sprinklekits feel pain much less than other species, but are much more sensitive to pleasure in distict areas (Such as the back of the ears, cheeks, or the underside of their neck). These distinct areas originate from their ancestors.
 * Sprinklekits use their biolumiscence to locate one another during low-visibility settings like storms, these come from the marks on their body.
 * A sprinklekit’s soul is in the shape of a heart.
 * A sprinklekit’s nose is also in the shape of a heart.
