@@ -116,20 +116,6 @@ The Flames of Impossibility. Had it been given another name, it could have been 
 
 Among its many uses there's that of slight durability negation and erasure of space for closing distances. Also, if it is ever Jacob's wish to master such ability, the erasure of a "Target". By imbuing a "Target" to his magic, he could be able to target only one substance with these flames, having uses such as erasing all of a person's infection or diseases, but leaving them unscathed.
 
-## Abilities
-
-### Manifestation of Wrath / Amalgamated Calamities
-
-Jacob’s inner fury can channel into a quick burst of energy, paired with a serious spike in both emotional magical intensity. His soul burns like a raging hellfire, his flames tearing through the damned with a sudden outburst, the crackles and snapping turning to nearly shockwave inducing explosions that spread at every given second, akin to unstable fissures of an active geyser.
-
-His mere emotions manifest the glow in his eyes, which burn in the same crimson light within his soul. Crimson coloration in his body forming where auralytes would laminate themselves through magic, overcome by Jacob’s need to survive, Or to fulfill his path to obliterate whatever may be in his path. In this sort of ‘Transformation’, his soul is altered into a sort of ‘Emergency response’ where auraltyes perform at a far higher rate than they should.
-
-Jacob’s body and mind are at a far higher function, tasked to cease whatever threat is ahead; Pain is lessened, alertness (reaction time) is heightened,  regeneration is noticeably faster (with limbs growing back within a minute or less), and allowing himself to see in heat vision. Not to mention his hearing is significantly heightened, but not sensitive.
-
-#### Drawbacks
-
-Once this rush of magic ends, Jacob is much more likely to need sustenance in order to maintain the balance in his body; He will undergo a rest period of 2-3 days to fully recover, as Jacob’s soul is both physically and mentally exhausted.
-
 ### X-Trap
 
 Jacob can create small, X-shaped markings into any surface using his magic, which if the attacker is in a certain proximity of these traps: The mark will rapidly expand, expelling energy upwards to create a long cross-shaped geyser that is made from brimstone fire. 
