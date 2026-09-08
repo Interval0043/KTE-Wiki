@@ -46,9 +46,11 @@ Over painfully long time during and after Dire Will’s incident, Jacob develope
 
 ## Soul: Prime Wrath
 
-Jacob’s soul was formed in the deepest spires of the Velvian Crags, where his soul would later erupt, emitting ferocious and unstable flames that made his soul burn a dark garnet. These flames would be later named brimstone flames to signify the power behind them.
+Jacob’s soul was formed in the deepest spires of the Velvian Crags, where his soul would later erupt, emitting ferocious and unstable flames, making his soul burn a dark garnet. These flames are named brimstone flames to signify the power behind it.
 
-This volatile trait reached its absolute after Dire put an intense physical and mental strain on Jacob, which in turn made his magic stronger, but left his endurance limited.
+This trait reached its Prime state after Dire put an intense physical and mental strain on Jacob, following the death and famine the malice caused after his death.
+
+This soul trait makes Jacob more susceptible to feeling of “Wrath”, which by definition means an extreme, intense anger that often includes a deep desire for revenge or punishment.
 
 ## Statistics
 
