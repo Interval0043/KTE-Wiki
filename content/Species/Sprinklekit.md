@@ -97,13 +97,13 @@ While the coned tail may appear large enough to be lethargic (and functionally u
 
 ## Hands
 
-A Sprinklekit’s hand contains 3 main fingers that have the same shape and length, while another on the side that acts as a thumb, having 4 fingers in total. Each finger on a sprinklekit has retractable claws which are made from a hard sharp, crystalline material reminiscent of ice. The composition of these claws shares similarity to the bone, in the same density as the ‘Core’. 
+A Sprinklekit’s hand contains 3 main fingers that have the same shape and length, while another on the side that acts as a thumb, having 4 fingers in total. Each finger on a sprinklekit has retractable claws which are made from a hard sharp, crystalline material. The composition of these claws shares similarity to the bone, in the same level of density as the ‘Core’. 
 
 Pads, similar to their 4-legged counterparts are located at the tip of their fingers, and also at the center of the hand (palm).
 
 ## Feet
 
-The sprinklekit’s calcaneus (heel bone) is not raised above the ground unlike other feline creatures, and they have a set of 4 toes with retractable claws extremely similar to the hands but larger. They have pads on the bottom of their feet, similar to their hands.
+The sprinklekit’s calcaneus (heel bone) is not raised above the ground unlike other feline creatures, having a set of 4 toes with larger claws in comparison to the hands. They also have pads on their feet.
 
 ## Cryo-Phylaxis System
 
@@ -127,11 +127,11 @@ The “HadalSphere” is the very last trick up a Sprinklekit’s sleeve before 
 
 # Other/Trivia
 
-* All senses of a sprinklekit improve with age, and never dampen down until late adulthood. Even then, a healthy elder sprinklekit's body is still above an adolescent at its weakest.
+* All senses of a sprinklekit improve with age and never dampen down until late adulthood. Even then, a healthy elder sprinklekit's body is still above an adolescent at its weakest.
 * Biologically, male and female sprinklekits have no difference in strength or intelligence, only reproductive organs.
 * Sprinklekits feel pain much less than other species, but are much more sensitive to pleasure in distict areas (Such as the back of the ears, cheeks, or the underside of their neck). These distinct areas originate from their ancestors.
 * Sprinklekits use their biolumiscence to locate one another during low-visibility settings like storms, these come from the marks on their body.
 * A sprinklekit’s soul is in the shape of a heart.
 * A sprinklekit’s nose is also in the shape of a heart.
 * Follicles of lost hair/fur melt whenever they come off, meaning they can’t get hairballs by ingesting fur.
-* When a sprinklekit dies, their body melts and begins to emit a smell similar to that of alcohol, as if fermenting. In their psychology, sprinklekits associate alchohol with death.
+* When a sprinklekit dies, their body melts and begins to emit a smell similar to that of alcohol, as if fermenting. In their psychology, sprinklekits associate alcohol with death.
