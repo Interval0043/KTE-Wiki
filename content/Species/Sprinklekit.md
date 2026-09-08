@@ -43,7 +43,7 @@ Emotions can bring out magic from their souls that’s powerful enough to warp t
 
 ### Psychology 
 
-Fortunately, this felid species doesn’t share some of the primitive characteristics that we do. or of other similar beings. For example, Sprinklekits are instinctively driven by connection, as opposed to being solitary. However, a sprinklekit is still driven by the same energy-conservation cycles involving over 15-16 hours of sleep, due to the general increase in neural activity, which eventually leads to some mental shortcomings if not maintained properly for a while.
+Fortunately, this felid species doesn’t share some of the primitive characteristics that we do, or of other similar beings. For example, Sprinklekits are instinctively driven by connection, as opposed to being solitary. However, a sprinklekit is still driven by the same energy-conservation cycles involving over 15-16 hours of sleep, due to the general increase in neural activity, which eventually leads to some mental shortcomings if not maintained properly for a while.
 
 This does not mean they are lethargic, it means simply that their mind and body must balance out the immense input with an equally profound output. Many sprinklekits are often described to be machine-like in terms of computation power, along having near-photographic memory. 
 
