@@ -100,9 +100,11 @@ In those faces you can barely make out the faces of those who have suffered a fa
 
 ### Brimstone Fire / Flames of Impossibility
 
-A fire which comes from the deepest, most shrouded parts of hell; Jacob’s soul thumps in resonance with the volatility that is his being. These catastrophic flames are unable to be put out through regular means. This is an anomalous flame harbored from a concentration of unholy/demonic energy, and can overpower opposing forms of magic, such as any magic in relation to goddesses or religion.
+A fire which comes from the deepest, most shrouded parts of Jacob’s soul, thumping in resonance with the volatility that is his being. These catastrophic flames are unable to be put out through regular means. 
 
-Jacob can very easily bring down entire societies to an apocalyptic extreme, where even non-organic matter is at stake; Metals are immediately liquefied, and other materials such as ceramic, glass, and fire retardants.
+This is an anomalous flame harbored from a concentration of unholy/demonic energy, and can clash with opposing forms of magic, such as any magic in relation to goddesses or religious concepts.
+
+Jacob can very easily bring down entire planets to an apocalyptic extreme, where even non-organic matter is at stake; Metals are immediately liquefied, and other materials such as ceramic, glass, and fire retardants.
 
 Demonstrated to be much more potent than even Draconic’s flames (If he were to rival his power at one point), Jacob has a higher form of flame, a higher-echelon to his heated weaponry:
 
@@ -134,8 +136,6 @@ An [[Interdimensional Defense & Advanced Research Center|I.D.A.R.C.]]-developed 
 
 The compound numbs pain and acts as an agent that gives him in edge in a difficult battle. The compound overrides all other emotions in favor of Wrath for the time it stays inside of his system, so he takes a lot of caution in injecting any amount of it into his system to ensure he doesn’t harm himself or others he cares for.
 
-These stimulants are highly potent, with a few being enough to trigger his Manifestation Of Wrath.
-
 ### Smo-King
 
 >[!quote]
@@ -144,15 +144,19 @@ These stimulants are highly potent, with a few being enough to trigger his Manif
 
 The 2nd device Jacob commissioned from I.D.A.R.C. after the Rage Stimulant, serving to mask himself in battle, acting as high-utility smoke grenades designed for Jacob’s brimstone fire to create copious amounts of smoke.
 
-It has a transmutator built inside that allows for magic to be created at the cost of a user’s magic. Jacob can arm the grenade by concentrating a small amount of his own brimstone fire magic inside, similar to lighting an internal fuse that he only has knowledge of, meaning that others can’t interfere, or forcefully set it off unless they know where to light it.
+It has a transmutator built inside that allows for magic to be created at the cost of a user’s magic. Jacob can arm the grenade by concentrating a small amount of his own brimstone fire magic inside, similar to lighting an internal fuse that he only has knowledge of, meaning that others can’t interfere or forcefully set it off unless they know where to light it.
 
 ### Destiny Core
 
-A legendary object Jacob’s soul manifested in the immediate aftermath of Dire’s death; This is an intense byproduct of Jacob’s devotion to bringing down the evil that plagued and tortured thousands of worlds at a time. He can bring it in and out of existence, and for good reason: He wants to keep it hidden, because he knows what he has is what everyone would die for to have.
+A legendary object Jacob’s soul manifested in the immediate aftermath of Dire’s death; This is an intense byproduct of Jacob’s devotion to bringing down the evil that plagued and tortured thousands of worlds at a time. He can bring it in and out of existence, and for good reason. 
 
-This orb can be gazed into only by the wrathful eyes of the holder himself. What he sees is an enormous vision of all [[Malice]], stretching past a seemingly infinite distance in all directions, functioning as a sort of anomalous “map” that gives him a real-time surveillance of [[Malice#Malediction|Malediction]] from impossible distances.
+He wants to keep it hidden, because he knows what he has is what everyone would die for to have.
 
-However, gazing into this orb requires for him to charge the orb with impossibility magic for him to do so, acting as a sort of “battery” that prevents him from using it too often. Turns out, anything involving Malice just makes anything more difficult.
+This orb can be gazed into only by the wrathful eyes of Jacob himself, and what he sees is an enormous vision of all [[Malice]], stretching past a seemingly infinite distance in all directions that function as a sort of anomalous “map”, giving him a real-time surveillance of [[Malice#Malediction|Malediction]] from impossible distances.
+
+However, gazing into this orb requires for him to charge the orb with impossibility magic, acting as a sort of “battery” that prevents him from using it too often. 
+
+Turns out, anything involving Malice just makes everything more difficult.
 
 ## Attributes
 
@@ -174,9 +178,9 @@ If damaged, Jacob’s blood can spread across his body and harden.
 
 ## Trivia
 
-- Jacob used to draw traditionally and digitally, but has since lost his artistic vision. He thinks that he found better ways to use it, weaponizing it with his excellent strategies.
+- Jacob used to draw traditionally, but has since lost his artistic vision. He thinks that he found better ways to use it, weaponizing it with his excellent strategies.
 
-- He plays video games (Mostly tower defense) a lot, and smokes with [[Teegan Astral|Teegan]], though a little less due to him having his guard raised most of the time, which makes him prone to have bad trips.
+- He plays video games (mostly tower defense) a lot, and smokes with [[Teegan Astral|Teegan]], though a little less due to him having his guard raised most of the time, which makes him prone to have bad trips.
 
 - He likes eating huge, nutritious meals such as different forms of meats, usually tough seasoned steak. He also really likes most kinds of soup for some reason. He likes barbecue, too.
 
