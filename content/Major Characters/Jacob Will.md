@@ -4,7 +4,7 @@ aliases:
 ---
 
 > [!quote]
-> **God damn it, I swear-I swear I'll kill all of you.**
+> **God damn it, I swear- I swear I'll kill all of you.**
 > $\to$ Jacob, watching in fury and utter dismay as the malice was released by [[Dire Will]].
 
 > [!abstract] Metadata
@@ -24,21 +24,23 @@ aliases:
 
 ## History/Basics
 
-Raised and welcomed into loving arms the [[Will Family]], Jacob is a young boy that's known for being the surviving vessel of the [[Dire Will|Six-Horned Demon]], [[Dire Will]], known as the most destructive being in TFCT's known history. He is a survivor of the trauma and manipulation Dire had put him through relentlessly; And the scale of both of their own destruction put a huge target on his head across many dimensions, leading to ruthless massacres in what he believed to be self-defense. 
+Raised and welcomed into loving arms the [[Will Family]], Jacob is a young boy that's known for being the surviving vessel of the [[Dire Will|Six-Horned Demon]], [[Dire Will]], known as the most destructive being in KTE’s known history. He is a survivor of the trauma and manipulation Dire had put him through relentlessly; The scale to each of their own atrocities putting a huge target on his head across many dimensions, leading to ruthless massacres in what he believed to be self-defense. 
 
-Jacob struggles with serious PTSD as a result of guilt and the destruction that followed in [[Dire Will|Dire]]’s rise and fall, his already (over)developed soul trait mostly responsible for his rather strong, impulsive desires to return a favor of revenge. His biggest fears are not being in control, isolation, rejection, and crowds of people.
+Jacob struggles with serious PTSD as a result of the guilt following [[Dire Will|Dire]]’s rise and fall, his soul trait mostly responsible for his rather strong, impulsive desires to return a favor of revenge. His biggest fears are not being in control of himself, isolation and rejection frok his loved ones, and crowds of people.
 
 ## Personality
 
-Jacob is an adventurous, outspoken individual who often speaks callously. He swears pretty often and usually doesn't go by names for anyone (e.g. saying things like "Hey you", or what's generally considered to be rude), speaking quickly and breathlessly depending on the mood he feels. He does this because of his subjection to situations with little breathing room, and didn’t have time to think for politeness. He is very direct when he needs to be, and uses a lot of contractions like "You're" or "Ain't" to sound quicker. He also tends to use a lot of slang.
+Jacob is an adventurous, outspoken individual who’s a proud antitheist. He swears pretty often, uses a lot of slang, and usually doesn't go by names for anyone (e.g. saying things like "Hey you", or what's generally considered to be rude), speaking quickly and breathlessly depending on the mood he feels. He does this because of his subjection to situations with little breathing room, and didn’t have time to think for politeness. Because of this, he’s quite hard to understand sometimes, especially if he’s stressed.
 
-He finds fulfillment in exploration and the liberation of others, coming from the stories told of the world by [[Counter Will]]. His liberation comes from [[Draconic Will|Draconic]], and while not often at all holding a “moral high-horse”, he hates seeing others being bossed around or controlled.
+He is very direct when he needs to be, and uses a lot of contractions like "You're" or "Ain't" to converse quicker.
 
-Jacob Will, at first comes off as rude and disruptive individual with a oppressive demeanor, called overly unprofessional in any setting. It's hard for him to be not an ass, but it's also hard for him to be a complete jerk, though. He has a hard time understanding what choice of words he should use, which is another reason why he comes off so unprofessional. He also just doesn't like being spoken over, and just has a lot of things on his mind he needs to get out.
+He finds fulfillment in exploration and the liberation of others, coming from the stories told of the world by [[Counter Will]]. His liberation comes from [[Draconic Will|Draconic]], and while not often at all holding a “moral high-horse”, he hates seeing others being bossed around or controlled. While being in a family of supposed “Gods”, he and his sister actively oppose the title, and actively favors the belief the Astral Family holds on themselves.
 
-Despite his attempts of suppressing of his own anger, he often finds himself saying or doing things he doesn’t actually mean (His exposure to horrible things at his age can make him quite abrasive towards others).
+He has a firm, nuanced belief that “Everyone, even and I- quote- ‘gods’-.. are just their own beings like other people. Are we just that entitled!??-  Stop acting like we’re all anything more because we made or did some shit; We’re cool people, not superior.”
 
-His personality shares similarities to his cousin, [[Draconic Will]]. He’s mildly dis-associative with his family, friends, and even his own lover. He is also strategic, rebellious, and calculated in battle. He doesn't have the best teamwork with others, but does enough to not be a hindrance. What defines his rebellious nature in battle is that he often doesn't pull punches, and often strikes first, prioritizing off-guard attacks to get an upper hand.
+Jacob Will at first comes off as rude and disruptive individual with an oppressive demeanor, called overly unprofessional in any setting. It's hard for him to be not an ass, but it's also hard for him to be a complete jerk, though. He has a hard time understanding what choice of words he should use, which is another reason why he comes off so unprofessional. He also just doesn't like being spoken over, and just has a lot of things on his mind he needs to get out. While he tries not to, he rarely finds himself saying or doing things he doesn’t actually mean, as exposure to horrible things at his age can make him quite abrasive towards others.
+
+His personality shares similarities to his cousin, [[Draconic Will]]. He’s mildly dis-associative with his family, friends, and even his own lover. He is also strategic, rebellious, and calculated in battle. He doesn't have the best teamwork with others, but does enough to not be a hindrance. What defines his rebellious nature in battle is that he often doesn't pull punches, and often strikes first.
 
 Over painfully long time during and after Dire Will’s incident, Jacob developed severe PTSD and mild psychosis. Usually these episodes happen after the exposure of malice, or other similar visual or physical phenomena, such as certain shades of red or even just flesh.
 
@@ -52,21 +54,15 @@ This trait reached its Prime state after Dire put an intense physical and mental
 
 This soul trait makes Jacob more susceptible to feeling of “Wrath”, which by definition means an extreme, intense anger that often includes a deep desire for revenge or punishment.
 
-## Statistics
+# Statistics
 
-### Exceptional Durability (Planetary Level)
+##  Exceptional Durability (Planetary Level)
 
-Jacob is capable of resisting enough force to destroy or significantly damage areas with sizes comparable to planets.
+## Planetary AP + Destruction (Planetary Level)
 
-### Planetary AP + Destruction (Planetary Level)
+## Massively Hypersonic (+) Speeds & Reaction Time
 
-Jacob is capable of exerting enough force equivalent enough to significantly damage areas with size comparable to planets.
-
-### Massively Hypersonic (+) Speeds & Reaction Time
-
-Jacob can both run and fly at speeds varying from Mach 1000 - 8810.2, (767,269 mph - 6,706,166 mph), far beyond just the average human. Everything Jacob perceives is extremely, extremely slow, and can react before most can. Jacob can travel around entire planets in minutes or even less. Essentially, a human with such capabilities would be so incredibly fast, both in terms of perception and movement, that they would be able to perceive the lightning strike approaching and move out of its path before it could reach them. His attacks are relatively the same speed.
-
-## Battle Technique: Miragem Infernum
+# Battle Technique: Miragem Infernum
 
 In short, Miragem Infernum is a specialized fighting style taught by Draconic Will that blends illusion and aggression. It involves techniques like false strikes, to disguise far more devastating attacks, throw opponents off balance, or create openings. This style isn’t limited to just physical deception; it also incorporates clones, shadows, and sensory manipulation to further disorient the enemy.  His strategic mind allows him to lure opponents into game-changing positions, setting up calculated ambushes with near-flawless precision. His mastery of illusionary tactics, combined with his exceptional placement of magical attacks, makes him stealthy and formidable opponent, even in plain sight.
 
@@ -76,7 +72,7 @@ In essence, Jacob thrives on overwhelming his opponents with relentless pressure
 
 Jacob mainly uses knife for the more challenging, yet more rewarding aspects, while his legs and fists are used for stunning, or plain blunt force.
 
-## Weaponry
+# Weaponry
 
 ### Six-Serrationed Fractal
 
@@ -130,7 +126,7 @@ Jacob can create portals using small amounts of impossibility magic, which he fi
 
 Unlike other portalling techniques, impossibility magic negates the factors of equating distance to magical cost. The downside of this though is that is requires him to shift all of his focus into opening the portal, as any outside disruption could cause the portal to collapse or dissipate due to the inherently unstable nature of impossibility magic.
 
-## Equipment
+# Equipment
 
 ### Rage Stimulants
 
@@ -184,4 +180,6 @@ If damaged, Jacob’s blood can spread across his body and harden.
 
 - He likes eating huge, nutritious meals such as different forms of meats, usually tough seasoned steak. He also really likes most kinds of soup for some reason. He likes barbecue, too.
 
-- He got the nickname "BBQ" when his younger self put barbeque on all of his food.
+- He got the nickname "BBQ" when his younger self put barbecue on all of his food.
+
+- He adopted all of his mean or friendly gestures (such as shaking hands or hugging) from his family, meaning he doesn’t (but can if he needs to) follow the norms of a sprinklekit originating from Cryosilis. He knows them from Teegan, but lays off of it because of it still being something he’s getting used to.
