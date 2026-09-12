@@ -26,7 +26,7 @@ aliases:
 
 Raised and welcomed into loving arms the [[Will Family]], Jacob is a young boy that's known for being the surviving vessel of the [[Dire Will|Six-Horned Demon]], [[Dire Will]], known as the most destructive being in KTE’s known history. He is a survivor of the trauma and manipulation Dire had put him through relentlessly; The scale to each of their own atrocities putting a huge target on his head across many dimensions, leading to ruthless massacres in what he believed to be self-defense. 
 
-Jacob struggles with serious PTSD as a result of the guilt following [[Dire Will|Dire]]’s rise and fall, his soul trait mostly responsible for his rather strong, impulsive desires to return a favor of revenge. His biggest fears are not being in control of himself, isolation and rejection frok his loved ones, and crowds of people.
+Jacob struggles with serious PTSD as a result of the guilt following [[Dire Will|Dire]]’s rise and fall, his soul trait mostly responsible for his rather strong, impulsive desires to return a favor of revenge. His biggest fears are not being in control of himself, isolation and rejection from his loved ones, and crowds of people.
 
 ## Personality
 
@@ -36,13 +36,13 @@ He is very direct when he needs to be, and uses a lot of contractions like "You'
 
 He finds fulfillment in exploration and the liberation of others, coming from the stories told of the world by [[Counter Will]]. His liberation comes from [[Draconic Will|Draconic]], and while not often at all holding a “moral high-horse”, he hates seeing others being bossed around or controlled. While being in a family of supposed “Gods”, he and his sister actively oppose the title, and actively favors the belief the Astral Family holds on themselves.
 
-He has a firm, nuanced belief that “Everyone, even and I- quote- ‘gods’-.. are just their own beings like other people. Are we just that entitled!??-  Stop acting like we’re all anything more because we made or did some shit; We’re cool people, not superior.”
+He has a firm, nuanced belief that “Everyone, even and I- quote- ‘Gods’-.. are just their own beings like other people. Are we just that entitled!??-  Stop acting like we’re all anything more because we made or did some shit; We’re cool people, not superior.”
 
 Jacob Will at first comes off as rude and disruptive individual with an oppressive demeanor, called overly unprofessional in any setting. It's hard for him to be not an ass, but it's also hard for him to be a complete jerk, though. He has a hard time understanding what choice of words he should use, which is another reason why he comes off so unprofessional. He also just doesn't like being spoken over, and just has a lot of things on his mind he needs to get out. While he tries not to, he rarely finds himself saying or doing things he doesn’t actually mean, as exposure to horrible things at his age can make him quite abrasive towards others.
 
 His personality shares similarities to his cousin, [[Draconic Will]]. He’s mildly dis-associative with his family, friends, and even his own lover. He is also strategic, rebellious, and calculated in battle. He doesn't have the best teamwork with others, but does enough to not be a hindrance. What defines his rebellious nature in battle is that he often doesn't pull punches, and often strikes first.
 
-Over painfully long time during and after Dire Will’s incident, Jacob developed severe PTSD and mild psychosis. Usually these episodes happen after the exposure of malice, or other similar visual or physical phenomena, such as certain shades of red or even just flesh.
+Over a painfully long time during and after Dire Will’s incident, Jacob developed severe PTSD and mild psychosis. Usually these episodes happen after the exposure of malice, or other similar visual or physical phenomena, such as certain shades of red or even just flesh.
 
 ## Appearance
 
@@ -52,7 +52,7 @@ Jacob’s soul was formed in the deepest spires of the Velvian Crags, where his 
 
 This trait reached its Prime state after Dire put an intense physical and mental strain on Jacob, following the death and famine the malice caused after his death.
 
-This soul trait makes Jacob more susceptible to feeling of “Wrath”, which by definition means an extreme, intense anger that often includes a deep desire for revenge or punishment.
+This soul trait makes Jacob more susceptible to feeling of wrath, which by definition means an extreme, intense anger that often includes a deep desire for revenge or punishment.
 
 # Statistics
 
@@ -64,7 +64,7 @@ This soul trait makes Jacob more susceptible to feeling of “Wrath”, which by
 
 # Battle Technique: Miragem Infernum
 
-In short, Miragem Infernum is a specialized fighting style taught by Draconic Will that blends illusion and aggression. It involves techniques like false strikes, to disguise far more devastating attacks, throw opponents off balance, or create openings. This style isn’t limited to just physical deception; it also incorporates clones, shadows, and sensory manipulation to further disorient the enemy.  His strategic mind allows him to lure opponents into game-changing positions, setting up calculated ambushes with near-flawless precision. His mastery of illusionary tactics, combined with his exceptional placement of magical attacks, makes him stealthy and formidable opponent, even in plain sight.
+In short, Miragem Infernum is a specialized fighting style taught by Draconic Will that blends illusion and aggression. It involves techniques like false strikes to disguise far more devastating attacks, throwing opponents off balance, or creating openings. This style isn’t limited to just physical deception; it also incorporates enflamed clones and sensory manipulation to further disorient the enemy.  His strategic mind allows him to lure opponents into game-changing positions, setting up calculated ambushes with near-flawless precision. His mastery of illusionary tactics, combined with his exceptional placement of magical attacks, makes him stealthy and formidable opponent, even in plain sight.
 
 While he doesn’t rely heavily on hand-to-hand combat, Jacob's skill with a knife, free hand, and agile footwork, gives him a variety of combat options. His hit-and-run tactics focus on efficiency, using speed and deception to maximize effectiveness. His illusions serve as both an escape route and a means to seize the upper hand.
 
@@ -79,14 +79,13 @@ Jacob mainly uses knife for the more challenging, yet more rewarding aspects, wh
 > [!info]
 > In reference to [[Dire Will]]'s title: Six-Horned Demon
 
-Previously named "Ancient Treasure", Jacob harvested Dire’s horns to modify a knife that has 6 been improved to have large, 6 serrations on the blade, using Dire’s horns for the blade. Now improved by Jacobs’s craftsmanship, the handle is created from a rudimentary set of materials such as leather, and some high-quality rubies placed on the handle behind a thick layer of glass to preserve them.
+Previously named “Ancient Treasure", Jacob harvested Dire’s horns to modify the blade to have six serrations, and use the hyper-dense keratin-like structure of the horns to craft an entire new blade. With significant improvements to Jacobs’s craftsmanship, the handle is created from a rudimentary set of materials such as leather, and some high-quality rubies placed on the handle behind a thick layer of glass to preserve them.
 
-With this knife, Jacob can create physical energy "slashes" of all sorts of magic: Brimstone fire, Impossibility, etc.
-Jacob can also swing his knife, creating thin "cuts" at a range that translate into what direction and length he decides to tackle it with, concentrating his own physical strength to points that can affect a target beyond his own reach. (For example, he swings in a downwards fashion with his knife, it slices a person’s chest open as if he was actually there to do so, despite being so far away.)
+Jacob can swing his knife to create thin cuts at a range that concentrate his own physical strength to specific points, affecting a target beyond his own reach. For example, he swings in a downwards fashion with his knife, it slices a person’s chest open as if he was actually there to do so, despite being far away. The way he does this is imagining himself swinging in that point.
 
-This knife can alter the performance in physical/ranged combat, such as manifesting possibilities; Altering the chances of missing a swing, or misfiring a bullet can become reality. Jacob himself can concentrate magic into this effect, allowing for mistakes to occur more, utilizing it to avoid potentially life-threatening situations.
+This knife can alter the performance in physical/ranged combat, such as manifesting possibilities; Altering the chances of missing a swing, or misfiring a bullet can become reality. Jacob can concentrate magic into this effect, allowing for mistakes to occur more often, utilizing it to avoid potentially life-threatening situations.
 
-Lastly, and most costly, Jacob can use Dire’s horns, and his own soul magic to form a powerful concentration of impossibility magic at the tip of his knife, firing out a non-stop ray of impossibility which ignores most, if not all of the durability of a character, and aims to make any form of escape irrelevant as the odds stack against the opponent heavily while the ray is active. The beam itself rips through time and space, firing at an "infinite" distance, immediately reaching the dimensional barrier that separates other universes apart. Though over distance it weakens, and it's strongest points are medium-close range.
+Lastly, (and most costly) Jacob can use the blade, paired with Jacob’s own soul magic to form a powerful concentration of impossibility magic at the tip of his knife, firing out a non-stop ray of impossibility which ignores most, if not all of the durability of a character, and aims to make any form of escape irrelevant as the odds stack against the opponent heavily while the ray is active. The beam itself rips through time and space, firing at an "infinite" distance, immediately reaching the dimensional barrier that divides other universes. Though over distance it weakens, and its strongest points are medium-close range.
 
 ### Cantos
 
@@ -94,23 +93,21 @@ Lastly, and most costly, Jacob can use Dire’s horns, and his own soul magic to
 > **_Each one had their own story; Their explosions and wails aligned to form a symphony consisting of more than just words; A poem of sounds that convey the feeling of immense danger._**
 > $\to$ Jacob
 
-Ghostly, mindless, fury-filled souls stolen from eternal maledictions that Jacob controlled with his own soul magic, used for his own personal gain. These wisps are violent, with the strongest capable of ravaging entire planets (and possibly more if given the circumstance). These wisps normally take on a dark red color, matching the same brimstone flames he uses in battle; But the average canto also has the ability to take on a form similar to Jacob if he so chooses, which can also be used to disorient the enemy. 
+They’re ghostly, mindless, fury-filled souls; Stolen from eternal maledictions that Jacob controls with his own soul magic, used for his own personal gain. These wisps are relentless, with the strongest capable of ravaging entire planets (and possibly more if given the circumstance). These wisps normally take on a dark red color, matching the same brimstone flames he uses in battle; But the average canto also has the ability to take on a form similar to Jacob if he so chooses, which can also be used to disorient the enemy. 
 
-In those faces you can barely make out the faces of those who have suffered a fate worse than death. Those faces in question also pose a significant threat, as they will rip opponents apart with their horrific maw that leaves deep, lasting burns. They will also let out a horrific, deafening scream before they explode.
+These are the faces those who have suffered a fate worse than death. Those faces in question will rip opponents apart with their horrific maw that leaves deep, lasting burns. They will also let out a horrific, deafening scream before they explode.
 
 ### Brimstone Fire / Flames of Impossibility
 
-A fire which comes from the deepest, most shrouded parts of Jacob’s soul, thumping in resonance with the volatility that is his being. These catastrophic flames are unable to be put out through regular means. 
+Brimstone flames come from the most shrouded parts of Jacob’s soul, thumping in resonance with the volatility that is his being. These catastrophic flames are unable to be put out through regular means. 
 
-This is an anomalous flame harbored from a concentration of unholy/demonic energy, and can clash with opposing forms of magic, such as any magic in relation to goddesses or religious concepts.
-
-Jacob can very easily bring down entire planets to an apocalyptic extreme, where even non-organic matter is at stake; Metals are immediately liquefied, and other materials such as ceramic, glass, and fire retardants.
+This is an anomalous flame harbored from a concentration of unholy/demonic energy, and can clash with opposing forms of magic, such as any magic in relation to goddesses or religious concepts. Jacob can very easily bring down entire planets to an apocalyptic extreme, where even non-organic matter is at stake: Metals are immediately liquefied, and other materials such as ceramic, glass, and fire retardants.
 
 Demonstrated to be much more potent than even Draconic’s flames (If he were to rival his power at one point), Jacob has a higher form of flame, a higher-echelon to his heated weaponry:
 
-The Flames of Impossibility. Had it been given another name, it could have been considered misleading. The vestige of Dire's magic still lingers on Jacob's body, allowing for a weakened- but potent imbuement of basic Impossibility magic into his flames. These flames do not "Burn", these flames do not "Freeze". They merely take away the presence of something, leaving but an empty gap in space behind.
+The Flames of Impossibility, had it been given another name, it could have been considered misleading. The vestige of Dire's magic still lingers on Jacob's body, allowing for a weakened, but potent imbuement of basic impossibility magic into his flames. These flames do not burn, these flames do not freeze; They merely take away the presence of something, leaving but an empty gap in space behind.
 
-Among its many uses there's that of slight durability negation and erasure of space for closing distances. Also, if it is ever Jacob's wish to master such ability, the erasure of a "Target". By imbuing a "Target" to his magic, he could be able to target only one substance with these flames, having uses such as erasing all of a person's infection or diseases, but leaving them unscathed.
+Among its many uses there's that of slight durability negation and erasure of space for closing distances. Also, if it is ever Jacob's wish to master such ability, the erasure of a target. By imbuing a target to his magic, he could be able to target only one substance with these flames, having uses such as erasing all of a person's infection or diseases, but leaving them unscathed.
 
 ### X-Trap
 
@@ -120,11 +117,15 @@ This trap isn’t limited to just the ground, and can be placed on walls or ceil
 
 ### Rush of Extremity
 
-Jacob is able to create powerful “Charges” of magic behind his back, pairing both auralytes and his knowledge in fire magic. While using this technique, a very loud queue can be heard before he actually uses is, that being the very loud sound of fire (And the loud hum of energy charging up) crackling. This gives him a very, very powerful boost that propels him so fast it can rocket him to speeds as fast as light. As a result of his family traits, (Mainly very small amounts of WAR) his body shifts into a ‘Warp-Driven’ state which allows for his body to remain tangible, but also allow for light-speed travel. In essence, his mind and body is influenced by a reality warping force to allow him to react even in such speeds, though trying to change the direction he’s going in is significantly harder.
+Jacob is able to create powerful charges of magic behind his back, pairing both auralytes and his knowledge in fire magic. 
+
+While using this technique, a very loud queue can be heard before he actually uses it, that being the very loud sound of fire (And the loud hum of energy charging up) crackling. This gives him a very, very powerful boost that propels him so fast it can rocket him to speeds as fast as light.
+
+As a result of his family traits, (Mainly very small amounts of WAR) his body shifts into a warp-driven state which allows for his body to remain tangible, but also allow for light-speed travel. In essence, his mind and body is influenced by a reality warping force to allow him to react even in such speeds, though trying to change the direction he’s going in is significantly harder.
 
 ### Impossible Rifts
 
-Jacob can create portals using small amounts of impossibility magic, which he figured out during his tragic journey through the shard-gathering of Dire Will. Jacob had quickly caught on the technique of how to do this through allowing Dire's possession of his body temporarily, able to grasp the shared consciousness and recall his exact processes. 
+Jacob can create portals using small amounts of impossibility magic, which he figured out during his tragic journey through the shard-gathering of Dire Will. Jacob had quickly caught on the technique of how to do this through allowing Dire's possession of his body, able to grasp the shared consciousness and recall his exact processes. 
 
 Unlike other portalling techniques, impossibility magic negates the factors of equating distance to magical cost. The downside of this though is that is requires him to shift all of his focus into opening the portal, as any outside disruption could cause the portal to collapse or dissipate due to the inherently unstable nature of impossibility magic.
 
@@ -154,7 +155,7 @@ He wants to keep it hidden, because he knows what he has is what everyone would 
 
 This orb can be gazed into only by the wrathful eyes of Jacob himself, and what he sees is an enormous vision of all [[Malice]], stretching past a seemingly infinite distance in all directions that function as a sort of anomalous “map”, giving him a real-time surveillance of [[Malice#Malediction|Malediction]] from impossible distances.
 
-However, gazing into this orb requires for him to charge the orb with impossibility magic, acting as a sort of “battery” that prevents him from using it too often. 
+However, gazing into this orb requires for him to charge the orb with impossibility magic, acting as a sort of battery that prevents him from using it too often. 
 
 Turns out, anything involving Malice just makes everything more difficult.
 
