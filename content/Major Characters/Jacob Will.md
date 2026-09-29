@@ -4,7 +4,7 @@ aliases:
 ---
 
 > [!quote]
-> **God damn it, I swear- I swear I'll kill all of you.**
+> *God DAMN it, I swear- I SWEAR I'll kill ALL of you.*
 > $\to$ Jacob, watching in fury and utter dismay as the malice was released by [[Dire Will]].
 
 > [!abstract] Metadata
@@ -93,11 +93,23 @@ This knife can alter the performance in physical/ranged combat, such as manifest
 
 Lastly, (and most costly) Jacob can use the blade, paired with Jacob’s own soul magic to form a powerful concentration of impossibility magic at the tip of his knife, firing out a non-stop ray of impossibility which ignores most, if not all of the durability of a character, and aims to make any form of escape irrelevant as the odds stack against the opponent heavily while the ray is active. The beam itself rips through time and space, firing at an "infinite" distance, immediately reaching the dimensional barrier that divides other universes. Though over distance it weakens, and its strongest points are medium-close range.
 
+### Splicing Defiance
+
+>[!quote]
+> *Weird- this is what I got instead.*
+> \- Jacob
+
+A failed attempt at teaching Jacob sand magic turned a simple lesson into another powerful weapon in his arsenal. This is a secondary weapon that is attached to his wrist, opposite of where his knife is held. This wristblade was the first weapon forged without assistance, made from various heat-resistant alloys.
+
+The blade is created with the new material he made, which was originally supposed to be sand magic, but now is just firey, wrath-filled obsidian with a purple-ish garnet color. This form of obsidian is infused with the essence of Brimstone Fire, which gives it a volatile effect when shattering, leaving behind searing shrapnel that embeds into the opponent.
+
+This weapon can be used as normal, but there is also a mechanism inside that allows for Jacob to concentrate magic into a point, allowing for a powerful, concentrated explosion that shoots the blade out, which he can reload if he so choses.
+
 ### Cantos
 
 > [!quote]
-> **_Each one had their own story; Their explosions and wails aligned to form a symphony consisting of more than just words; A poem of sounds that convey the feeling of immense danger._**
-> $\to$ Jacob
+> *Each one had a story; Cries and explosions aligned to form a symphony consisting of more than just words; A poem of sounds that convey that feeling of a lot of danger.*
+> \- Jacob
 
 They’re ghostly, mindless, fury-filled souls; Stolen from eternal maledictions that Jacob controls with his own soul magic, used for his own personal gain. These wisps are relentless, with the strongest capable of ravaging entire planets (and possibly more if given the circumstance). These wisps normally take on a dark red color, matching the same brimstone flames he uses in battle; But the average canto also has the ability to take on a form similar to Jacob if he so chooses, which can also be used to disorient the enemy. 
 
