@@ -89,11 +89,9 @@ Previously named “Ancient Treasure", Jacob harvested Dire’s horns to modify 
 
 Jacob can swing his knife to create thin cuts at a range that concentrate his own physical strength to specific points, affecting a target beyond his own reach. For example, he swings in a downwards fashion with his knife, it slices a person’s chest open as if he was actually there to do so, despite being far away. The way he does this is imagining himself swinging in that point.
 
-#### Reality shift
 This knife can alter the performance in physical/ranged combat, such as manifesting possibilities; Altering the chances of missing a swing, or misfiring a bullet can become reality. Jacob can concentrate magic into this effect, allowing for mistakes to occur more often, utilizing it to avoid potentially life-threatening situations.
 
-#### God Ray
-Lastly, (and most costly) Jacob can use the blade, paired with Jacob’s own soul magic to form a powerful concentration of impossibility magic at the tip of his knife, firing out a non-stop ray of impossibility which ignores most, if not all of the durability of a character, and aims to make any form of escape irrelevant as the odds stack against the opponent heavily while the ray is active. The beam itself rips through time and space, firing at an "infinite" distance, immediately reaching the dimensional barrier that divides other universes. Though over distance it weakens, and its strongest points are medium-close range.
+Lastly, Jacob can use the blade, paired with Jacob’s own soul magic to form a powerful concentration of impossibility magic at the tip of his knife, firing out a non-stop ray of impossibility which ignores most, if not all of the durability of a character, and aims to make any form of escape irrelevant as the odds stack against the opponent heavily while the ray is active. The beam itself rips through time and space, firing at an "infinite" distance, immediately reaching the dimensional barrier that divides other universes. Though over distance it weakens, and its strongest points are medium-close range.
 
 ### Splicing Defiance
 
