@@ -46,6 +46,10 @@ Over a painfully long time during and after Dire Will’s incident, Jacob develo
 
 ## Appearance
 
+Jacob wears a mask with markings, having a distinctive red X on the forehead area. Over the mask is a metallic helmet with 4 segmemted horns that curve behind Jacob’s ears. For his clothing, Jacob wears: An armored trench coat with a utility belt, a collared undershirt, trousers, and armored metallic boosts.
+
+Some of his facial features are: His face is covered various deep, visible scars, a few of his upper teeth are chipped, and the color of his eyes are slightly greyed out from the constant use in magic. The part of his body that appears most scarred is his back, which was a focal point for most malice-related injuries, which in turn has messed up his posture slightly.
+
 ## Soul: Prime Wrath
 
 Jacob’s soul was formed in the deepest spires of the Velvian Crags, where his soul would later erupt, emitting ferocious and unstable flames, making his soul burn a dark garnet. These flames are named brimstone flames to signify the power behind it.
