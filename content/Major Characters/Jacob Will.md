@@ -46,7 +46,7 @@ Over a painfully long time during and after Dire Will’s incident, Jacob develo
 
 ## Appearance
 
-Jacob wears a mask with markings, having a distinctive red X on the forehead area. Over the mask is a metallic helmet with 4 segmemted horns that curve behind Jacob’s ears. For his clothing, Jacob wears: An armored trench coat with a utility belt, a collared undershirt, trousers, and armored metallic boosts.
+Jacob wears a mask with markings, having a distinctive red X on the forehead area. Over the mask is a metallic helmet with 4 segmemted horns that curve behind Jacob’s ears. For his clothing, Jacob wears: An armored trench coat with a utility belt, a collared undershirt, trousers, and armored metallic boosts. Additionally, he has long, segmented pauldrons on his shoulders.
 
 Some of his facial features are: His face is covered various deep, visible scars, a few of his upper teeth are chipped, and the color of his eyes are slightly greyed out from the constant use in magic. The part of his body that appears most scarred is his back, which was a focal point for most malice-related injuries, which in turn has messed up his posture slightly.
 
