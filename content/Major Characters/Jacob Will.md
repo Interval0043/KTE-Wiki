@@ -159,7 +159,7 @@ A legendary object Jacob’s soul manifested in the immediate aftermath of Dire�
 
 He wants to keep it hidden, because he knows what he has is what everyone would die for to have.
 
-This orb can be gazed into only by the wrathful eyes of Jacob himself, and what he sees is an enormous vision of all [[Malice]], stretching past a seemingly infinite distance in all directions that function as a sort of anomalous “map”, giving him a real-time surveillance of [[Malice#Malediction|Malediction]] from impossible distances.
+This orb can be gazed into only by the wrathful eyes of Jacob himself, and what he sees is an enormous vision of all [[Malice]], stretching past a seemingly infinite distance in all directions that function as a sort of anomalous map, giving him a real-time surveillance of [[Malice#Malediction|Malediction]] from impossible distances.
 
 However, gazing into this orb requires for him to charge the orb with impossibility magic, acting as a sort of battery that prevents him from using it too often. 
 
