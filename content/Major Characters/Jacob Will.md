@@ -153,6 +153,12 @@ Unlike other portalling techniques, impossibility magic negates the factors of e
 
 # Equipment
 
+### Helmet
+
+The flower implanted in Jacob’s helmet allows him to summon the malice entities called Scarlet Butterflies in varying shapes and sizes. Fortunately, these creatures in specific are less triggering for him and can be used for battle. This is also a way for him to do irreparable damage, as these butterflies also spread malice.
+
+This helmet can also release malice-infused hallucinogenic spores, which manifest the worst possible things for the opponent. Due to malice preying on insecurities, it’s very likely what they want to see the least.
+
 ### Rage Stimulants
 
 An [[Interdimensional Defense & Advanced Research Center|I.D.A.R.C.]]-developed substance capable of sending Jacob into a controlled, but highly concentrated state of rage. He commissioned this in fear of losing his loved ones, using it as a means to make sure his opponent is dead.
