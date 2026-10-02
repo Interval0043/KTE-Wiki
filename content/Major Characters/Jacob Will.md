@@ -24,9 +24,9 @@ aliases:
 
 ## History/Basics
 
-Raised and welcomed into loving arms the [[Will Family]], Jacob is a young boy that's known for being the surviving vessel of the [[Dire Will|Six-Horned Demon]], [[Dire Will]], known as the most destructive being in KTE’s known history. He is a survivor of the trauma and manipulation Dire had put him through relentlessly; The scale to each of their own atrocities putting a huge target on his head across many dimensions, leading to ruthless massacres in what he believed to be self-defense. 
+Raised and welcomed into loving arms the [[Will Family]], Jacob is a young boy that's known for being the surviving vessel of the [[Dire Will|Six-Horned Demon]], [[Dire Will]], known as the most destructive being in KTE’s known history. He is a survivor of the trauma and manipulation Dire had put him through relentlessly; The scale of their own atrocities putting a huge target on his head across many dimensions, leading to ruthless massacres in what he believed to be self-defense. 
 
-Jacob struggles with serious PTSD as a result of the guilt following [[Dire Will|Dire]]’s rise and fall, his soul trait mostly responsible for his rather strong, impulsive desires to return a favor of revenge. His biggest fears are not being in control of himself, isolation and rejection from his loved ones, and crowds of people.
+Jacob struggles with serious PTSD as a result of the guilt following [[Dire Will|Dire]]’s rise and fall, his soul trait mostly “Wrath” responsible for an intense, impulsive desire to return a favor of revenge. 
 
 ## Personality
 
@@ -44,6 +44,8 @@ His personality shares similarities to his cousin, [[Draconic Will]]. He’s mil
 
 Over a painfully long time during and after Dire Will’s incident, Jacob developed severe PTSD and mild psychosis. Usually these episodes happen after the exposure of malice, or other similar visual or physical phenomena, such as certain shades of red or even just flesh.
 
+His biggest fears are not being in control of himself, isolation and rejection from his loved ones, and crowds of people.
+
 ## Appearance
 
 The general consensus of his design is that it is both central to a medieval and demonic theme, sharing mainly reds and blacks, but occasionally including silver.
@@ -54,11 +56,11 @@ Some of his facial features are: His face is covered various deep, visible scars
 
 ## Soul: Prime Wrath
 
-Jacob’s soul was formed in the deepest spires of the Velvian Crags, where his soul would later erupt, emitting ferocious and unstable flames, making his soul burn a dark garnet. These flames are named brimstone flames to signify the power behind it.
+Jacob’s soul was formed in the deepest spires of the Velvian Crags, where his soul would later erupt, emitting ferocious and unstable flames, making his soul burn a dark garnet. These devastating flames are named “Brimstone Flames” to signify power, manifested from the deepest and darkest thoughts behind a wicked induvidual.
 
-This trait reached its Prime state after Dire put an intense physical and mental strain on Jacob, following the death and famine the malice caused after his death.
+This trait reached its Prime state after Dire put an intense physical and mental strain on Jacob. The sheer intensity of emotion that came with the release of the Malice made him manifest the Destiny Core from his soul.
 
-This soul trait makes Jacob more susceptible to feeling of wrath, which by definition means an extreme, intense anger that often includes a deep desire for revenge or punishment.
+Jacob’s Wrath manifests to create more amplified, powerful attacks at the cost of more magic, which in the end exhausts him more easily, but makes him a force to be reckoned with.
 
 # Statistics
 
@@ -123,15 +125,17 @@ This is an anomalous flame harbored from a concentration of unholy/demonic energ
 
 Demonstrated to be much more potent than even Draconic’s flames (If he were to rival his power at one point), Jacob has a higher form of flame, a higher-echelon to his heated weaponry:
 
-The Flames of Impossibility, had it been given another name, it could have been considered misleading. The vestige of Dire's magic still lingers on Jacob's body, allowing for a weakened, but potent imbuement of basic impossibility magic into his flames. These flames do not burn, these flames do not freeze; They merely take away the presence of something, leaving but an empty gap in space behind.
+The Flames Of Impossibility, had it been given another name, it could have been considered misleading. The vestige of Dire's magic still lingers on Jacob's body, allowing for a weakened, but potent imbuement of basic impossibility magic into his flames. These flames do not burn, these flames do not freeze; They merely take away the presence of something, leaving but an empty gap in space behind.
 
 Among its many uses there's that of slight durability negation and erasure of space for closing distances. Also, if it is ever Jacob's wish to master such ability, the erasure of a target. By imbuing a target to his magic, he could be able to target only one substance with these flames, having uses such as erasing all of a person's infection or diseases, but leaving them unscathed.
 
 ### X-Trap
 
-Jacob can create small, X-shaped markings into any surface using his magic, which if the attacker is in a certain proximity of these traps: The mark will rapidly expand, expelling energy upwards to create a long cross-shaped geyser that is made from brimstone fire. 
+Jacob can create small, X-shaped markings into any surface, which if the attacker is in a certain proximity of these traps: The mark will rapidly expand, expelling energy upwards to create a long cross-shaped geyser that is made from brimstone fire. 
 
 This trap isn’t limited to just the ground, and can be placed on walls or ceilings. These traps can also be detonated manually.
+
+Imbuing these traps with Impossibility Magic makes these traps spin even while expelling fire, sometimes purposefully in the direction of the attacker. These modified traps can also somewhat predict movement. 
 
 ### Rush of Extremity
 
@@ -171,7 +175,7 @@ A legendary object Jacob’s soul manifested in the immediate aftermath of Dire�
 
 He wants to keep it hidden, because he knows what he has is what everyone would die for to have.
 
-This orb can be gazed into only by the wrathful eyes of Jacob himself, and what he sees is an enormous vision of all [[Malice]], stretching past a seemingly infinite distance in all directions that function as a sort of anomalous map, giving him a real-time surveillance of [[Malice#Malediction|Malediction]] from impossible distances.
+This orb can be gazed into only by the wrathful eyes of Jacob himself, and what he sees is an enormous vision of all [[Malice]], stretching past a seemingly infinite distance in all directions that function as a sort of anomalous map, giving him a real-time surveillance of [[Malice#Malediction|Malediction]] from impossible distances. This also allows him to view any entities that have been or are currently infected, though those that are no longer infected are less visible and will eventually dissipate.
 
 However, gazing into this orb requires for him to charge the orb with impossibility magic, acting as a sort of battery that prevents him from using it too often. 
 
