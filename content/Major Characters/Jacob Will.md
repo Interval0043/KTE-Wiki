@@ -219,4 +219,4 @@ If damaged, Jacob’s blood can spread across his body and harden.
 
 - He adopted all of his mean or friendly gestures (such as shaking hands or hugging) from his family, meaning he doesn’t (but can if he needs to) follow the norms of a sprinklekit originating from Cryosilis. He knows them from Teegan, but lays off of it because of it still being something he’s getting used to.
 
-- In his past, he has wiped civilizations due to the sheer number of those informed of Dire and those affiliated, and also out of rage because of the relentless targeting he endured. Since then, he has grown very numb towards killing.
+- In his past, he has wiped civilizations due to the sheer number of those informed of Dire and those affiliated, and also out of rage because of the relentless targeting he had to endure. Since then, he has grown very numb towards killing.
