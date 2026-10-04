@@ -12,7 +12,7 @@ aliases:
 > - Nicknames:
 > 	- Jay-Jay ([[Teegan Astral]])
 > 	- Barbecue / BBQ ([[Will Family]])
-> - Age: 755
+> - Age: 755 (17-18 physically)
 > - Sexuality: Gay
 > - Gender: Male
 > - Languages: English & Japanese
@@ -53,6 +53,8 @@ The general consensus of his design is that it is both central to a medieval and
 Jacob wears a mask with markings, having a distinctive red X on the forehead area. Over the mask is a metallic helmet with 4 segmemted horns that curve behind Jacob’s ears. On the front of the helmet also has a red and black lily. For his clothing, Jacob wears: An armored trench coat with a utility belt, a collared undershirt, trousers, and armored metallic boosts. Additionally, he has long, segmented pauldrons on his shoulders.
 
 Some of his facial features are: His face is covered various deep, visible scars, a few of his upper teeth are chipped, and the color of his eyes are slightly greyed out from the constant use of magic. The part of his body that appears most scarred is his back, which was a focal point for most malice-related injuries, and as a result has messed up his posture slightly.
+
+Despite his distance from adulthood, his body has aged faster due to chronic stress. This makes him appear older than he actually is.
 
 ## Soul: Prime Wrath
 
