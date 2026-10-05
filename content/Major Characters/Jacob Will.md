@@ -103,7 +103,7 @@ Lastly, Jacob can use the blade, paired with Jacob’s own soul magic to form a 
 > *Weird- this is what I got instead.*
 > \- Jacob
 
-A failed attempt at teaching Jacob sand magic turned a simple lesson into another powerful weapon in his arsenal. This is a secondary weapon that is attached to his wrist, opposite of where his knife is held. This wristblade was the first weapon forged without assistance, made from various heat-resistant alloys.
+A failed attempt at Suna teaching Jacob sand magic turned a simple lesson into another powerful weapon in his arsenal. This is a secondary weapon that is attached to his wrist, opposite of where his knife is held. This wristblade was the first weapon forged without assistance, made from various heat-resistant alloys.
 
 The blade is created with the new material he made, which was originally supposed to be sand magic, but now is just firey, wrath-filled obsidian with a purple-ish garnet color. This form of obsidian is infused with the essence of Brimstone Fire, which gives it a volatile effect when shattering, leaving behind searing shrapnel that embeds into the opponent.
 
