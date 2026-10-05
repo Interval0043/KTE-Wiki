@@ -54,7 +54,7 @@ Lastly, as each member passes down these traits from generation to generation, t
 
 ## Structure/Norms
 
-This family is a mess, no doubt. However, it is kept in place by Theia Astral, who serves as the co-director of Leigon Of Nazareth, and the eldest of the entire bloodline. A majority of what they do is in favor of her, but for good reason. 
+This family is a mess, no doubt. However, it is kept in place by Theia Astral, who serves as the co-director of Leigon Of Nazareth, and is the eldest of the entire bloodline. A majority of what they do is in favor of her, but for good reason. 
 
 “Plas” - A vulgar slang word derived from “Plasma”, meant to describe who’s extraordinarily ugly in way that looks like their body has been burned beyond recognition, but can be used a word reference to the people they’ve burnt or killed. This is generally used as an insult in the family. Some common uses are: “Plasface”, “Plascock”, or “Plasfuck”. Another meaning of Plas is to refer to killing someone (e.g “Plas him.”)
 
