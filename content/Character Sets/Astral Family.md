@@ -58,6 +58,6 @@ This family is a mess, no doubt. However, it is kept in place by Theia Astral, w
 
 “Plas” - A vulgar slang word derived from “Plasma”, meant to describe who’s extraordinarily ugly in way that looks like their body has been burned beyond recognition, but can be used a word reference to the people they’ve burnt or killed. This is generally used as an insult in the family. Some common uses are: “Plasface”, “Plascock”, or “Plasfuck”. Another meaning of Plas is to refer to killing someone (e.g “Plas him.”)
 
-“Quant” - Derived from the “Quantum”, this codeword is used to convey a more exaggerated “what”, which is used by a member when they are confused. When this term is used, it means heavily that they need more explanation/elaboration to something. Regardless of tone, use of this word means someone demands answers.
+“Quant” - Derived from the word “Quantum”, this codeword is used to convey a more exaggerated “what”, which is used by a member when they are confused. When this term is used, it means heavily that they need more explanation/elaboration to something. Regardless of tone, use of this word means someone demands answers.
 
 Rule 1 - Unstable norms and culture are not tolerated, and are in favor of Cryosilis norms (besides licking/grooming, which she and others in the family believes is more unsanitary than kissing). She instates this rule to prevent unnecessary violence or vulgarity, though some of the members fail to follow or really acknowledge this rule. It is also advised for a member to be on their best behavior in her presence.
