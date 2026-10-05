@@ -26,24 +26,24 @@ Lastly, as each member passes down these traits from generation to generation, t
 
 ### 1st Generation
 
-* [[Theia Astral]]
-* [[Reishon Astral]]
+* [[Theia Astral]] -
+* [[Reishon Astral]] - 
 
 ### 2nd Generation
 
-* [[Iris Astral]]
-* [[Isaac Astral]]
+* [[Iris Astral]] - 
+* [[Isaac Astral]] - 
 
 ### 3rd Generation
 
-* [[Shaden Astral]]
-* [[Shara Astral]]
-* [[Senvic Astral]]
+* [[Shaden Astral]] - Trait: Red Supergiant Star
+* [[Shara Astral]] - Progenitor Star
+* [[Senvic Astral]] - Trait: Ice Giant
 
 ### 4th Generation
 
-* [[Teegan Astral]]
-* [[Harlow Astral]]
+* [[Teegan Astral]] - Trait: Neutron Star 
+* [[Harlow Astral]] - Trait: Brown Dwarf Star
 
 ## Close Ties
 
@@ -54,7 +54,7 @@ Lastly, as each member passes down these traits from generation to generation, t
 
 ## Structure/Norms
 
-This family is a mess, no doubt. However, it is kept in place by Theia Astral, who serves as the co-director of Leigon Of Nazareth, and is the eldest of the entire bloodline. A majority of what they do is in favor of her, but for good reason. 
+This family is a mess, no doubt. However, it is kept in place by Theia Astral, who serves as the co-director of Leigon Of Nazareth, and is the eldest of the entire bloodline. A majority of what they do is in favor of her, but for good reason.
 
 This family’s survival is deeply rooted in their self-preservation, problem solving skills, and ability to negotiate. A very good reason why these exist is because of their time in Unstable Catalyst, a world with poverty-stricken, dystopian societies. This means as a collective, they are very independent if need be, with an unwritten rule being that interactions are seen as mostly transactional. However, this doesn’t mean they cannot do favors or other simple tasks out of companionship, and even if some are so, they were simply just raised that way. This behavior is more frequent in older generations.
 
@@ -68,4 +68,4 @@ This family loves trading.
 
 ### Rules 
 
-Unstable Catalyst norms and culture are not tolerated, and are in favor of Cryosilis norms (besides licking/grooming, which she and others in the family believes is more unsanitary than kissing). She instates this rule to prevent unnecessary violence or vulgarity, though some of the members fail to follow or really acknowledge this rule. It is also advised for a member to be on their best behavior in her presence.
+Unstable Catalyst norms and culture are not tolerated, and are in favor of Cryosilis norms (besides licking/grooming, which she and others in the family believes is more unsanitary than kissing). Theia instates this rule to prevent unnecessary violence or vulgarity, though some of the members fail to follow or really acknowledge this rule. It is also advised for a member to be on their best behavior in her presence.
