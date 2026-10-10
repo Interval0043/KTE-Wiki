@@ -66,6 +66,10 @@ This family loves trading.
 
 “Quant” - Derived from the word “Quantum”, this codeword is used to convey a more exaggerated “what”, which is used by a member when they are confused. When this term is used, it means heavily that they need more explanation/elaboration to something. Regardless of tone, uses of this word means someone demands answers.
 
+“Singu” - Derived from the word “Singularity”, describing the point where laws, rules, and models break down. Though in this context, the definition defines the space around a blackhole which nearly guarantees no point in return. This slang is used to describe anything that is inherently difficult or incomprehensible to understand, such as Malice. For example, something “Singu” would be the destruction of the anti-void caused by [[Dire Will]].
+
 ### Rules 
 
 Unstable Catalyst norms and culture are not tolerated, and are in favor of Cryosilis norms (besides licking/grooming, which she and others in the family believes is more unsanitary than kissing). Theia instates this rule to prevent unnecessary violence or vulgarity, though some of the members fail to follow or really acknowledge this rule. It is also advised for a member to be on their best behavior in her presence.
+
+Theia is in charge of casting of secretive, required meetings concerning the wellbeing of the family, serving as a way for notice on potential shortcomings. Another notable thing about these meetings is that it isn’t required for a member of the family to be professional, as some members view it as a place to vent their frustrations, or ramble about other personal vendettas.
