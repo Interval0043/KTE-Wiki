@@ -31,7 +31,7 @@ Lastly, as each member passes down these traits from generation to generation, t
 
 ### 2nd Generation
 
-* [[Iris Astral]] - Blue Supergiant
+* [[Iris Astral]] - Blue Supergiant Star
 * [[Isaac Astral]] - Asteriod
 
 ### 3rd Generation
