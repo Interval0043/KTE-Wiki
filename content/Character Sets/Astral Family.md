@@ -26,18 +26,18 @@ Lastly, as each member passes down these traits from generation to generation, t
 
 ### 1st Generation
 
-* [[Theia Astral]] -
-* [[Reishon Astral]] - 
+* [[Theia Astral]] - Trait: Galaxy
+* [[Reishon Astral]] - Trait: Unknown/Undefined
 
 ### 2nd Generation
 
-* [[Iris Astral]] - 
-* [[Isaac Astral]] - 
+* [[Iris Astral]] - Blue Supergiant
+* [[Isaac Astral]] - Asteriod
 
 ### 3rd Generation
 
 * [[Shaden Astral]] - Trait: Red Supergiant Star
-* [[Shara Astral]] - Progenitor Star
+* [[Shara Astral]] - Trait: Progenitor Star
 * [[Senvic Astral]] - Trait: Ice Giant
 
 ### 4th Generation
