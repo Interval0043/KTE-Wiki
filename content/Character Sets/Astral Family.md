@@ -66,7 +66,9 @@ This family loves trading.
 
 “Quant” - Derived from the word “Quantum”, this codeword is used to convey a more exaggerated “what”, which is used by a member when they are confused. When this term is used, it means heavily that they need more explanation/elaboration to something. Regardless of tone, uses of this word means someone demands answers.
 
-“Singu” - Derived from the word “Singularity”, describing the point where laws, rules, and models break down. Though in this context, the definition defines the space around a blackhole which nearly guarantees no point in return. This slang is used to describe anything that is inherently difficult or incomprehensible to understand, such as Malice. For example, something “Singu” would be the destruction of the anti-void caused by [[Dire Will]].
+“Singu” - Derived from the word “Singularity”, describing the point where laws, rules, and models break down. But in this context to refer to the use of the word, the definition also uses the term “Event Horizon”, which is what defines the space around a blackhole which nearly guarantees no point in return. 
+
+This slang is used to describe anything that is inherently difficult or incomprehensible to understand, such as Malice. For example something “Singu” would be the destruction of the anti-void caused by aftermath of the fight between [[Dire Will]] and [[Counter Will]]
 
 ### Rules 
 
