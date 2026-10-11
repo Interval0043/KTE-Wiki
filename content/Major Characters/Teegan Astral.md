@@ -1,11 +1,6 @@
----
-aliases:
-  - Teegan
----
-
 > [!quote]
 > **... I guess that's just how it is.**
-> $\to$ Teegan, consoling [[Jacob Will|Jacob]] softly after lashing out.
+> \- Teegan, consoling [[Jacob Will|Jacob]] softly after lashing out.
 
 > [!abstract] Metadata
 > - Name: Teegan Astral

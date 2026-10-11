@@ -1,11 +1,6 @@
----
-aliases:
-  - Jacob
----
-
 > [!quote]
 > *God DAMN it, I swear- I SWEAR I'll kill ALL of you.*
-> $\to$ Jacob, watching in fury and utter dismay as the malice was released by [[Dire Will]].
+>\- Jacob, watching in fury and utter dismay as the malice was released by [[Dire Will]].
 
 > [!abstract] Metadata
 > - Name: Jacob Will
@@ -24,7 +19,7 @@ aliases:
 
 ## History/Basics
 
-Raised and welcomed into loving arms the [[Will Family]], Jacob is a young boy that's known for being the surviving vessel of the [[Dire Will|Six-Horned Demon]], [[Dire Will]], known as the most destructive being in KTE’s known history. He is a survivor of the trauma and manipulation Dire had put him through relentlessly; The scale of their own atrocities putting a huge target on his head across many dimensions, leading to ruthless massacres in what he believed to be self-defense. 
+Raised and welcomed into loving arms the [[Will Family]], Jacob is a young boy that's known for being the surviving vessel of the Six-Horned Demon, [[Dire Will]], known as the most destructive being in KTE’s known history. He is a survivor of the trauma and manipulation Dire had put him through relentlessly; The scale of their own atrocities putting a huge target on his head across many dimensions, leading to ruthless massacres in what he believed to be self-defense. 
 
 Jacob struggles with serious PTSD as a result of the guilt following [[Dire Will|Dire]]’s rise and fall, his soul trait mostly “Wrath” responsible for an intense, impulsive desire to return a favor of revenge. 
 
