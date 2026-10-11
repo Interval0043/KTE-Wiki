@@ -25,8 +25,6 @@
 > - [[Dimensional Fragments|Fragment]]: Radon
 > - Binding [[Souls|Soul]]: N / A
 
-
-
 ## History
 
 ### Formation

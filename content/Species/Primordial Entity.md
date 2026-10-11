@@ -1,7 +1,4 @@
----
-aliases:
-  - Primordial Entities
----
+
 > [!faq] This page is a stub, but deliberately so.
 > There's nothing really more to add.
 

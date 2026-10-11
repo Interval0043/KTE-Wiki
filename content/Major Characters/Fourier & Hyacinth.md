@@ -1,9 +1,3 @@
----
-aliases:
-  - Fourier
-  - Hyacinth
----
-
 > [!abstract] Fourier's Metadata
 > - Name: Fourier
 > - Age: ~2,600 Gregorian Years

@@ -1,5 +1,5 @@
 > [!abstract] Metadata
-> -  Former Name: Alyaksey Harun
+> - Former Name: Alyaksey Harun
 > - Designation: Rorik
 > - Nationality: Belarusian
 > - Lineage: Half Belarusian (Mother) & Half Austrian (Father)

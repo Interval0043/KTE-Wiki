@@ -11,11 +11,5 @@ A lineage of [[Slimanoid|Slimanoids]]. These guys kinda just asexually reproduce
 ## 2nd Generation
 
 - [[Alloy]] (from [[Blizzard]])
-- [[Hunter]] (from [[Blizzard]] & \[unnamed\])
+- [[Heidal]] (from [[Blizzard]])
 - [[Whiteout]] (from [[Blizzard]])
-
-## 3rd Generation
-
-- [[Eta]] & [[Zeta]] (from [[Hunter]])
-- [[Inverge]] (from [[Whiteout]])
-- [[Steel]] (from [[Alloy]])

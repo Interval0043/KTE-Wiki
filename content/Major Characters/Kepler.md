@@ -1,8 +1,3 @@
----
-aliases:
-  - Kepler
----
-
 > [!info] This page is currently under construction.
 > Changes will be made semi-frequently.
 

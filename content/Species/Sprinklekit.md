@@ -1,7 +1,4 @@
----
-aliases:
-  - Sprinklekits
----
+
 # General Description
 
 Sprinklekits are anthropomorphic felines that resemble a house cat in appearance, with the exception that they are bipedal, and have a large ice cream cone tail. They are exceptionally mobile, and most possess extraordinary levels of intelligence in adulthood. This felinid species has adapted to survive freezing temperatures, navigate obscured low-visibility environments, and traverse through intense weather and unstable terrain. 

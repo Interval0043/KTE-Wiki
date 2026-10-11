@@ -3,12 +3,12 @@ The Malice created seven specific beings, designated as the Seven Cardinal Sins,
 ## The Seven Cardinal Sins
 
 * **Greed** - ?
-* **Gluttony** - [[Kintoku]]
-* **Envy** - ?
+* **Gluttony** - 
+* **Envy** - [[Kintoku]]
 * **Lust** - ?
 * **Sloth** - ?
 * **Pride** - ?
-* **Wrath** - [[Euphen]]
+* **Wrath** - 
 
 ## Inheritance: Abilities
 
@@ -36,10 +36,10 @@ This significantly boosts a Sin's learning curve for magic or anything related t
 
 #### Unyielding Hunger (Gluttony)
 
-The want for more, the lack of a capacity to be satisfied. Currently wielded by [[Kintoku]], allows them to devour whole and absorb the powers, memories, abilities and energy of, albeit in a very diluted version, anything it wants.
+The want for more, the lack of a capacity to be satisfied. Currently wielded by ***(NOBODY, [[Kintoku]] GOT MOVED TO ENVY)***, allows them to devour whole and absorb the powers, memories, abilities and energy of, albeit in a very diluted version, anything it wants.
 And the matter absorbed does not go to waste. Kintoku stores it inside their own body, compressed to infinitesimally small "pods" that are used to replace their wounds, without the energy use of creating matter from thin air.
 
 #### Unsustainable, Inconsolable (Wrath)
 
-The irrational anger, the explicit desire to harm others. Currently wielded by [[Euphen]], allows for every bit of anger, ill intent, every act of aggression and every thought of doing so, be it towards Euphen or from Euphen towards others, to be stored as "Energy", causing Euphen's flames to flare higher. This can then be released as flame-like energy, blood red in color, that cares not for allies or foes. That cares not for defenses or anything of the sorts, it's only purpose and intent is to destroy.
+The irrational anger, the explicit desire to harm others. Currently wielded by ***(NOBODY, EUPHEN GOT SCRAPPED)***, allows for every bit of anger, ill intent, every act of aggression and every thought of doing so, be it towards Euphen or from Euphen towards others, to be stored as "Energy", causing Euphen's flames to flare higher. This can then be released as flame-like energy, blood red in color, that cares not for allies or foes. That cares not for defenses or anything of the sorts, it's only purpose and intent is to destroy.
 This ability tears through defenses as if it weren't there. Harms even Euphen himself or other malice entities as if they were foes. Does not stop at attacking the body and corrodes the soul and mind as well. A psychological, physical and metaphysical attack all at once.

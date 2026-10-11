@@ -1,8 +1,3 @@
----
-aliases:
-  - Hedrons
----
-
 > [!info] This page is currently under construction.
 > Changes will be made semi-frequently.
 
@@ -20,7 +15,7 @@ They're primarily composed of a shell, a binding [[Souls|Soul]], and an inner su
 
 ### Early
 
-The Hedrons began in [[Kingdom SE]] as a direct descendant of [[Dimension 0]]'s falling apart at the end of [[Kingdom]]. Formally, they were formed from some of the Dimensional Fragments, specifically one each. It's important to note the first three Hedrons, in order, are [[Kepler]], [[Poinsot]], and [[Lagrange]]. They got their start in [[Khazingrad]], and that location continues to be a major hotspot for the species.
+The Hedrons began in [[Kingdom SE]] as a direct descendant of [[Dimension 0]]'s falling apart nearing the end of [[Kingdom]]. Formally, they were formed from some of the Dimensional Fragments, specifically one each. It's important to note the first three Hedrons, in order, are [[Kepler]], [[Poinsot]], and [[Lagrange]]. They got their start in [[Khazingrad]], and that location continues to be a major hotspot for the species.
 
 In [[Kingdom III]], more were discovered to have formed in other [[Dimension Structure|Dimensions]], migrating to Khazingrad or settling where they formed at.
 
@@ -33,6 +28,10 @@ Beginning in [[TFCT (Prequel)]], the sister species to the Hedrons showed up, kn
 In [[TFCT (Crossing)]], the two species mix and it works out due to their common ancestry, as well as needing to work together to continue fighting the threat established in TFCT (Prequel).
 
 Throughout the rest of [[TFCT]], the Hedrons continue being discovered and their numbers grow. Eventually, growing closer to [[TFCT (Age of Fear)]], most of them go into hiding and wait all of it out.
+
+### Eternal Infection
+
+Now, after hiding, the species has banded together their most important members and have made it their mission to continue rebuilding places and to foster lively areas in a time where many are uncertain. Others choose to instead take direct protection, working against [[Malice]] and trying to reclaim what was once theirs or others'.
 
 ## The Shell
 
@@ -65,9 +64,17 @@ The thing about shells, is that you can get extremely creative with them and add
 
 ## The Binding Soul
 
+The Binding Soul is the thing that ties everything together. While it remains one of the least customizable things about Hedrons, it still stands to have a few knobs to turn. It sits as a selectively permeable substance between the Shell and Inner Substance, and keeping their body together.
+
+Typically, it contains the Dimensional Fragment, but it can also contain other links, or nothing at all.
+
 ## The Inner Substance
 
-The inner substance of a Hedron is what allows them to keep their shape, along with the binding soul. Notably, it can come as just about anything, but it most often presents as a gas.
+The inner substance of a Hedron is what allows them to keep their shape, along with the binding soul. Notably, it can come as just about anything, but it most often presents as a gas. Below are a few things that can be tuned.
+
+> [!example] Defaults
+> - The Inner Substance is a nickel-based homogeneous gas, which serves as basic stability for the Hedron.
+> - Other than the basics, it serves no specific purpose.
 
 ### Phase
 
@@ -78,7 +85,8 @@ It can be in one of a few phases of matter, which are listed below.
 - Plasma
 - Supercritical Fluid
 
-Any others do need to be passed by the author, and Solid is strictly disallowed.
+ > [!warning]
+ > Any others do need to be passed by the author, and Solid is **strictly disallowed**.
 
 ### Composition
 
@@ -94,8 +102,6 @@ The composition of the inner substance gives it the strength it has, how flexibl
 
 This needs a color too. It'll usually present as a sort of underglow behind the shell's color, or nothing if it isn't bright. Depends on how the Shell is done.
 
-## Components
-
 ## Common Locations
 
 The Hedrons are mainly found in a few spots scattered around. One of the most important is [[Khazingrad]], where they got their start.
@@ -105,14 +111,56 @@ The others are listed below:
 - [[Foreau]]
 - A few other scattered locations. There aren't many hotspots for them.
 
-## Required Inheritance
+## Inheritance
+
+Hedrons will naturally inherit everything within this category by default, and no abilities will be listed UNLESS there are meaningful deviations, in which case an Inheritance callout will be used.
+
+> [!note] Inheritance Changes. See [[Hedron#Inheritance]].
+> List your changes in a bullet point format, like so:
+> - Breakshot: changes here
+> - Discharge: changes here
+> Only include the ones that have changes. Keep the header as it is, but the body is yours to change.
 
 ### Abilities
 
+#### Breakshot
+
+This amounts to deliberately fracturing one's Shell to localize power in the hand. Upon striking an opponent, the localized power violently releases, significantly enhancing the impact but also injuring the user somewhat. Depending on the scale at which the user can heal their shell, this is either a desperate play or a staple of one's kit.
+
+#### Discharge
+
+Due to the Shell being able to conduct electricity, it too can be held within the shell and released through a conductive surface. Depending on the Hedron, it can be easier or harder to release said electricity, and also it changes what conditions a Forceful Discharge can take place, where the electricity is released in a burst around the Hedron rather than at an enemy.
+
+#### Integration
+
+A Hedron (or [[Manifold]]) can take up a new substance, species, or whatever, and Integrate with it. What this entails is letting it into its own body for studying reasons, in a sort of sandbox environment. If well-contained and well-managed, the Hedron can gleam new abilities or forms, along with new understanding. If done incorrectly, the Hedron can be injured or taken over entirely.
+
+While this is risky, it can be very effective.
+
 ### Attributes
+
+#### Semiconductive
+
+- Increased Electric resistance.
+- Increased conductivity.
+
+#### Shatter
+
+- The Shell will naturally spray fragments at whichever entity broke the shell except oneself.
+- Said fragments will cause moderate lacerations.
+
+#### Adaptive
+
+- Ability to wield multiple forms of [[Magic]] at once.
+- Increased analysis of situations.
+- Increased Integration speed and odds.
 
 ### Instincts
 
-## Optional Inheritance
+There is only one instinct of note, and that is the Call. Every single Hedron, unless otherwise stated, will drop everything and assist a fellow Hedron if they're close enough or visible to eachother.
 
-## Other Information
+Certain Hedrons have this instinct be stronger, to where it surpasses Dimensions. However, this must be approved by the Author, and the list is below.
+
+- [[Hallis]]
+- [[Fourier & Hyacinth|Fourier]]
+- [[Variate]]
