@@ -1,5 +1,4 @@
-> [!info] This page is currently under construction.
-> Changes will be made semi-frequently.
+> [!quote] All I want to do is help. I'm not some child anymore!
 
 > [!abstract] Kepler's Metadata
 > - Name: Kepler
@@ -16,7 +15,7 @@
 > [!info] Hedron Info
 > - Shell: Standard Composite
 > - Shell Color: Light Gray & Glossy
-> - Gas Color: Muted Red (Normal) / Orion (A.C.S.)
+> - Gas Color: Muted Red (Normal)
 > - Core: Bravery
 > - [[Dimensional Fragments|Fragment]]: Celestial
 > - Binding [[Souls|Soul]]: Celestial
@@ -63,6 +62,8 @@ I would soon learn of there being a third. The residents of this place thought w
 
 Kepler's often described as being one of the more childish Hedrons around, but it comes with being one of the most genuine people out there. Genuine doesn't mean honesty, but he definitely isn't afraid of being who he is. Oftentimes he's seen around Poinsot, but when the two are separated, he doesn't feel as confident and prefers to stay out of the spotlight whenever possible.
 
+Deep down, though, he harbors a desire to be seen as equal among his contemporaries, and be able to fight just as well. 
+
 ## Clothing
 
 Awhile ago, he got a heated, padded, blue zip-up coat. He frequently keeps the heating filaments on, and the hood up. He also usually wears jeans and loafers, so only his face and hands are visible. This is just to keep him warm, as his body naturally runs cold. When his Celestial [[Souls|Soul]] activates, it tends that the hood of his coat will fly backward.
@@ -77,17 +78,7 @@ In terms of love, Kepler's a little lost. Hedrons are notable for it being extre
 
 ## Abilities
 
-### <span style="color:lightblue"> Discharge </span>
 
-Normal ability listed at [[Hedron#Discharge]].
-
-UNIQUE: Kepler specifically generates at a higher rate than most, but has a much harder time releasing it. Inside his shell is a film of Celestial Matter, making it difficult to get rid of. Discharge is a little different, see Celestial Awakening.
-
-### Breakshot
-
-Normal ability listed at [[Hedron#Breakshot]]
-
-\[unique not written yet\]
 
 ## Weaponry
 

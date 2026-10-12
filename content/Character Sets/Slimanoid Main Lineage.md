@@ -10,6 +10,6 @@ A lineage of [[Slimanoid|Slimanoids]]. These guys kinda just asexually reproduce
 
 ## 2nd Generation
 
-- [[Alloy]] (from [[Blizzard]])
+- [[Alloy]] (from [[Blizzard]] & \[unnamed\])
 - [[Heidal]] (from [[Blizzard]])
-- [[Whiteout]] (from [[Blizzard]])
+- [[Partial]] (from [[Blizzard]])
