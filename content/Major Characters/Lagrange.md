@@ -59,7 +59,7 @@ Other than his siblings, Lagrange hasn't talked to many people, and worked with 
 
 ### Divine Lighter
 
-This lighter was passed down to him by the deity of the Hedrons, [[Hallis]]. It is inside of a brushed metal case, fortified with a strong, unnamed compound, thought to have originated from [[Dimension 0]] when it collapsed.
+This lighter was passed down to him by the deity of the Hedrons, [[Fourier]]. It is inside of a brushed metal case, fortified with a strong, unnamed compound, thought to have originated from [[Dimension 0]] when it collapsed.
 
 When open, it spews a line of lingering fire [[Magic]] at will, letting it be used almost similar to a sword. The fire itself is exceedingly hot and blindingly white, because it is of divine origin. It lingers and burns most of whatever it touches, although it may not combust objects all the time.
 

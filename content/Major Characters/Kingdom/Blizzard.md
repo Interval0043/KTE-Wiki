@@ -1,4 +1,4 @@
-> [!quote] *Right, then. Let's get to it.*
+> [!quote] Come on, now. No need for all of that.
 
 > [!abstract]
 > Blizzard is a [[Slimanoid]], hailing from [[Dimension 0]] and being one of [[Polytope|my]] first OCs, made years ago and refined into who he is now. He isn't intended to be in any consistent combat, but is thought to perform well enough if necessary.
@@ -17,7 +17,7 @@ There was a legend, at some point. It's why we spoke our language and why our ho
 
 ### 2: Day Prior
 
-[[Acheron|Arc]] woke me up on a dreary afternoon, complaining about something or other related to a market not having the food he wanted. All I wanted to do was sleep, but alas, that ball of energy was not having it. He damn near dragged me outside, just trying to get me to walk with him to the gym, or something. The minor details aren't important.
+[[Arc|Arc]] woke me up on a dreary afternoon, complaining about something or other related to a market not having the food he wanted. All I wanted to do was sleep, but alas, that ball of energy was not having it. He damn near dragged me outside, just trying to get me to walk with him to the gym, or something. The minor details aren't important.
 
 On that walk, I was still waking up, and I didn't notice that Arc had left, because some vendor was discussing prophecy and shit. I wasn't buying it, but she said something along the lines of "that whole legend thing's about to strike 2 centuries, we're gonna have a Human", and I didn't pay much attention. Arc, on the other hand, absorbed all of that right up and began taking notes.
 

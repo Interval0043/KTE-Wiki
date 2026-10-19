@@ -1,5 +1,5 @@
-> [!abstract] Fourier's Metadata
-> - Name: Fourier
+> [!abstract] Laplace's Metadata
+> - Name: Laplace
 > - Age: ~2,600 Gregorian Years
 > - Sexuality: Questioning
 > - Language: English
@@ -38,7 +38,7 @@
 
 ## History
 
-### Fourier
+### Laplace
 
 \[soon to come\]
 
@@ -62,13 +62,13 @@ In the forest, there were enough poisons to satisfy Hyacinth and begin his colle
 
 #### Crossing
 
-While Hyacinth was continuing to exist in the forest for some time, [[Interdimensional Defense & Advanced Research Center|I.D.A.R.C.]] came in to mine uranium. [[Variate]] found Hyacinth, calling upon Fourier to take a look at the demon. Fourier saw the damaged horn and took Hyacinth in for a repair.
+While Hyacinth was continuing to exist in the forest for some time, [[Interdimensional Defense & Advanced Research Center|I.D.A.R.C.]] came in to mine uranium. [[Variate]] found Hyacinth, calling upon Laplace to take a look at the demon. Laplace saw the damaged horn and took Hyacinth in for a repair.
 
-After repairing, though, Fourier began to feel a bond form, that of a fictive kinship. He ended up taking him in as a younger brother, giving Hyacinth a place to live and Fourier someone to talk to so he isn't going crazy being alone in his home.
+After repairing, though, Laplace began to feel a bond form, that of a fictive kinship. He ended up taking him in as a younger brother, giving Hyacinth a place to live and Laplace someone to talk to so he isn't going crazy being alone in his home.
 
-## Fourier's Details
+## Laplace's Details
 
-Fourier is one of the more important [[Hedron|Hedrons]], serving as one of the species' main protectors.
+Laplace is one of the more important [[Hedron|Hedrons]], serving as one of the species' main protectors.
 
 ### Personality
 
@@ -76,19 +76,19 @@ Easily described as stern, caring, and vengeful. Being who he is, he cares for a
 
 His vengeful streak only occurs once someone attacks one of his own species, specifically a prominent member. He doesn't get all pissed over a nobody, but if someone like [[Kepler|Kepler]] got seriously injured for a not very good reason, then he's after whoever hurt him. However, justified injuries (i.e. Kepler began the fight) don't get him all riled up.
 
-Finally, there's one more bit. To those he considers adjacent family and not descendants, his care shows a lot more than the teaching. And for [[Hallis]], a lot of his personality is wiped in favor of formality, considering he's second at the top of the Hedrons.
+Finally, there's one more bit. To those he considers adjacent family and not descendants, his care shows a lot more than the teaching. And for [[Fourier]], a lot of his personality is wiped in favor of formality, considering he's second at the top of the Hedrons.
 
 ### Clothing
 
-Fourier wears a very thick hood-less coat, with no gloves, and a set of strong boots. This arises from his main residency being in a very cold area.
+Laplace wears a very thick hood-less coat, with no gloves, and a set of strong boots. This arises from his main residency being in a very cold area.
 
 ### Relations
 
-Fourier is widely considered the "dad" of the species. Not as in a blood father, but as in a father-figure, caring deeply for all of his own and teaching them what they need.
+Laplace is widely considered the "dad" of the species. Not as in a blood father, but as in a father-figure, caring deeply for all of his own and teaching them what they need.
 
 Him and Hallis, though, are the one exception. He stands second in command to the species' [[Deity]], performing ground operations when Hallis is too busy being the species' god. The two share a sort of genuine father-son relationship.
 
-Fourier took Hyacinth in, feeling a different instinct. Less of a fatherly instinct, but more of a brotherly one. Fourier acts as Hyacinth's handler only in writing, frequently being more of an older sibling.
+Laplace took Hyacinth in, feeling a different instinct. Less of a fatherly instinct, but more of a brotherly one. Laplace acts as Hyacinth's handler only in writing, frequently being more of an older sibling.
 
 ## Hyacinth's Details
 
@@ -104,7 +104,7 @@ As a part of his demonic nature, he has a chain tail with a mini-scythe blade on
 
 ### Relation
 
-Fourier is the only person he knows, and the only one he will be around for an extended period of time. Because of his personality, he finds it difficult to make new connections, seeing Fourier as his older brother.
+Laplace is the only person he knows, and the only one he will be around for an extended period of time. Because of his personality, he finds it difficult to make new connections, seeing Laplace as his older brother.
 
 ## Abilities
 

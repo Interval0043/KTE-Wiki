@@ -17,7 +17,7 @@
 
 ## History
 
-Tangent doesn't have a whole lot of history, as most of his relevant time was spent existing either as an older brother to [[Acheron|Arc]] back in [[Kingdom]], or residing with [[Shara Astral]] in [[TFCT]]. 
+Tangent doesn't have a whole lot of history, as most of his relevant time was spent existing either as an older brother to [[Arc|Arc]] back in [[Kingdom]], or residing with [[Shara Astral]] in [[TFCT]]. 
 
 ## Personality
 
@@ -41,7 +41,7 @@ Both the combat pants and boots are the same color, that being a dark gray. Both
 
 First, and most important right now, is his love life with Shara. The two of them live at the [[Legion Of Nazareth|L.O.N.]] headquarters, in which Tangent doesn't do a whole lot. His perfectionism often applies to her as well, finding the best ways to do things for her and to make things work across species boundaries.
 
-Second is his brother, [[Acheron|Arc]]. While the two haven't spoken much for quite a while, they're still siblings and have been close at one point in time.
+Second is his brother, [[Arc|Arc]]. While the two haven't spoken much for quite a while, they're still siblings and have been close at one point in time.
 
 Third was his working relationship with [[Interval]]. For a period of time, the two of them worked together and became mildly close friends, still keeping up with eachother to this very day. Whether or not it's for an ulterior motive on Interval's end is unclear, but Tangent isn't concerned on that.
 

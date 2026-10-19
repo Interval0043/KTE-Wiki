@@ -54,7 +54,7 @@ The simplest of all. Just the color they'll be. Allows for a lot of expression w
 
 ### Structure
 
-While the default structure is free-floating interconnected triangles, there's more to it than just that. First is adding supports, like with [[Fourier & Hyacinth|Fourier]]. His shell is much more resistant to collapsing inward, and the supports allow it to break in less places when fractured. There's also a possibility to stack layers on top of eachother, potentially having different ones do different things.
+While the default structure is free-floating interconnected triangles, there's more to it than just that. First is adding supports, like with [[Laplace & Hyacinth|Laplace]]. His shell is much more resistant to collapsing inward, and the supports allow it to break in less places when fractured. There's also a possibility to stack layers on top of eachother, potentially having different ones do different things.
 
 It can even go as far as to change the shapes that form it. I know triangle & square can work well, and so can hexagons, so there's a lot of cool geometry to be had with it.
 
@@ -161,6 +161,6 @@ There is only one instinct of note, and that is the Call. Every single Hedron, u
 
 Certain Hedrons have this instinct be stronger, to where it surpasses Dimensions. However, this must be approved by the Author, and the list is below.
 
-- [[Hallis]]
-- [[Fourier & Hyacinth|Fourier]]
+- [[Fourier]]
+- [[Laplace & Hyacinth|Laplace]]
 - [[Variate]]

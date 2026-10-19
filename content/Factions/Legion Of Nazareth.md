@@ -1,7 +1,3 @@
----
-aliases:
-  - L.O.N.
----
 The Legion of Nazareth is a large organization separated into seven departments. The LON’s main goal, quite differently from the original Legion of Havoc, is to watch over the universe of [[KTE]], acting as a sort of “Watchtower” to look out for any threats or issues, thus the name, “Nazareth”.  
   
 The funding of LON comes from organisations affiliated to LON, such as their shipping companies, technological companies, etc… Which transfers most profits back to LON.
