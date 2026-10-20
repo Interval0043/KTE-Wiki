@@ -16,7 +16,6 @@
 > - Weight: 175 lbs.
 > - Build: "Musclegut" (Muscular & Chubby)
 > - Author: [[Psychotropicz, Crazer]]
-> - Applicable Groups: [[Astral Family]]
 
 ## History/Basics
 
