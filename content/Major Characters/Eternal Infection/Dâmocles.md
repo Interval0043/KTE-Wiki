@@ -1,5 +1,4 @@
-> [!info] This page is currently under construction.
-> Changes will be made semi-frequently.
+
 
 > [!quote]
 >" ... Stands the heretic. To be smitten by God."
@@ -44,14 +43,28 @@ That was, until her son finally found her, famished and begging his mother for f
 Not only that, by the passing months, she realized flaw after flaw within her kingdom, things she wished she could change but simply could not. Reality was becoming torture, and her heart could not take it any longer. When it was time for her to eat, she gave her son a plate and, while crying, hugged him for the first time in what felt like ages. The guillotine's thread snapped, and both her and her son were put to rest spontaneously, their life simply ceasing to be.
 
 They were buried near the shore, and thousands of years later, when [[Dire Will]]'s death brought one final wave of malice throughout the multiverse, she was reincarnated as the cardinal sin of Sloth, and her son as the cardinal sin of Gluttony.
-## Full Description
+## Personality
+Inert, speaks in an archaic manner, and as if their duty is that of a follower of a higher deity. As the sin of Sloth, Dâmocles does not yield or listen to anything other than it's unchanging duty to "devour", a duty decided and enforced by a seperate being. Her sloth manifests as the refusal and inability to change, letting herself be moved by the flow of the world without individual thought.
+## Appearance
+A massive creature that does not appear to be biological, instead being akin to a living piece of armor. It's shape is similar to that of a centaur from mythology, except much larger and with three sets of legs rather than two. They also possess four arms, which are slightly longer than you'd expect from a humanoid upper body, and have one extra join on each arm, making them eerily flexible. Their head takes the shape of a helmet with openings similar to stripes where it's face would be, but instead seems to have rotten flesh and blood overflowing from within. The metallic surface of it's body is black with a barely noticeable tint of red, lighter grey coloring following through the edges of the "Armor". Despite it's fancy appearance, on the outside it looks quite dilapidated, covered in dust, vines and hints of rust.
 
-It is highly recommend you include this part. Each section under this is its own H2 heading; "Full Description" isn't supposed to be used in the format.
+## Other Info
+It should be important to note that Dâmocles is, strictly, the armor. What's inside is a separate thing entirely, an incubation chamber made of flesh. Dâmocles's sole duty is to spread the Malice, and whenever the being that is developing within them starts running low on nutrients, it subconciously orders Dâmocles to devour, which it does so by creating tendrils from the overflowing rotting flesh of it's helmet and using them as leeches. It often feeds on other beings from the Malice.
+The developing being is the Cardinal Sin of Gluttony, [[Tantalus]].
 
-- **Personality**
-- **Appearance**
-- *Any other Necessary Info*
+## *Arsenal.*
 
-## *Weapons, Abilities, whatever you want to call it!*
+### 1) Refusal to Change
+By nature, Dâmocles is virtually immune to any kind of mental manipulation or control. They belong to their duties and their duties alone, and nothing is allowed to change that, as "divine law".
 
-This section is completely up to you, even the head
+### 2) Unwavering
+Dâmocles's body is absurdly sturdy, yet to protect what is within, as long as Dâmocles is not entirely destroyed, the incubation chamber within is not affected by damages to Dâmocles, as if it resides in a separate space entirely, even severe dents that would seemingly crush anything inside it's body leaves it untouched. Not only that, vibrations and any type of magic directed at Dâmocles or the being within it will not reach it, instead being redirected to Dâmocles herself. Tantalus is virtually unreachable, untouchable and immutable for as long as Dâmocles is alive.
+#### 2.1) Remnant
+Dâmocles, when damaged, naturally yet slowly reverts back to their original form over time. This can be sped up by absorbing Malice.
+
+### 3) The Blade of Dâmocles
+An absurdly large blade that resembles a zweihander, it's blade is segmented and connected by a thread-like construct, allowing it function more like a chain-whip than an actual blade when range is needed. It holds no special properties other than being considered part of Dâmocles when it comes to their natural "Regeneration".
+
+### 4) Sanctuary of God
+Dâmocles can declare an area of up to 25 kilometers in radius a "Designated sanctuary", disallowing anything from leaving or entering, even through portals or teleportation, and making it's enviroment immutable by others. Within it, lesser beings of the Malice will heed to Dâmocles' will without the need of direct communication. Only one of these areas can exist at a time, and Dâmocles also has to abide by the rules of it's entrance and exit. While it can be used for combat purposes, Dâmocles uses it often for a safe haven for feeding Tantalus and for resting when it has no duties.
+It's "Rules" can be brute forced and ignored by beings massively above Dâmocles in power, and by default they can not affect beings from the Malice who are equal or above Dâmocles within it's hierarchy.
