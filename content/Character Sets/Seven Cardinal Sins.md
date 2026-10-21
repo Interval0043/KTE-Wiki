@@ -1,12 +1,15 @@
-The Malice created seven specific beings, designated as the Seven Cardinal Sins, in the form of incredibly advanced [[Malice|Maledictions]], that act as countermeasures to powerful beings who can easily mow down a large crowd of weaker enemies. The Seven Cardinal sins are imbued with the sin they represent, and a small shard of the primogenitor of the Malice's corpse. They have a much deeper connection to [[Dire Will]], and due to this, have incredible potential. Alongside the obvious benefits that come with this, every Cardinal Sin is capable of absorbing [[Malice]] to recover their energy and become stronger, along with being able to spread it themselves.
+> [!warning] Author Note
+> While I encourage making Malice-related content such as OCs, do run them through me first.
+
+The Malice created seven specific beings, designated as the Seven Cardinal Sins, in the form of incredibly advanced [[Malice|Maledictions]], that act as countermeasures to powerful beings who can easily mow down a large crowd of weaker enemies. The Seven Cardinal sins are imbued with the sin they represent, and a small shard of the primogenitor of the Malice's being. They have a much deeper connection to [[Dire Will]], and due to this, incredible potential. Alongside the obvious benefits that come with this, every Cardinal Sin is capable of absorbing [[Malice]] to recover their energy and become stronger, along with being able to spread it themselves.
 
 ## The Seven Cardinal Sins
 
 * **Greed** - ?
-* **Gluttony** - 
+* **Gluttony** - [[Tantalus]]
 * **Envy** - [[Kintoku]]
 * **Lust** - ?
-* **Sloth** - ?
+* **Sloth** - [[Dâmocles]]
 * **Pride** - ?
 * **Wrath** - 
 
