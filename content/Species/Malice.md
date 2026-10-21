@@ -21,7 +21,8 @@ The Malice is capable of granting chunks of it's mass, or corpses and bodies it 
 The Hierarchy of the Malice, which allows it to be coordinated without much if any in-fighting, is a biologically hard-wired concept to each and every being within the Malice, with Dire Will sitting at the very top, and all of the [[Seven Cardinal Sins]] sharing the very next spot.
 ### Cleansing
 The Malice is naturally extinguished by raw [[Magic]]. Similarly to how Anti-Matter mutually eradicates Matter, Magic mutually ceases to be alongside the Malice, although without any of the violent energy release that comes with Matter Anti-Matter annihilation-- that was just an analogy.
-
+### Source of Malice
+Sources of Malice or Malice Sources are spots where the Malice mostly pools together within an area, usually serving as the starting point of the spread.
 ## Important Events
 
 ### Dire Will's Death
