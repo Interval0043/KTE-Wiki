@@ -4,11 +4,11 @@ The Astrals, referred to as the Astral Family, is a lineage sticking to one cent
 
 They do not view themselves as gods, merely mercenaries, reflecting upon the countless centuries they spent trying to better their living conditions inside of [[Unstable Catalyst]]. Despite their tremendous feats of strength and power, they were the main punching bags of the outlandish world they resided in. 
 
-Tyrants that ruled over many militias in Unstable Catalyst placing huge bounties over their heads; physically and psychologically exhausting the family after countless attempts of staying under the radar. No matter where they went, they still lived like prisoners due every faction aggressively pursuing to enslave them.
+Tyrants that ruled over many militias in Unstable Catalyst placed huge bounties over their heads; physically and psychologically exhausted the family after countless attempts of staying under the radar. No matter where they went, they still had lived like prisoners due every faction aggressively pursuing to enslave them.
 
 This era was long and difficult time for the family to finally truimph, describing the experience as a near-eternity of suffering dating all the way back to when to the second-youngest generation reached early adulthood, facing the same issues and ridicule their relatives had experienced time and time again. 
 
-Miraculously, they managed to escape from that world and into another dimension through a powerful spell [[Theia Astral|Theia]] casted after [[Dire Will|Dire]] had massacred a large portion of the Unstable Catalyst, where they eventually found a nearby, undiscovered universe. What lied beyond that world uncovered a purpose; something Theia hadn’t truly envisioned, but that purpose was negotiable. They liked sticking their heads where they shouldn’t be.
+Miraculously, they had managed to escape from that world and into another dimension through a powerful spell [[Theia Astral|Theia]] casted after [[Dire Will|Dire]] had massacred a large portion of the Unstable Catalyst, where they eventually found a nearby, undiscovered universe. What lied beyond that world uncovered a purpose; something Theia hadn’t truly envisioned, but that purpose was negotiable. They liked sticking their heads where they shouldn’t be.
 
 ## Traits & Nuances
 
@@ -67,25 +67,25 @@ When born with this trait, an astral family member can transform themselves into
 
 This grants them speed proportionate to the total amount of magic they possess; but generally, this ability grants them a far greater speed than they could even perceive. This means that the user is capable of traveling over long distances with little effort, also granting them flight to travel over long distances. However, at a high speed, it difficult for the user to change the trajectory of where they’re going.
 
-## List of Family Members
+# List of Family Members
 
-### 1st Generation
+## 1st Generation
 
 * [[Theia Astral]] - Trait: Galaxy
 * [[Reishon Astral]] - Trait: Unknown/Undefined
 
-### 2nd Generation
+## 2nd Generation
 
 * [[Iris Astral]] - Blue Supergiant Star
 * [[Isaac Astral]] - Asteriod
 
-### 3rd Generation
+## 3rd Generation
 
 * [[Shaden Astral]] - Trait: Red Supergiant Star
 * [[Shara Astral]] - Trait: Progenitor Star
 * [[Senvic Astral]] - Trait: Ice Giant
 
-### 4th Generation
+## 4th Generation
 
 * [[Teegan Astral]] - Trait: Neutron Star 
 * [[Harlow Astral]] - Trait: Brown Dwarf Star
@@ -106,7 +106,7 @@ This family’s survival is deeply rooted in their self-preservation, problem so
 
 This family loves trading.
 
-### Slang
+## Slang
 
 “Plas” - A vulgar slang derived from “Plasma”, meant to describe who’s extraordinarily ugly in way that looks like their body has been burned beyond recognition, but can be used a word reference to the people they’ve burnt or killed. This is generally used as an insult in the family. Some common uses are: “Plasface”, “Plascock”, or “Plasfuck”. Another meaning of Plas is to refer to killing someone (e.g “Plas him.”)
 
@@ -116,13 +116,13 @@ This family loves trading.
 
 This slang is used to describe anything that is inherently difficult or incomprehensible to understand, such as Malice. For example something “Singu” would be the destruction of the anti-void caused by aftermath of the fight between [[Dire Will]] and [[Counter Will]]
 
-### Rules 
+## Rules 
 
 Unstable Catalyst norms and culture are not tolerated, and are in favor of Cryosilis norms (besides licking/grooming, which she and others in the family believes is more unsanitary than kissing). Theia instates this rule to prevent unnecessary violence or vulgarity, though some of the members fail to follow or really acknowledge this rule. It is also advised for a member to be on their best behavior in her presence.
 
 Theia is in charge of casting of secretive, required meetings concerning the well-being of the family, serving as a way for notice on potential shortcomings. Another notable thing about these meetings is that it isn’t required for a member of the family to be professional, as some members view it as a place to vent their frustrations, or ramble about other personal issues.
 
-## $\text{V-I-R}\;20^{7\cdot 15}$ / The Net / $\Omega$ (Omega)
+# $\text{V-I-R}\;20^{7\cdot 15}$ / The Net / $\Omega$ (Omega)
 
 Inside of this impossibly dark cave holds a colossal, underground network of celestial webs that goes by three distinct nicknames (though mainly referred to as “Omega”), serving as one of many distinct fragments behind its origin.
 
@@ -130,7 +130,7 @@ Its main purpose is to manifest and store all forms of conventional and unconven
 
 Due to this mathematical equation (Ohm’s Law) being manifested as a tangible object or entity, it leads to ongoing instability that only those with enough intricacy and flexibility can stabilize, and as a result, Omega requires the near and absolute perfect conditions to for it to serve its purpose.
 
-### Appearance
+## Appearance
 
 #### Inside / Middle
 
@@ -162,7 +162,7 @@ These creatures (at least in comparison to the Astral Family members) lifespans 
 
 These odd arachnids also weave a clear, secondary silk used for the second layer of an egg sac, which is often harvested to allow for a member to tap within the deepest corners of their memories, manipulating the shape of the silk to create various forms of celestial equipment.
 
-### $\epsilon$ (Epsilon)
+## $\epsilon$ (Epsilon)
 
 While apart of Omega itself, this pentagonal pyramid was given its name because of one of its many purposes it holds inside, namely the ability to shrink down users into impossibly small sizes. The appearance of the inside of Epsilon is described as an open, compressed spherical space, with a relatively even floor and ceiling. 
 
@@ -170,7 +170,7 @@ From virtually all sides, it holds all sorts of chests and racks full of artifac
 
 #### Use #1
 
-Upon the will of a member, they can create a bright light that shrinks them down to an impossible size, creating an expansive pocket of quantum space that serves as training grounds for the Astral Family to experiment with.
+Upon a member’s will, they can create a bright light that shrinks them down to an impossible size, creating an expansive pocket of quantum space that serves as training grounds for the Astral Family to experiment with.
 
 What allows these pockets of space to work and not become destroyed themselves is that Omega drastically decreases the power of the user by storing it inside of Omega. However, inside of that space it appears as if their psyche has not been affected. The only way for an Astral Family member to notice the pocket in space is seeing a large glow in the area the space the member created it in, then promptly focusing magic to create a flash of that light to shrink themselves down.
 
@@ -178,7 +178,7 @@ What allows these pockets of space to work and not become destroyed themselves i
 
 Mind Weaver silk from harvested egg sacks can be used by the astral family to create various forms of magical weapons, armors, artifacts, and specialized equipment that aligns with their celestial trait. The creation of these usually takes 1-2 weeks, with larger items like full sets of armor taking a month. Usually, items are made by hanging the webs in a cocoon of silk from the ceiling, then when they glow brightly enough, the cocoon comes apart easily to reveal the product.
 
-### “Alpha” / “α”
+## “Alpha” / “α”
 
 > [!quote] *It feasts upon all… A rapacious, insatiable object desired only by those who wish to strip the world and themselves away.*
 
