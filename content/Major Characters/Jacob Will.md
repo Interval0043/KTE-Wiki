@@ -16,7 +16,6 @@
 > - Weight: 210 lbs
 > - Build: Lean and muscular, medium frame
 > - Author: [[Psychotropicz, Crazer]]
-> - Applicable Groups: [[Will Family]]
 
 ## History/Basics
 
