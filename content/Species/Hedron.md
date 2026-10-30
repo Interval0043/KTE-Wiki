@@ -17,7 +17,7 @@ They're primarily composed of a shell, a binding [[Souls|Soul]], and an inner su
 
 The Hedrons began in [[Kingdom SE]] as a direct descendant of [[Dimension 0]]'s falling apart nearing the end of [[Kingdom]]. Formally, they were formed from some of the Dimensional Fragments, specifically one each. It's important to note the first three Hedrons, in order, are [[Kepler]], [[Poinsot]], and [[Lagrange]]. They got their start in [[Khazingrad]], and that location continues to be a major hotspot for the species.
 
-In [[Kingdom III]], more were discovered to have formed in other [[Dimension Structure|Dimensions]], migrating to Khazingrad or settling where they formed at.
+In [[Kingdom III]], more were discovered to have formed in other [[Cosmology|Dimensions]], migrating to Khazingrad or settling where they formed at.
 
 This earlier time isn't too interesting for the Hedrons, as not much was going on. There was still the lingering threat from Kingdom to worry about, but other than that it was a very peaceful time for them to get their bearings in a new world.
 

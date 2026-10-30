@@ -23,7 +23,7 @@
 
 ### Kingdom
 
-Signus debuted in [[Kingdom]] as one of the many entities who came to [[Dimension 0]] when it newly opened up to other [[Dimension Structure|Dimensions]]. He's considered the first [[Primordial Entity]], not being bound to a specific [[Dimensional Fragments|Fragment]] and wandering the world, hanging out.
+Signus debuted in [[Kingdom]] as one of the many entities who came to [[Dimension 0]] when it newly opened up to other [[Cosmology|Dimensions]]. He's considered the first [[Primordial Entity]], not being bound to a specific [[Dimensional Fragments|Fragment]] and wandering the world, hanging out.
 
 ### Kingdom SE & Kingdom III
 
