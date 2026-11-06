@@ -1,4 +1,7 @@
-A [[Magic]] composition of [[Fire]] and [[Metal]], in which the attacks deployed take on a lot of Metal's characteristics, but being significantly more resilient and having some new qualities.
+A [[Magic]] composition of Fire and Metal, in which the attacks deployed take on a lot of Metal's characteristics, but being significantly more resilient and having some new qualities.
+
+- 95% Metal
+- 5% Fire
 
 ## Properties
 
@@ -8,7 +11,7 @@ Due to its stronger nature, Wrought magic excels at breaking through most types 
 
 ### Superpositional Conductivity
 
-Wrought's interesting nature lends it to being both a conductor and an insulator at will, allowing it to work in tandem with [[Electric]], or contradict it. However, this cannot be managed, and is left up to the wrought's decision, oftentimes doing a mix of both.
+Wrought's interesting nature lends it to being both a conductor and an insulator at will, allowing it to work in tandem with Electric, or contradict it. However, this cannot usually be managed, and is left up to the wrought's decision, oftentimes doing a mix of both.
 
 ### Heft
 

@@ -6,3 +6,11 @@
 ## Personality
 
 Fourier is quiet, thoughtful, and oftentimes nowhere but his residence. He doesn't go out very often, preferring to stay in the comfort of his own home. Still being a researcher, he takes pride in doing things ethically and correctly, often slipping into bouts of getting stuck if something is "right" or not. His engrained sense of righteousness leads to conflict at points, even if he's got good intentions.
+
+With his species, he'll often delegate Laplace or [[Variate]] to do the work instead, as he's much more focused on his private studies, occasionally making an appearance when he so chooses.
+
+## Appearance
+
+Fourier isn't the most concrete of entities, changing his appearance. Most often he manifests as a much looser Hedron, standing much taller with his shell sliding in rows, almost comparable to a Rubik's Cube. He tends to float more than anything, and his shell typically has holes in it, letting his gas color peek through.
+
+For clothing, he wears a very loose sleeveless cloak and pants made of what can only be described as math, but in clothing form. It's interwoven lines of different lengths, all being functions of some manner. Present in the clothing too are pieces of his shell binding the lines together, letting the cloak flow freely behind him. His pants are much more solid, being formed more from pure magic turned inert. He opts to not wear a shirt.

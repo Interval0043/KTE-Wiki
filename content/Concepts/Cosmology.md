@@ -1,5 +1,5 @@
 > [!info] Legacy Description
-> Dimensions used to have rigid boundaries, but this changed at the end of [[TFCT (Age of Fear)]] upon [[Dire Will]]'s death. Since then, we've used the Region system.
+> Dimensions used to have rigid boundaries, but this changed at the end of [[TFCT (Age of Fear)]] upon [[Dire Will]]'s death. Since then, we've used the a much looser system described here.
 
 Our roleplays will function on two different systems at once, starting with the simple system.
 
@@ -11,3 +11,4 @@ Present in the Wiki, in Location Pages, will be the Regions. Each *established* 
 
 ### Regional Registry
 
+- 1 - [[Khazingrad]]
