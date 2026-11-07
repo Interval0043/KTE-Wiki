@@ -9,6 +9,4 @@ A Region is an area of arbitrary size, given a number. It can span multiple dime
 
 Present in the Wiki, in Location Pages, will be the Regions. Each *established* Region is *required* to have a Location Page.
 
-### Regional Registry
-
-- 1 - [[Khazingrad]]
+See [[Regional Registry]].

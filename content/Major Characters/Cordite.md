@@ -1,4 +1,5 @@
-> [!warning] Currently unverified.
+> [!warning] Hold it!
+> This page is currently not in development, so it's going to be unfinished.
 
 > [!quote]
 > *You know, they took the land away. The beautiful land that was [[Cryosilis]]. I'm not too happy about that.*
