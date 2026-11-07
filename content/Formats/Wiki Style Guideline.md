@@ -1,9 +1,6 @@
 > [!success] This page is an important page.
 > It's recommended you read through it to better understand our story and server.
 
-> [!info] This page is currently under construction.
-> Changes will be made semi-frequently.
-
 The style guideline is laid out as a page normally would, from top-to-bottom. Please read the [[Markdown Reference]] first, as many of the guidelines in here directly reference it.
 
 ## Part 1: Page Labels
@@ -22,27 +19,6 @@ Only applies to pages under Concepts.
 
 > [!success] This page is an important page.
 > It's recommended you read through it to better understand our story and server.
-
-### Stub
-
-Used when a page has a lack of detail, but isn't necessarily early in development. It may just be unfinished or not up to comparative quality.
-
-> [!faq] This page is a stub.
-> Consider asking the author to improve on it, or add something yourself with their permission.
-
-#### Deliberate Stub
-
-Used when a page is a stub, but is meant to be. Note: Stub and Deliberate Stub can only be one or the other, not both.
-
-> [!faq] This page is a stub, but deliberately so.
-> There's nothing really more to add.
-
-### Developing Page
-
-Used when a page isn't necessarily a stub, but is still currently being worked on and is subject to change.
-
-> [!info] This page is currently under construction.
-> Changes will be made semi-frequently.
 
 ### Unverified OC
 
@@ -79,12 +55,6 @@ Anything else takes least priority in whatever order is deemed best fit.
 ### Usage Example
 
 > [!example] This is the Page Label example. Example Page Name: Jim's Legacy
-> 
-> > [!faq] This page is a stub.
-> >Consider asking the author to improve on it, or add something yourself with their permission.
-> 
-> > [!info] This page is currently under construction.
-> >Changes will be made semi-frequently.
 > 
 > > [!failure] Deceased.
 > 
@@ -123,15 +93,19 @@ Keep them as normal as possible. This means no formatting.
 > [!success] This is fine.
 
 > [!failure] **This** is not. It looks *weird* and `funky`.
+> NOTE! This *excludes* OC quotes. We want them to look funky if we can.
+> *also this excludes coloring, see [[Markdown Reference]] for that, however coloring should be used SPARINGLY*
 
 > [!danger] PLEASE NOTE
 > Do NOT use a Header as the title. Quartz incorrectly assumes it to be Tag syntax, which messes things up.
 
 ### Writing
 
-Be verbose where you need to, be descriptive elsewhere, but do what you can to not make pages stubs. If you do, mark it as such or mark it as under development so I know not to poke at you.
+Be verbose where you need to, be descriptive elsewhere, and most of all:
 
-Also, make sure things are understandable and clear. 
+**BE CLEAR IN YOUR WRITING**.
+
+It doesn't need to be perfect, but I expect at least basic coherence.
 
 > [!failure] Bad sentence.
 > If a sentence is way to long and reads like abysmal dogshii n uses way to many speling mistkes on it's way to the fnish line then i will slime you out gng
