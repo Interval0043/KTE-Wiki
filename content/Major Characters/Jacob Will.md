@@ -21,7 +21,7 @@
 
 Raised and welcomed into loving arms the [[Will Family]], Jacob is a young boy that's known for being the surviving vessel of the Six-Horned Demon, [[Dire Will]], known as the most destructive being in KTE’s known history. He is a survivor of the trauma and manipulation Dire had put him through relentlessly; The scale of their own atrocities putting a huge target on his head across many dimensions, leading to ruthless massacres in what he believed to be self-defense. 
 
-Jacob struggles with serious PTSD as a result of the guilt following [[Dire Will|Dire]]’s rise and fall, his soul trait mostly “Wrath” responsible for an intense, impulsive desire to return a favor of revenge. 
+Jacob struggles with serious PTSD (including psychosis) as a result of the serious trauma following [[Dire Will|Dire]]’s rise and fall, his soul trait “Wrath” responsible for his intense, impulsive desire to return a favor of revenge. 
 
 ## Personality
 
@@ -29,17 +29,17 @@ Jacob is an adventurous, outspoken individual who’s a proud antitheist. He swe
 
 He is very direct when he needs to be, and uses a lot of contractions like "You're" or "Ain't" to converse quicker.
 
-He finds fulfillment in exploration and the liberation of others, coming from the stories told of the world by [[Counter Will]]. His liberation comes from [[Draconic Will|Draconic]], and while not often at all holding a “moral high-horse”, he hates seeing others being bossed around or controlled. While being in a family of supposed “Gods”, he and his sister actively oppose the title, and actively favors the belief the Astral Family holds on themselves.
+He finds fulfillment in exploration and the liberation of others, coming from the stories told of the world by [[Counter Will]]. His liberation comes from [[Draconic Will|Draconic]], and while not often at all holding a “moral high-horse”, he hates seeing others being bossed around or controlled. While being in a family of supposed “Gods”, he and his sister actively oppose the title, and actively favors the belief the Astral Family holds on themselves, seeing eachother as mercenaries that mostly serve themselves.
 
-He has a firm, nuanced belief that “Everyone, even and I- quote- ‘Gods’-.. are just their own beings like other people. Are we just that entitled!??-  Stop acting like we’re all anything more because we made or did some shit; We’re cool people, not superior.”
+Jacob Will at first comes off as disruptive, called overly unprofessional in any setting. It's hard for him to be not an ass, but it's also hard for him to be a complete jerk, though. He has a hard time understanding what choice of words he should use, which is another reason why he comes off so unprofessional. He also just doesn't like being spoken over, and just has a lot of things on his mind he needs to get out. While he tries not to, he rarely finds himself saying or doing things he doesn’t actually mean, as exposure to horrible things at his age can make him quite abrasive towards others. Due to his experience with Dire, he is very numb to death, and wouldn’t even flinch at torture.
 
-Jacob Will at first comes off as rude and disruptive individual with an oppressive demeanor, called overly unprofessional in any setting. It's hard for him to be not an ass, but it's also hard for him to be a complete jerk, though. He has a hard time understanding what choice of words he should use, which is another reason why he comes off so unprofessional. He also just doesn't like being spoken over, and just has a lot of things on his mind he needs to get out. While he tries not to, he rarely finds himself saying or doing things he doesn’t actually mean, as exposure to horrible things at his age can make him quite abrasive towards others.
+His abrasiveness stretches very far, viewing people who fall under his psychotic views as less than human. His soul trait manipulates his mind into believing the people that are affected by his soul trait to appear more and more like malice the greater he despised them. This makes it harder to distinguish a false perception from reality, which further strengthens his justifications behind killing. This makes him a very unstable person to conflict with, and trying to resolve an issue with that individual while Jacob is influenced is very difficult, as his mind is knee deep in instability and hysterics to realize.
 
-His personality shares similarities to his cousin, [[Draconic Will]]. He’s mildly dis-associative with his family, friends, and even his own lover. He is also strategic, rebellious, and calculated in battle. He doesn't have the best teamwork with others, but does enough to not be a hindrance. What defines his rebellious nature in battle is that he often doesn't pull punches, and often strikes first.
+His personality shares similarities to his cousin, [[Draconic Will]]. He’s mildly dis-associative with his family, friends, and even his own lover; He tends to bottle up his own thoughts and emotions until they explode. Yet, he is also strategic, rebellious, and calculated: He doesn't have the best teamwork with others, but does enough to not be a hindrance. What defines such a unique nature of his in battle is that he often doesn't pull punches, and often strikes first, and can plan extraordinarily creative and difficult to dodge attacks.
 
-Over a painfully long time during and after Dire Will’s incident, Jacob developed severe PTSD and mild psychosis. Usually these episodes happen after the exposure of malice, or other similar visual or physical phenomena, such as certain shades of red or even just flesh.
+During Dire Will’s incident, Jacob developed severe PTSD and mild psychosis. Usually these episodes happen after the exposure of malice, or other similar visual or physical phenomena, such as certain shades of red or even just flesh.
 
-His biggest fears are not being in control of himself, isolation and rejection from his loved ones, and crowds of people.
+His biggest fears are not being in control of himself, isolation from his family, and rejection from his loved ones, along with being in crowds of people.
 
 ## Appearance
 
@@ -215,3 +215,5 @@ If damaged, Jacob’s blood can spread across his body and harden.
 - He adopted all of his mean or friendly gestures (such as shaking hands or hugging) from his family, meaning he doesn’t (but can if he needs to) follow the norms of a sprinklekit originating from Cryosilis. He knows them from Teegan, but lays off of it because of it still being something he’s getting used to.
 
 - In his past, he has wiped civilizations due to the sheer number of those informed of Dire and those affiliated, and also out of rage because of the relentless targeting he had to endure. Since then, he has grown very numb towards killing.
+
+- He has a firm, nuanced belief that “Everyone, even and I- quote- ‘Gods’-.. are just their own beings like other people. Are we just that entitled!??-  Stop acting like we’re all anything more because we made or did some shit; We’re cool people, not superior.”
