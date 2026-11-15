@@ -208,11 +208,13 @@ If damaged, Jacob’s blood can spread across his body and harden.
 
 - He plays video games (mostly tower defense) a lot, and smokes with [[Teegan Astral|Teegan]], though a little less due to him having his guard raised most of the time, which makes him prone to have bad trips.
 
-- He likes eating huge, nutritious meals such as different forms of meats, usually tough seasoned steak. He also really likes most kinds of soup for some reason. He likes barbecue, too.
+- He likes eating huge meals with different forms of meats, usually consisting of seasoned steaks. He also really likes most kinds of soup for some reason. He likes barbecue, too.
+
+- He also really likes eating pomegranates and pomegranate-flavored drinks and foodsl but his favorite kind of sweet Teegan makes is his peanut butter cream pies.
 
 - He got the nickname "BBQ" when his younger self put barbecue on all of his food.
 
-- He adopted all of his mean or friendly gestures (such as shaking hands or hugging) from his family, meaning he doesn’t (but can if he needs to) follow the norms of a sprinklekit originating from Cryosilis. He knows them from Teegan, but lays off of it because of it still being something he’s getting used to.
+- He adopted all of his mean and friendly gestures (such as shaking hands or hugging) from his family, meaning he doesn’t (but can if he needs to) follow the norms originating from Cryosilis. He knows them from Teegan, but doesn’t use them often because of it still being something he’s getting used to.
 
 - In his past, he has wiped civilizations due to the sheer number of those informed of Dire and those affiliated, and also out of rage because of the relentless targeting he had to endure. Since then, he has grown very numb towards killing.
 
