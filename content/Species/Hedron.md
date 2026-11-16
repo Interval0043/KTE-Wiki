@@ -1,6 +1,3 @@
-> [!info] This page is currently under construction.
-> Changes will be made semi-frequently.
-
 > [!success] Author Note
 > I take feedback whenever I can, and you can absolutely use this species or tweak it however you wish! These are meant to be open, and I'd love to see what y'all can cook up.
 > \- [[Polytope]]

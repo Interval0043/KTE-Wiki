@@ -1,8 +1,9 @@
 > [!info] Prefix List
-> - R: Regular Region.
+> - R: Regular Region
 > - E: Eternal Malediction
 > - M: Malice Exclusion Zone
 > - S: Negative Space Region
+> - U: Uncategorized
 
 ## R
 
@@ -21,3 +22,7 @@
 ## S
 
 - S1 - 
+
+## U
+
+- U1 - [[Kahurea]]

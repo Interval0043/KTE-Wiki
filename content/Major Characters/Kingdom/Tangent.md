@@ -17,13 +17,15 @@
 
 ## History
 
-Tangent doesn't have a whole lot of history, as most of his relevant time was spent existing either as an older brother to [[Arc|Arc]] back in [[Kingdom]], or residing with [[Shara Astral]] in [[TFCT]]. 
+Tangent doesn't have a whole lot of history, as most of his relevant time was spent existing either as an older brother to [[Arc]] back in [[Kingdom]], or residing with [[Shara Astral]] in [[TFCT]]. 
 
 ## Personality
 
 The best word to describe Tangent would be a perfectionist, specifically for his own actions. A lot of what he does is precise, methodical, and works quite well with [[Shara Astral|Shara]]. Although, his perfectionism tends to bleed into her work as well, finding himself obsessing over small details without quite realizing why they exist, or whether or not they're good.
 
 Not only that, but he finds himself wanting to consistently make sure Shara is happy both with herself, him, and the relationship as a whole, so he'll be hovering around her quite often. He tends to pay very good attention to things and to not get off track, content with keeping others in line when he needs to.
+
+He keeps himself simple and compassionate, oftentimes being fairly energetic.
 
 ## Appearance
 
@@ -83,12 +85,32 @@ His head and legs are not protected.
 
 Tangent returns his tomahawk to his hand, from anywhere within reason, provided it's not destroyed.
 
+### Charge
+
+His tomahawk can be Charged, letting the next full combo have a significant damage increase per hit, however this should only be done when a combo route is definitely available, as when it eventually expires, the tomahawk will sustain some damage.
+
+### Combo Route
+
+Per hit in an uninterrupted combo, there's a slow exponential increase in velocity. Tangent's reaction time does not increase, so at some point he'll miss his own tomahawk and fail the combo.
+
+### Juggle
+
+He has the capacity to run with multiple tomahawks in play at the same time. Again, his standard reaction time does not increase to account for these, and while it is a very good play for continuous concussions, he's prone to dropping combos.
+
 ## Attributes
 
+### No Failure
 
+- Increased agitation when taking damage.
+- Increased adaptability.
+
+### Lethal Reach
+
+- Significantly increased throwing range.
+- Tangent can visually sense the trajectory his tomahawk will take, but only upon throwing it. If affected mid-air, the prediction is gone.
 
 ## Miscellaneous
 
-- Tangent is left-handed.
-- He often lounges around, preferring to do calm things in his downtime like read, or exist with his girlfriend, Shara
+- Tangent is left-handed, although he still uses his right hand for some combat applications.
+- He often lounges around, preferring to do calm things in his downtime like read, or exist with his girlfriend, Shara.
 - He studied philosophy for a little bit, and still does.

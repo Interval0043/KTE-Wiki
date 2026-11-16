@@ -2,7 +2,7 @@
 > Changes will be made semi-frequently.
 
 > [!warning] Author Note
-> While I encourage making Malice-related content such as OCs, do run them through me first.
+> While I encourage making Malice-related content such as OCs, do run them through [[Spookie|me]] first.
 
 ## Overview
 

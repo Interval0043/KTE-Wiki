@@ -86,11 +86,9 @@ Now well-rested and realizing he has work to do, he reformed [[46th Specialized 
 
 ## Personality
 
-Long gone is his vitriol and vengeance, now he's just really tired in an almost endearing way. Life's had a way of giving him exhaustion, and his Absence Fragment doesn't help in that regard. He very much enjoys naps, much like myself.
+Over time, both his Absence Fragment and Cosmos have caused him a lot of fatigue to build up. He doesn't often show much emotion, but in some rare cases, he can, and it's more reminiscent of his older self.
 
-For a long while, especially while in isolation, he's wished for someone to spend his time with. While preferably a lover, it could even be someone he could consider a friend. He thinks of himself as being disrespected by most, which may be true considering his past.
-
-Yet another product of his isolation is his unwillingness to talk, preferring to not speak unless asked questions directly, and will only answer as necessary. Social concepts tend to lose their hold in extended periods of being alone.
+For a long while, especially while in isolation, he's wished for someone to spend his time with. While preferably a lover, it could even be someone he could consider a friend. He thinks of himself as being disrespected by most, which may be true considering his past. Despite his isolation, he's surprisingly talkative, suspected to be him actively seeking social contact.
 
 ## Appearance
 
