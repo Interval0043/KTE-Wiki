@@ -20,4 +20,6 @@ See [[Regional Registry]].
 	- Risk is determined not by presence of Malice, but rather protection levels.
 - Malice Exclusion Zones
 	- These areas are infested with Malice, but are not yet Eternal Maledictions.
-	- 
+	- They aren't traditionally inhabitable, but organizations like [[46th Specialized Division|46SD]] and [[Legion Of Nazareth|L.O.N.]] can work through them too.
+- Eternal Maledictions
+	- See [[Malediction#Eternal Maledictions]].
