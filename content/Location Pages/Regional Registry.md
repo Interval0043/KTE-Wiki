@@ -1,28 +1,26 @@
 > [!info] Prefix List
-> - R: Regular Region
+> - A: Assigned Protected Region
+> - R: Regular Region.
 > - E: Eternal Malediction
 > - M: Malice Exclusion Zone
-> - S: Negative Space Region
-> - U: Uncategorized
+> - I: Indeterminate Zone
 
-## R
+## A
 
-- R1 - [[Khazingrad]]
+- [[A1 - Khazingrad]]
 
 ## E
 
-- E1 - [[Cryosilis]]
-- E2 - [[Godfall]]
-- E3 - [[Unstable Catalyst]]
+- [[E1 - Cryosilis]]
+- [[E2 - Godfall]]
+- [[E3 - Unstable Catalyst]]
 
 ## M
 
-- M1 - [[Foreau]]
+- [[M1 - Foreau]]
 
-## S
+## I
 
-- S1 - 
-
-## U
-
-- U1 - [[Kahurea]]
+- [[I1 - Respite]]
+- [[I2 - Negative Space]]
+- [[I3 - Kahurea]]
