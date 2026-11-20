@@ -27,7 +27,7 @@
 
 ## History
 
-Lagrange was introduced in [[Kingdom SE]] as the third [[Hedron]], the first two being [[Kepler]] and [[Poinsot]]. The town of [[Khazingrad]] wasn't too kind to him, much like his siblings, so he adapted to the situation and began learning how to control fire. Soon enough, though, he slipped into arsonism, keeping him in its clutches for a long while.
+Lagrange was introduced in [[Kingdom SE]] as the third [[Hedron]], the first two being [[Kepler]] and [[Poinsot]]. The town of [[A1 - Khazingrad]] wasn't too kind to him, much like his siblings, so he adapted to the situation and began learning how to control fire. Soon enough, though, he slipped into arsonism, keeping him in its clutches for a long while.
 
 His siblings didn't help him much through his problems at the time, and as such Lagrange only began liking them late into Kingdom SE, nearly bordering [[Kingdom III]]. Soon enough, though, he'd forge a tight-knit bond with the two of them, even if he was still shackled by his problems.
 

@@ -1,6 +1,6 @@
 ## General Description
 
-Mavela are pale-white, night-dwelling [[Human|Humans]] twisted by the over-abundance of magic within [[Godfall]], previously known on Earth as humans; Who were ripped out of their world without a second thought, right into the hands of [[Niocstra]], who remolded humanity’s societal expectations into a brutal dystopia of kill-and-conquer. Their souls were doomed to embody the essence of negative emotion, which makes their kind much more susceptible to becoming severely mentally ill, or worse: Evil, remorseless fiends that leech off of, and destroy the world around them.
+Mavela are pale-white, night-dwelling [[Human|Humans]] twisted by the over-abundance of magic within [[E2 - Godfall]], previously known on Earth as humans; Who were ripped out of their world without a second thought, right into the hands of [[Niocstra]], who remolded humanity’s societal expectations into a brutal dystopia of kill-and-conquer. Their souls were doomed to embody the essence of negative emotion, which makes their kind much more susceptible to becoming severely mentally ill, or worse: Evil, remorseless fiends that leech off of, and destroy the world around them.
 
 They’re far more powerful than humans, and their bodies rapidly mutate to survive any extreme.
 

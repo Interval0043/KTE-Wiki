@@ -29,7 +29,7 @@
 
 ### [[TFCT (Prequel)]]
 
-Interval was the first of the [[Manifold|Manifolds]], his formation taking place in [[Foreau]], where TFCT (Prequel) focused on initially. He ended up joining a group of vigilantes, being the only Manifold in a group of primarily [[Sprinklekit|Sprinklekits]], and a few other species. His main concern was the thought of not being useful, as his body didn't initially lend himself to [[Magic]] like everyone else's.
+Interval was the first of the [[Manifold|Manifolds]], his formation taking place in [[M1 - Foreau]], where TFCT (Prequel) focused on initially. He ended up joining a group of vigilantes, being the only Manifold in a group of primarily [[Sprinklekit|Sprinklekits]], and a few other species. His main concern was the thought of not being useful, as his body didn't initially lend himself to [[Magic]] like everyone else's.
 
 All he had was his MP443 Grach and a dream, working alongside the group to not only clear Foreau, but other dimensions of a currently unspecified threat. Through this work, he became well-renowned for his tactical mind, being able to spot inconsistencies and tactical missteps swiftly.
 
@@ -94,7 +94,7 @@ For a long while, especially while in isolation, he's wished for someone to spen
 
 First and most prominently are his eyes, as they're almost always half-lidded and sagging, unlike the norm where they're completely open at almost all times. He also has a mild standing forward hunch, likely because of carrying heavy objects by himself quite often in his own living. He's thinned out a little, despite Manifolds not typically gaining or losing weight, but something weighing down on his soul has caused him to lose gas.
 
-On to the clothes, he typically wears a tunic and leggings made of ethically-sourced animal pelt, of which is a combination of deer, elk, and a few others native to [[Foreau]]. He wears hiking boots almost everywhere, and they are not clean in the slightest, tracking a slight amount of mud everywhere he walks.
+On to the clothes, he typically wears a tunic and leggings made of ethically-sourced animal pelt, of which is a combination of deer, elk, and a few others native to [[M1 - Foreau]]. He wears hiking boots almost everywhere, and they are not clean in the slightest, tracking a slight amount of mud everywhere he walks.
 
 The last thing of note is his left arm is entirely missing, including the shoulder. Despite this, he still wears clothes that have two sleeve-holes, in a tell that he wishes he had both arms.
 

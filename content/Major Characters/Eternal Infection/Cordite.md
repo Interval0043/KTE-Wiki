@@ -2,7 +2,7 @@
 > This page is currently not in development, so it's going to be unfinished.
 
 > [!quote]
-> *You know, they took the land away. The beautiful land that was [[Cryosilis]]. I'm not too happy about that.*
+> *You know, they took the land away. The beautiful land that was [[E1 - Cryosilis]]. I'm not too happy about that.*
 > $\to$ Cordite
 
 > [!abstract] Metadata
@@ -23,7 +23,7 @@
 
 ### Pre-KTE
 
-Originally working as a Dutch teacher in [[Cryosilis]], she had a fairly normal life. Commonly, she worked with young children and studied other subjects in her free time. Known to be soft around just about everyone, she was well liked and respected in her field.
+Originally working as a Dutch teacher in [[E1 - Cryosilis]], she had a fairly normal life. Commonly, she worked with young children and studied other subjects in her free time. Known to be soft around just about everyone, she was well liked and respected in her field.
 
 As a hobby, she used to partake in sports that were brought over from the [[Human|Humans]], primarily Tennis. She found good fun in seeing what other cultures were like, often travelling dimensions as vacation days just to see what was in store. 
 

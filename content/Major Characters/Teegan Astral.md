@@ -79,7 +79,7 @@ Unlike Jacob, he is a heavy-hitter who will analyze their opponents, combat pres
 
 ### 雹 雷 (Hyō Kaminari)
 
-‘Hail Thunder’ translated from Japanese, this anomalous katana has an edge to its blade that’s is constantly empowered by powerful alloys forged within [[Cryosilis]].
+‘Hail Thunder’ translated from Japanese, this anomalous katana has an edge to its blade that’s is constantly empowered by powerful alloys forged within [[E1 - Cryosilis]].
 
 Its origins of being an electricity-based katana means that is utilizes a holy form of electrical magic, providing an even greater advantage during battle; Imbued with the blue moon’s magic, it made it far easier for Teegan to defend himself against the creations of [[Dire Will|Dire]]. This weapon was used by an old Orian Chosen member before they had died valiantly in battle, passed down into Teegan’s young hands.
 

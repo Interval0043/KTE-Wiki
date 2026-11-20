@@ -34,7 +34,7 @@ In his escape, he grabbed two weapons: a knife, and a Makarov Pistol (PM), along
 
 ### Post-Lab
 
-From 1971 to 1973, he lived in the top of Siberia, foraging for food and existing as he is. In 1973, a rift shot open and ripped him from his dimension, pulling him into the outskirts of [[Khazingrad]].
+From 1971 to 1973, he lived in the top of Siberia, foraging for food and existing as he is. In 1973, a rift shot open and ripped him from his dimension, pulling him into the outskirts of [[A1 - Khazingrad]].
 
 ## Personality
 

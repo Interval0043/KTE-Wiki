@@ -7,7 +7,8 @@ Made with hot glue and dreams, hosted from [this GitHub Repository](https://gith
 ## Useful Pages
 
 - [[Character Format]]
-- [[Species Format]]
 - [[Markdown Reference]] (for those wanting to contribute!)
 - [[Wiki Style Guideline]] (after reading the Markdown Reference)
 
+- [[Cosmology]], for understanding how our locations work
+- [[Malice]], for what Malice is and why it matters

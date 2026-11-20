@@ -51,7 +51,7 @@ At some point, [[Eiro]] showed up. Described as Kepler but from a different time
 I woke up one day, surrounded by water. I don't remember anything, and I don't recall having ever been alive before. I began to feel light, floating to the surface. Seeing a dock, I grabbed ahold, pulling myself up onto it, although I remember it being a struggle. There was another, who looked similar to me, so I felt the need to help them up too. Me and someone else, sitting on a dock in an unfamiliar place. I would soon know myself to be Kepler and the other person to be my dear sister, Poinsot.
 
 > [!note]
-> The place mentioned in the anecdote is [[Khazingrad]].
+> The place mentioned in the anecdote is [[A1 - Khazingrad]].
 
 #### Brother
 

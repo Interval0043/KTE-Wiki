@@ -2,7 +2,7 @@
 
 The Astrals, referred to as the Astral Family, is a lineage sticking to one central theme: All of the Astrals have a cosmic influence that is embedded in their genetic code to awaken their dormant, powerful forms of magic.
 
-They do not view themselves as gods, merely mercenaries, reflecting upon the countless centuries they spent trying to better their living conditions inside of [[Unstable Catalyst]]. Despite their tremendous feats of strength and power, they were the main punching bags of the outlandish world they resided in. 
+They do not view themselves as gods, merely mercenaries, reflecting upon the countless centuries they spent trying to better their living conditions inside of [[E3 - Unstable Catalyst]]. Despite their tremendous feats of strength and power, they were the main punching bags of the outlandish world they resided in. 
 
 Tyrants that ruled over many militias in Unstable Catalyst placed huge bounties over their heads; physically and psychologically exhausted the family after countless attempts of staying under the radar. No matter where they went, they still had lived like prisoners due every faction aggressively pursuing to enslave them.
 

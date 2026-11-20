@@ -10,3 +10,14 @@ A Region is an area of arbitrary size, given a number. It can span multiple dime
 Present in the Wiki, in Location Pages, will be the Regions. Each *established* Region is *required* to have a Location Page.
 
 See [[Regional Registry]].
+
+### Designations
+
+- Assigned Protected Regions:
+	- These are areas meant to be for casual roleplay first and foremost. They're protected from [[Malice]] by [[Primordial Entity|Primordial Entities]] and other beings, and the threat of Malice is hidden from the public eye as to not cause distress. Functionally identical to a standard chill RP space.
+- Regular Regions (Low, Medium, High Risk):
+	- These areas, based on the Risk designation, interact with Malice in some manner. The higher the Risk, the more chance there is to have Malice confrontations. Even at High Risk, though, it's still not confirmed.
+	- Risk is determined not by presence of Malice, but rather protection levels.
+- Malice Exclusion Zones
+	- These areas are infested with Malice, but are not yet Eternal Maledictions.
+	- 

@@ -1,4 +1,4 @@
-Might, or Eden Energy, is a form of magic that is produced from the raw desire to dominate, found in entities that originate from [[Godfall]]. Fundamentally, Eden energy is the manifestation of might itself that affects anything living, but is more likely to affect those with an active conscience.
+Might, or Eden Energy, is a form of magic that is produced from the raw desire to dominate, found in entities that originate from [[E2 - Godfall]]. Fundamentally, Eden energy is the manifestation of might itself that affects anything living, but is more likely to affect those with an active conscience.
 
 When an entity possesses Eden Energy, they have the ability to empower themselves from taking lives, siphoning away their life force. The “empowerment” described is an absolute improvement to one’s spiritual and physical essence; Though gradually, it takes more of this energy to amplify itself more.
 
