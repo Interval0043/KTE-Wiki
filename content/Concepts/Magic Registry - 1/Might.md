@@ -4,7 +4,7 @@ When an entity possesses Eden Energy, they have the ability to empower themselve
 
 While not inherently unstable in nature, people who define themselves by only power are often consumed by the energy (both physically and mentally), and will go through a process to redistribute this energy after their eventual death. This distribution process is not by choice, and will follow the decay of the soul and vessel.
 
-An Eden Energy user also has a special application (outside of just making others stronger) that makes the user a formidable, but knowledgeable threat, and that is their “adaptability”. Their “adaptability” means seamlessly integrating forms of knowledge into their arsenal, givjng them the ability to also extract abstract information from other souls in nearly every way.
+An Eden Energy user also has a special application (outside of just making others stronger) that makes the user a formidable, but knowledgeable threat, and that is their “adaptability”. Their “adaptability” means seamlessly integrating forms of knowledge into their arsenal, giving them the ability to also extract abstract information from other souls in nearly every way.
 
 ### Inexperienced
 

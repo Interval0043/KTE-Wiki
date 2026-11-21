@@ -11,7 +11,7 @@
 
 ## History
 
-Mojave's last major appearance was with [[46th Specialized Division|Division 46]] back in [[TFCT]]. Since then, he's been on his own personal journey (soon to be written here), one which has not given him much to work with.
+Mojave's last major appearance was with [[46th Specialized Division|Division 46]] back in [[TFCT]], primarily alongside [[Interval]]. Since then, he's been on his own personal journey (soon to be written here), one which has not given him much to work with.
 
 Now, though, he's come back into the light and is working to hunt [[Malice]] on his own time, seeing if good work would be enough to give him some epiphany of purpose.
 
@@ -52,19 +52,72 @@ The barrel can be extended or retracted, although usually it stays long. Putting
 
 > [!quote] All in. No more foolin' around.
 
+*Soulbreakers are a limited resource and cannot be conjured, rather needing to be crafted. If he doesn't have any, then he cannot use the gambit.*
+
 There's one last ammo type. The Soulbreaker. This is in a different category of its own, because it's a unique capability of the gun. When a Soulbreaker is loaded in, only one can be loaded and the cylinder is obscured from all parties. Mojave will spin the cylinder 5 times, as hard as he can. If he believes the bullet is ready, he can activate the Soulbreaker's <span style="color:lightgreen">Primed</span> abilities.
 
 The Soulbreaker itself will hit the [[Soul]] of an enemy directly, as opposed to their physical body. It deals true damage, ignoring typical resistances. If <span style="color:lightgreen">Primed</span>, it will have an Execute range. If the enemy is weak enough, it will break their soul outright.
 
-However, provided Mojave doesn't land the shot, two things can happen. If it was a regular shot, the bullet is expended and the cylinder is automatically freed. Another Soulbreaker can be loaded after enough time has passed. If it was a <span style="color:lightgreen">Primed</span> shot, the barrel will shatter, rendering the gun useless for a significant amount of time, until Mojave can replace the barrel. 
+However, provided Mojave doesn't land the shot, two things can happen. If it was a regular shot, the bullet is expended and the cylinder is automatically freed, wasting the chance. Another Soulbreaker can be loaded after enough time has passed. If it was a <span style="color:lightgreen">Primed</span> shot, the barrel will shatter, rendering the gun useless for a significant amount of time, until Mojave can replace the barrel. 
 
-## Abilities?
+<span style="color:red">EX</span>: Two are loaded into the chamber, in positions 1 and 4, and the gun must be primed.
 
-He is currently unpracticed in directly using Magic for casts or otherwise, instead controlling it through his revolver.
+## Abilities
+
+When covered in the leather, most of his ability is suppressed. Anything that changes when he's *exposed* will be marked by an EX in the header, or an <span style="color:red">EX</span> in the body if the ability is modified.
+
+### Conjure Bullets
+
+With the exclusion of Soulbreakers, bullets are conjured freely as needed, of any chosen type. However, conjuring must follow the rules of the gun, and any conjured bullets must be immediately loaded. If the cylinder isn't empty, bullets cannot be conjured.
+
+<span style="color:red">EX</span>: Disabled. Soulbreakers are still usable.
+
+### Form Change: Exposing
+
+There are two ways that Mojave can become Exposed. Both of them involve specific routes of sustaining damage.
+
+The first one is when he simply takes enough damage, where he will fall to his knees and the leather will retract into his form through a single point, exposing himself to the enemy. If he recovers enough, the leather will re-emerge, wrapping him up once more and hiding him, reverting the changes.
+
+The second one, however, is self-damage. If Mojave believes trying to fight in his non-exposed form is futile, he can fire on himself and force a transition. Because of the nature of this method, though, it's irreversible in battle. He also needs to commit to a damage type to buff.
+
+Part of his exposing is the gain of attributes, one of which being a complete increase to his Magic attacks. However, when self-damage is sustained, the type of self-damage is increased even greater, while leaving the rest at the same. Without the knowledge that [[Might]] brings, though, he's usually left in the dark unless he knows the enemy already.
+
+### EX: Weaponized Volatility
+
+Instead of using bullets now, he'll directly cast the magic, mimicking the <span style="color:lightgreen">Primed</span> state that the bullets take on, but being a little bit different.
+
+- Fire: Sends out a egregious spray of high-intensity magic thermite, casted from the left hand. Enough to coat a large area.
+
+- Electricity: A powerful bolt at 3% the speed of light in a single direction, cast with his right hand. Does not bounce upon hitting anything, and does not pierce.
+
+- Might: This one requires him to get in a little closer. He will create a link of Might between him and the enemy, slowly siphoning their energy as long as he can maintain a close-ish proximity. Only one link can be made at a time, but it can be freely swapped.
+
+### EX: Close and Personal
+
+These are the other two Magic types missing from Weaponized Volatility, being used exclusively in CQC applications.
+
+- Metal: Each and every melee hit he lands is empowered, and lowers the enemy's defense for a certain time. While it does stack, it's a diminishing return.
+  
+- Ice: Any major hit that would stun an enemy also applies Slow, reducing their capability to act for a short time.
 
 ## Attributes
 
-\<tbd\>
+### Resilience
+
+- Increased resistance to all kinetic attacks, on top of the natural resistance Slimanoids get.
+- Increased resistance to weaker Magic-based attacks.
+
+<span style="color:red">EX</span>: Disabled. The leather is what provides this attribute.
+
+### EX: Passive Flow
+
+Because of [[Might]], Mojave automatically begin learning information by proximity alone, although it's slow. Also results in heightened perception.
+
+### EX: Gambler's Odds
+
+When <span style="color:red">EX</span> is triggered standard, increased potency of all magic attacks.
+
+When <span style="color:red">EX</span> is triggered through self damage, significantly increased potency of the attack type that he damaged himself with, and nothing else.
 
 ## Trivia
 
