@@ -120,7 +120,7 @@ This slang is used to describe anything that is inherently difficult or incompre
 
 Unstable Catalyst norms and culture are not tolerated, and are in favor of Cryosilis norms (besides licking/grooming, which she and others in the family believes is more unsanitary than kissing). Theia instates this rule to prevent unnecessary violence or vulgarity, though some of the members fail to follow or really acknowledge this rule. It is also advised for a member to be on their best behavior in her presence.
 
-Theia is in charge of casting of secretive, required meetings concerning the well-being of the family, serving as a way for notice on potential shortcomings. Another notable thing about these meetings is that it isn’t required for a member of the family to be professional, as some members view it as a place to vent their frustrations, or ramble about other personal issues.
+Theia is in charge of casting secretive, non-negotiable meetings, usually in concern for the well-being of the family, serving as a way for notice on potential shortcomings. Another notable thing about these meetings is that it isn’t required for a member of the family to be professional, as some members view it as a place to vent their frustrations, or ramble about other personal issues.
 
 # $\text{V-I-R}\;20^{7\cdot 15}$ / The Net / $\Omega$ (Omega)
 
