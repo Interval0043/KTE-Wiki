@@ -59,6 +59,27 @@ This trait reached its Prime state after Dire put an intense physical and mental
 
 Jacob’s Wrath manifests to create more amplified, powerful attacks at the cost of more magic, which in the end exhausts him more easily, but makes him a force to be reckoned with.
 
+# Strengths / Weaknesses
+
+## Weaknesses
+
+Malice (Triggers PTSD, including a severe form of PTSD-Induced Psychosis), which often makes him emotionally unstable.
+Swayed by the feeling of wrath and has motives driven by fear of loss.
+Too unserious or unprofessional .
+Very apathetic towards his enemies, seeing them more than just ‘less than human’ and more as an active threat he needs to kill.
+Distant and sometimes disconnected with fellow peers and loved ones.
+Sometimes unwilling or hesitant to go out and meet new people, which makes him pretty introverted.
+Viewed very negatively among almost the entire omniverse.
+Sometimes acts before thinking.
+
+## Strengths
+
+High willpower.
+Creative and quick-thinking, also having hundreds of years worth of combative experience.
+Humorous and entertaining to be with at times. 
+Daring, brave, courageous, and hardworking. 
+Has a humble view of himself and others.
+
 # Statistics
 
 ##  Exceptional Durability (Planetary Level)
