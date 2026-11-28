@@ -28,6 +28,8 @@ The conditions that must be met are:
 
 2. The very sin they represent must still exist, within the same time-space as the Malice. As an example, if the concept of "Greed" itself is not present in the same dimension as any sources of Malice, be it by the lack of any intelligent life forms or any other reason, the sin of greed may not be able to be reborn, until a life form who has indulged in the sin of greed in their lifetime arrives. As such, separating the Malice from all other space-times, would also cease the reincarnation cycle of the sins.
 
+The sin of Sloth, Dâmocles, is the only exception to this rule.
+
 #### Transitory Apotheosis
 
 A fluctuating ability that is, by technicality, out of the user's own control. This ability occurs most often during intense emotional moments, be it for the user, their target, or even during difficult battles.
