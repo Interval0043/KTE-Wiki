@@ -2,7 +2,7 @@
 > Changes will be made semi-frequently.
 
 > [!quote]
-> *I'm old. I can't do this no more. But life finds a way of constantly fucking me over, doesn't it?*
+> *I'm feelin' old, yeah. Doesn't mean I'm about to give up.*
 > \- Interval, to [[Cosmos]]
 
 > [!abstract] Metadata
@@ -29,11 +29,11 @@
 
 ### [[TFCT (Prequel)]]
 
-Interval was the first of the [[Manifold|Manifolds]], his formation taking place in [[Foreau]], where TFCT (Prequel) focused on initially. He ended up joining a group of vigilantes, being the only Manifold in a group of primarily [[Sprinklekit|Sprinklekits]], and a few other species. His main concern was the thought of not being useful, as his body didn't initially lend himself to [[Magic]] like everyone else's.
+Interval was the first of the [[Manifold|Manifolds]], his formation taking place in [[M1 - Foreau]], where TFCT (Prequel) focused on initially. He ended up joining a group of vigilantes, being the only Manifold in a group of primarily [[Sprinklekit|Sprinklekits]], and a few other species. His main concern was the thought of not being useful, as his body didn't initially lend himself to [[Magic]] like everyone else's.
 
 All he had was his MP443 Grach and a dream, working alongside the group to not only clear Foreau, but other dimensions of a currently unspecified threat. Through this work, he became well-renowned for his tactical mind, being able to spot inconsistencies and tactical missteps swiftly.
 
-Near the end, his Absence [[Dimensional Fragments|Fragment]] awoke and gave him the potential to utilize Void Magic, although he didn't quite understand it yet.
+Near the end, his Absence [[Dimensional Fragments|Fragment]] awoke and gave him the potential to utilize [[Void]] Magic, although he didn't quite understand it yet.
 
 ### [[TFCT (Crossing)]]
 
@@ -86,17 +86,15 @@ Now well-rested and realizing he has work to do, he reformed [[46th Specialized 
 
 ## Personality
 
-Long gone is his vitriol and vengeance, now he's just really tired in an almost endearing way. Life's had a way of giving him exhaustion, and his Absence Fragment doesn't help in that regard. He very much enjoys naps, much like myself.
+Over time, both his Absence Fragment and Cosmos have caused him a lot of fatigue to build up. He doesn't often show much emotion, but in some rare cases, he can, and it's more reminiscent of his older self.
 
-For a long while, especially while in isolation, he's wished for someone to spend his time with. While preferably a lover, it could even be someone he could consider a friend. He thinks of himself as being disrespected by most, which may be true considering his past.
-
-Yet another product of his isolation is his unwillingness to talk, preferring to not speak unless asked questions directly, and will only answer as necessary. Social concepts tend to lose their hold in extended periods of being alone.
+For a long while, especially while in isolation, he's wished for someone to spend his time with. While preferably a lover, it could even be someone he could consider a friend. He thinks of himself as being disrespected by most, which may be true considering his past. Despite his isolation, he's surprisingly talkative, suspected to be him actively seeking social contact.
 
 ## Appearance
 
 First and most prominently are his eyes, as they're almost always half-lidded and sagging, unlike the norm where they're completely open at almost all times. He also has a mild standing forward hunch, likely because of carrying heavy objects by himself quite often in his own living. He's thinned out a little, despite Manifolds not typically gaining or losing weight, but something weighing down on his soul has caused him to lose gas.
 
-On to the clothes, he typically wears a tunic and leggings made of ethically-sourced animal pelt, of which is a combination of deer, elk, and a few others native to [[Foreau]]. He wears hiking boots almost everywhere, and they are not clean in the slightest, tracking a slight amount of mud everywhere he walks.
+On to the clothes, he typically wears a tunic and leggings made of ethically-sourced animal pelt, of which is a combination of deer, elk, and a few others native to [[M1 - Foreau]]. He wears hiking boots almost everywhere, and they are not clean in the slightest, tracking a slight amount of mud everywhere he walks.
 
 The last thing of note is his left arm is entirely missing, including the shoulder. Despite this, he still wears clothes that have two sleeve-holes, in a tell that he wishes he had both arms.
 
@@ -104,9 +102,9 @@ The last thing of note is his left arm is entirely missing, including the should
 
 ### Voidsent Enforcer
 
-As Interval's gift from Cosmos, it functions as a blunderbuss-inspired shotgun-style weapon. It's light, with a pistol grip and one single magical shell in the chamber. It does not need to be reloaded, as it charges naturally while holstered.
+As Interval's gift from Cosmos, it functions as a blunderbuss-inspired shotgun-style weapon. It's light, with a pistol grip and one single magical shell in the chamber. It does not need to be reloaded, as it charges naturally while holstered. The charge is fast, so it's almost always ready to shoot when drawn.
 
-The draw speed is highly increased, allowing its primary use to shine. It's able to be brought up and shot point-blank very easily for high burst damage and high cooldown. Alternatively, it can be swung to act as a blunt weapon, usually rotated around the trigger guard and spun around his index finger. When used this way, it emits a powerful burst of raw Magic, allowing it to reliably stun or kill lower-level Malice.
+The draw speed is highly increased, allowing its primary use to shine. It's able to be brought up and shot point-blank very easily for high burst damage. Alternatively, it can be swung to act as a blunt weapon, usually rotated around the trigger guard and spun around his index finger. When used this way, it emits a powerful burst of raw Magic, allowing it to reliably stun or kill lower-level Malice.
 
 <span style="color:yellow">Repeater:</span> When fired, it will fire again very soon after, almost acting as a fast double-barrel fire, despite there not being two barrels. When swung, Interval will attempt a second stronger hit on the return as well, as opposed to putting it at his side.
 
@@ -114,15 +112,14 @@ The draw speed is highly increased, allowing its primary use to shine. It's able
 
 Experimental Abyss Objects are something manifested by Interval, presenting as chunks of highly compressed and unstable Abyssal Matter. The pellets are always formed in clusters, and are used as such as well. Using individual pellets, while possible, doesn't happen often.
 
-When thrown as a cluster, they act as a concussive barrage, exploding on contact with the next surface and briefly stunning the enemy.
+When armed and thrown as a cluster, they act as a concussive barrage, exploding on contact with the next surface and briefly stunning the enemy.
 <span style="color:yellow">Repeater:</span> There's another detonation soon after the first for each pellet, of which is stronger and has a larger stunning effect.
 
-The clusters can also be Eviscerated, being crunched into Interval's hand. The following possible effects are below, all drawn at equal odds. The benefits don't expire unless they're used, in which case they can be used once, excluding Snap.
+The clusters can have one of two other things done with them. Either they can be Eviscerated, triggering a Repeater stack:
 
 - Repeater: One attack will have an Echo hit the enemy soon after, dealing a stronger but more telegraphed blow. Or, if specified, attacks can benefit in a different manner from this.
-- Stutter: Interval will teleport somewhere random within a 50 ft radius of the enemy, provided it's on solid ground AND in open space, so he isn't in a wall or something.
-- Snap: Interval gains a free One More to use at will, which will expire after a medium amount of time.
-- Satiate: The Wretch lessens its hunger. *For now.*
+
+This can be stacked up to 3 times without being used. Alternatively, he can eat the pellets, Satiating him. This will hold off his Wretch form for a little bit longer, but each Satiate will have less of an effect.
 
 ## Abilities
 
@@ -130,11 +127,20 @@ The simplest explanation for his abilities not being there is that Cosmos doesn'
 
 They will be put in as necessary.
 
+## Form: Wretch
+
+> [!quote] <span style="color:purple"> *THE VOID WILL CONSUME.* </span>
+
+A product of his isolation, his Absence Fragment branched out to more of the Void, and brought with it a manner of instability. When activated, Interval will suddenly burst into a form of deep purple and black viscous liquid, being Liquefied Void. He's also emanating wisps in a similar color. Gone are his weapons, replaced with a need to be up close and to fight the enemy.
+
+He will also begin biting things, causing a much stronger Evisceration force with his jaw. Chunks of Malice can also be bitten off, but only every once in a while. He's still intelligent in there, but only about a third of his normal capacity.
+
 ## Attributes
 
-### Blurred Sensation
+### Numb Operator
 
-Distance to Interval is proportional to senses experienced by the enemy. The closer they are, the less they hear, smell, and taste. Vision is affected through a smog that seemingly gets thicker the closer the enemy approaches. Touch is unaffected, along with other senses.
+- Significantly increased pain tolerance.
+- Significantly reduced flinching upon taking a hit.
 
 ### Monodextrous Proficiency
 
@@ -145,3 +151,13 @@ Distance to Interval is proportional to senses experienced by the enemy. The clo
 ### All or Nothing
 
 Because of his continued resilience through his years of life, his exhaustion point in battles is far past that of many other Manifolds. He can push through even when heavily fatigued, focused on doing what he needs to, even if it means hurting himself in the process.
+
+\+ His Void supply will also keep him going, provided he gets to a critical point. While it cannot currently have abilities tied to it, it does still provide some sustain.
+
+### Void's Agitation
+
+<span style="color:purple"> Wretch exclusive. </span>
+
+- Significantly increased agitation, bringing back Interval's penchant for grudges.
+- Significantly increased attack speed, but reduced accuracy at a distance.
+- Increased magic potency.

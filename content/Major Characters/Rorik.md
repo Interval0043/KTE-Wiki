@@ -34,7 +34,7 @@ In his escape, he grabbed two weapons: a knife, and a Makarov Pistol (PM), along
 
 ### Post-Lab
 
-From 1971 to 1973, he lived in the top of Siberia, foraging for food and existing as he is. In 1973, a rift shot open and ripped him from his dimension, pulling him into the outskirts of [[Khazingrad]].
+From 1971 to 1973, he lived in the top of Siberia, foraging for food and existing as he is. In 1973, a rift shot open and ripped him from his dimension, pulling him into the outskirts of [[A1 - Khazingrad]].
 
 ## Personality
 
@@ -64,7 +64,7 @@ Because of the steroids they gave him and other substances, it damaged his pitui
 
 ### Adaptability
 
-When faced in unknown circumstances, provided they are not too cumbersome, he may be able to develop new capabilities to handle similar situations. He may also be compatible with certain forms of magic, however this is entirely unknown and purely speculative.
+When faced in unknown circumstances, provided they are not too cumbersome, he may be able to develop new capabilities to handle similar situations. He may also be compatible with certain forms of [[Magic]], however this is entirely unknown and purely speculative.
 
 ### Combat Medic Training
 
@@ -94,7 +94,7 @@ Stock USSR Standard Issue Makarov Pistol (PM). Chambered in 9x18mm Makarov with 
 - Reduces the effect of stunning / blinding.
 - Increases resistance to sound-based attacks or complications. NOTE: This just balances out the Canis' natural weakness to sound.
 
-### Medic
+### Field Medic
 
 - Can minorly heal teammates and / or patch wounds.
 - Can carry a downed teammate better.

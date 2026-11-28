@@ -1,6 +1,3 @@
-> [!info] This page is currently under construction.
-> Changes will be made semi-frequently.
-
 > [!success] Author Note
 > I take feedback whenever I can, and you can absolutely use this species or tweak it however you wish! These are meant to be open, and I'd love to see what y'all can cook up.
 > \- [[Polytope]]
@@ -15,9 +12,9 @@ They're primarily composed of a shell, a binding [[Souls|Soul]], and an inner su
 
 ### Early
 
-The Hedrons began in [[Kingdom SE]] as a direct descendant of [[Dimension 0]]'s falling apart nearing the end of [[Kingdom]]. Formally, they were formed from some of the Dimensional Fragments, specifically one each. It's important to note the first three Hedrons, in order, are [[Kepler]], [[Poinsot]], and [[Lagrange]]. They got their start in [[Khazingrad]], and that location continues to be a major hotspot for the species.
+The Hedrons began in [[Kingdom SE]] as a direct descendant of [[Dimension 0]]'s falling apart nearing the end of [[Kingdom]]. Formally, they were formed from some of the Dimensional Fragments, specifically one each. It's important to note the first three Hedrons, in order, are [[Kepler]], [[Poinsot]], and [[Lagrange]]. They got their start in [[A1 - Khazingrad]], and that location continues to be a major hotspot for the species.
 
-In [[Kingdom III]], more were discovered to have formed in other [[Dimension Structure|Dimensions]], migrating to Khazingrad or settling where they formed at.
+In [[Kingdom III]], more were discovered to have formed in other [[Cosmology|Dimensions]], migrating to Khazingrad or settling where they formed at.
 
 This earlier time isn't too interesting for the Hedrons, as not much was going on. There was still the lingering threat from Kingdom to worry about, but other than that it was a very peaceful time for them to get their bearings in a new world.
 
@@ -104,11 +101,11 @@ This needs a color too. It'll usually present as a sort of underglow behind the 
 
 ## Common Locations
 
-The Hedrons are mainly found in a few spots scattered around. One of the most important is [[Khazingrad]], where they got their start.
+The Hedrons are mainly found in a few spots scattered around. One of the most important is [[A1 - Khazingrad]], where they got their start.
 
 The others are listed below:
 
-- [[Foreau]]
+- [[M1 - Foreau]]
 - A few other scattered locations. There aren't many hotspots for them.
 
 ## Inheritance

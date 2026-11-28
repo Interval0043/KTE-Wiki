@@ -5,7 +5,7 @@
 - Species: Protogen
 - Height: 5 ft, 2 in
 - Weight: 130 lbs
-- Occupation: Bartender in [[Khazingrad]]
+- Occupation: Bartender in [[A1 - Khazingrad]]
 - Author: [[Polytope]]
 
 ## Appearance
@@ -18,7 +18,7 @@ His eyes and mouth on the visor are white, and his hands remain uncovered.
 
 ## Personality / Mannerisms
 
-Whistler is a very skilled bartender, often partaking in casual conversation with any of the patrons. He's a sight for sore eyes for some, an introduction to [[Khazingrad]] for others. He's very firmly spoken though, opting to engage in conflict as necessary.
+Whistler is a very skilled bartender, often partaking in casual conversation with any of the patrons. He's a sight for sore eyes for some, an introduction to [[A1 - Khazingrad]] for others. He's very firmly spoken though, opting to engage in conflict as necessary.
 
 He's a perpetual coffee drinker, always having a pot at the ready at all times. Despite this, he looks neither tired nor hyped up, keeping his usual neutral expression. Although, that isn't to say he's expressionless, as he's quite the opposite.
 

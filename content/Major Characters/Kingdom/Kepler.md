@@ -17,9 +17,8 @@
 > - Shell Color: Light Gray & Glossy
 > - Gas Color: Muted Red (Normal)
 > - Core: Bravery
-> - [[Dimensional Fragments|Fragment]]: Celestial
-> - Binding [[Souls|Soul]]: Celestial
-> 	- Answers to [[Caelis]]
+> - [[Dimensional Fragments|Fragment]]: Celestial -> 
+> - Binding [[Souls|Soul]]: Standard
 > - Inheritance: [[Hedron]]
 > 	- Discharge
 > 	- Breakshot
@@ -52,7 +51,7 @@ At some point, [[Eiro]] showed up. Described as Kepler but from a different time
 I woke up one day, surrounded by water. I don't remember anything, and I don't recall having ever been alive before. I began to feel light, floating to the surface. Seeing a dock, I grabbed ahold, pulling myself up onto it, although I remember it being a struggle. There was another, who looked similar to me, so I felt the need to help them up too. Me and someone else, sitting on a dock in an unfamiliar place. I would soon know myself to be Kepler and the other person to be my dear sister, Poinsot.
 
 > [!note]
-> The place mentioned in the anecdote is [[Khazingrad]].
+> The place mentioned in the anecdote is [[A1 - Khazingrad]].
 
 #### Brother
 
@@ -66,7 +65,7 @@ Deep down, though, he harbors a desire to be seen as equal among his contemporar
 
 ## Clothing
 
-Awhile ago, he got a heated, padded, blue zip-up coat. He frequently keeps the heating filaments on, and the hood up. He also usually wears jeans and loafers, so only his face and hands are visible. This is just to keep him warm, as his body naturally runs cold. When his Celestial [[Souls|Soul]] activates, it tends that the hood of his coat will fly backward.
+Awhile ago, he got a heated, padded, blue zip-up coat. He frequently keeps the heating filaments on, and the hood up. He also usually wears jeans and loafers, so only his face and hands are visible. This is just to keep him warm, as his body naturally runs cold. When his Celestial [[Dimensional Fragments|Fragment]] activates, it tends that the hood of his coat will fly backward.
 
 ## Relationships
 
@@ -78,7 +77,7 @@ In terms of love, Kepler's a little lost. Hedrons are notable for it being extre
 
 ## Abilities
 
-
+Kepler's abilities focus heavily on ranged use of 
 
 ## Weaponry
 
@@ -91,14 +90,7 @@ No dedicated weapons.
 - Increased resistance to ice / cold attacks and environments.
 - Increased resistance to rapid temperature changes.
 
-### Ready & Alert
-
-Switches effect based on Doubt status.
-
-- Increased reaction time (No Doubt).
-- Increased perception (Doubt).
-
-### Torque
+### Extrapolated Torque Function
 
 - Increased *sudden* electrical release potency.
 - Increased time of effect for all electrical attacks and related statuses.

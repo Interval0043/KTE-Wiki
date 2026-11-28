@@ -23,11 +23,11 @@
 
 ### Kingdom
 
-Signus debuted in [[Kingdom]] as one of the many entities who came to [[Dimension 0]] when it newly opened up to other [[Dimension Structure|Dimensions]]. He's considered the first [[Primordial Entity]], not being bound to a specific [[Dimensional Fragments|Fragment]] and wandering the world, hanging out.
+Signus debuted in [[Kingdom]] as one of the many entities who came to [[Dimension 0]] when it newly opened up to other [[Cosmology|Dimensions]]. He's considered the first [[Primordial Entity]], not being bound to a specific [[Dimensional Fragments|Fragment]] and wandering the world, hanging out.
 
 ### Kingdom SE & Kingdom III
 
-During the events of [[Kingdom SE]] and [[Kingdom III]] he was notably absent, deciding to stay back at his home dimension and work at wood carving from materials he got from [[Human|Humans]]. Within that time, [[Origins]] also bound him to the Ancient Flame Fragment, linking him directly to [[Lagrange]] as of then. Near the end of Kingdom III, he decided to set up in a more rural section of [[Khazingrad]], also to continue his woodcraft.
+During the events of [[Kingdom SE]] and [[Kingdom III]] he was notably absent, deciding to stay back at his home dimension and work at wood carving from materials he got from [[Human|Humans]]. Within that time, [[Origins]] also bound him to the Ancient Flame Fragment, linking him directly to [[Lagrange]] as of then. Near the end of Kingdom III, he decided to set up in a more rural section of [[A1 - Khazingrad]], also to continue his woodcraft.
 
 ### TFCT
 

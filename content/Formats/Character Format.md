@@ -1,62 +1,34 @@
 > [!note]
-> This is a work-in-progress, but it should do. Everything below this Note is a part of the format. You don't need to know how to make the fancy blocks, just the section headers will suffice.
-> Also, the text inside the headers is just for your information. You don't need to include them. Unless they're bullet points, in which case that's Criteria. Note that *italicized* Criteria are very optional, **bold** Criteria are highly suggested.
+> Everything below this Note is a part of the format. The text inside the headers is just for your information. You don't need to include them.
 
-> [!quote]
-> Insert a quote for the OC here.
+> [!quote] Insert a quote for the OC here. Yes, in the title of the callout. It looks cleaner.
 
-> [!abstract] Metadata
-> Metadata is (mostly) [[Psychotropicz, Crazer|Crazer]]'s old format. Just the whole quick and fast info deal.
-> - **Full Name**
-> - *Nickname(s)*
-> - **Age**
-> - *Sexuality*
-> - **Language(s)**
-> - *Accent*
-> - **Gender**
-> - **Species** -> Optionally, include a Species format as well! Just if you ever want to.
-> - *Race*
-> - **Height**
-> - **Weight**
-> - *Current Occupation*
-> - **Author**
-> - **Applicable Groups** (doesn't need to be included if there aren't any, see the OC Groups folder for the listed groups, or make your own if you need to)
-
-> [!info] Species Info
-> Sometimes, the species you're working with requires specialized information. Put it here, whatever it may be.
+> [!abstract]
+> This is the Abstract. Include here what you want the person to read first. Keep it semi-brief, as it should give a rough idea of who the OC is without some of the finer details.
 
 ## History
 
 The OC's history goes here. However much you want to include.
 
-## Full Description
+## Personality
 
-It is highly recommend you include this part. Each section under this is its own H2 heading; "Full Description" isn't supposed to be used in the format.
+Self-explanatory.
 
-- **Personality**
-- **Appearance**
-- *Any other Necessary Info*
+## Appearance
+
+Self-explanatory. Also include height, weight, and other noteworthy statistics here.
 
 ## *Weapons, Abilities, whatever you want to call it!*
 
-This section is completely up to you, even the header names. I ([[Polytope]]) typically do Abilities, Extra Weapons, and Attributes. But, you do you! Creativity is definitely encouraged with this one.
+This section is completely up to you, even the header names. I ([[Polytope]]) typically do Weapons, Abilities, and Attributes. But, you do you! Creativity is definitely encouraged with this one.
 
 > [!example]
 > This is just an example of how the format is used. Don't include this in your submissions, please!
+>
+> > [!quote] i just shat my pants
 > 
-> Quote: "i just shat my pants"
-> - Name: john smith XVI
-> - Nickname: guy guy
-> - Age: staff years old (16)
-> - Sexuality: aggressively straight
-> - Language: american
-> - Gender: male
-> - Species: human
-> - Race: caucasian
-> - Height: 5 ft., 8 in.
-> - Weight: 150 lbs.
-> - Current Occupation: camp counselor (real)
-> - author: [[Polytope]]
+> > [!abstract]
+> > jim john is human who uh do thing yeah
 > 
 > ## History
 > he's just a guy

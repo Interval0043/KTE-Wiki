@@ -2,7 +2,7 @@
 
 The Astrals, referred to as the Astral Family, is a lineage sticking to one central theme: All of the Astrals have a cosmic influence that is embedded in their genetic code to awaken their dormant, powerful forms of magic.
 
-They do not view themselves as gods, merely mercenaries, reflecting upon the countless centuries they spent trying to better their living conditions inside of [[Unstable Catalyst]]. Despite their tremendous feats of strength and power, they were the main punching bags of the outlandish world they resided in. 
+They do not view themselves as gods, merely mercenaries, reflecting upon the countless centuries they spent trying to better their living conditions inside of [[E3 - Unstable Catalyst]]. Despite their tremendous feats of strength and power, they were the main punching bags of the outlandish world they resided in. 
 
 Tyrants that ruled over many militias in Unstable Catalyst placed huge bounties over their heads; physically and psychologically exhausted the family after countless attempts of staying under the radar. No matter where they went, they still had lived like prisoners due every faction aggressively pursuing to enslave them.
 
@@ -120,7 +120,7 @@ This slang is used to describe anything that is inherently difficult or incompre
 
 Unstable Catalyst norms and culture are not tolerated, and are in favor of Cryosilis norms (besides licking/grooming, which she and others in the family believes is more unsanitary than kissing). Theia instates this rule to prevent unnecessary violence or vulgarity, though some of the members fail to follow or really acknowledge this rule. It is also advised for a member to be on their best behavior in her presence.
 
-Theia is in charge of casting of secretive, required meetings concerning the well-being of the family, serving as a way for notice on potential shortcomings. Another notable thing about these meetings is that it isn’t required for a member of the family to be professional, as some members view it as a place to vent their frustrations, or ramble about other personal issues.
+Theia is in charge of casting secretive, non-negotiable meetings, usually in concern for the well-being of the family, serving as a way for notice on potential shortcomings. Another notable thing about these meetings is that it isn’t required for a member of the family to be professional, as some members view it as a place to vent their frustrations, or ramble about other personal issues.
 
 # $\text{V-I-R}\;20^{7\cdot 15}$ / The Net / $\Omega$ (Omega)
 

@@ -1,7 +1,6 @@
 
 
-> [!info] This page is currently under construction.
-> Changes will be made semi-frequently.
+> [!info] Region 1
 
 > [!success] Marked as an Assigned Protected Region.
 
@@ -43,9 +42,7 @@ The Harbor area is specifically meant for the local sections. For the much more 
 
 ### Ruins
 
-Some of the older buildings still exist here from thousands of years ago, giving a glimpse into the past of what the city once was. Preserved as a memorial and as a place for anyone to wander around, and look at.
-
-> [!todo] describe ruins in more detail
+Some of the older buildings still exist here from thousands of years ago, giving a glimpse into the past of what the city once was. Preserved as a memorial and as a place for anyone to wander around, and look at. Many of them have burn marks, attributed to [[Lagrange]]'s early activity as an arsonist.
 
 ### Simple Housing Sect
 
@@ -63,4 +60,6 @@ Since there's no driving, there's a parking garage on the edge of the district, 
 
 Not managed or developed by Khazingrad's City Council, but rather independently managed by other aquatic species in unison with one another. More will be put here as it's developed.
 
-## District: 
+## District: Reminder Recreation
+
+Led by [[Blizzard]], it's a very good attempt to recreate the main town present in [[Kingdom]], originally within [[Dimension 0]]. He's already cultivated a decent [[Slimanoid]] diaspora, all of them working in tandem to make something beautiful. It's the farthest district from Khazingrad, built up and forested to where it's as if the city around it doesn't exist. Noise, compound, and light pollution from the rest of the city don't make it to this section, letting it be one of the calmest places.
